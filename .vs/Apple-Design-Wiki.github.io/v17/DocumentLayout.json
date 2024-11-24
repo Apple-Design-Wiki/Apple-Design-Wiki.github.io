@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iMac1999\\index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iMac1999\\index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iBook, 1999\\index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iBook, 1999\\index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iBook, 1999\\iBook, 1999.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iBook, 1999\\iBook, 1999.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iMac, 1999 - \u526F\u672C\\iMac, 1999.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iMac, 1999 - \u526F\u672C\\iMac, 1999.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.json",
+              "DocumentMoniker": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iBook, 1999\\index.json",
+              "RelativeDocumentMoniker": "iBook, 1999\\index.json",
+              "ToolTip": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iBook, 1999\\index.json",
+              "RelativeToolTip": "iBook, 1999\\index.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T04:29:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iBook, 1999.json",
+              "DocumentMoniker": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iBook, 1999\\iBook, 1999.json",
+              "RelativeDocumentMoniker": "iBook, 1999\\iBook, 1999.json",
+              "ToolTip": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iBook, 1999\\iBook, 1999.json",
+              "RelativeToolTip": "iBook, 1999\\iBook, 1999.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T04:21:38.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.json",
+              "DocumentMoniker": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iMac1999\\index.json",
+              "RelativeDocumentMoniker": "iMac1999\\index.json",
+              "ToolTip": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iMac1999\\index.json",
+              "RelativeToolTip": "iMac1999\\index.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T04:20:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iMac, 1999.json",
+              "DocumentMoniker": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iMac, 1999 - \u526F\u672C\\iMac, 1999.json",
+              "RelativeDocumentMoniker": "iMac, 1999 - \u526F\u672C\\iMac, 1999.json",
+              "ToolTip": "D:\\Users\\Shomn\\OneDrive - MSFT\\Source\\Repos\\Apple-Design-Wiki.github.io\\iMac, 1999 - \u526F\u672C\\iMac, 1999.json",
+              "RelativeToolTip": "iMac, 1999 - \u526F\u672C\\iMac, 1999.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T04:03:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
