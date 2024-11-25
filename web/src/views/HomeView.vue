@@ -31,7 +31,11 @@ async function getAll() {
         console.error("请求错误:", error);
       });
   }
-  const arr = ["iBook1999", "iMac1999"]; // 假设这是您要请求的数据
+  // const arr = ["iBook1999", "iMac1999"]; // 假设这是您要请求的数据
+    
+  const data = await fetch('https://apple-design-wiki.github.io/index.json');
+  const arr = await data.json();
+
   const promises = arr.map((e) =>
     fetchData(`https://apple-design-wiki.github.io/${e}/index.json`)
   );
