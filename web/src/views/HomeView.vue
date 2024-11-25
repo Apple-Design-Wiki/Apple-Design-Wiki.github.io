@@ -33,10 +33,10 @@ async function getAll() {
   }
   // const arr = ["iBook1999", "iMac1999"]; // 假设这是您要请求的数据
     
-  const data = await fetch('https://apple-design-wiki.github.io/index.json');
-  const arr = await data.json();
+  // const data = await fetch('https://apple-design-wiki.github.io/index.json');
+  // const arr = await data.json();
 
-  const promises = arr.map((e) =>
+  const promises =    window.arr.map((e) =>
     fetchData(`https://apple-design-wiki.github.io/${e}/index.json`)
   );
   Promise.all(promises) .then((data) => {
