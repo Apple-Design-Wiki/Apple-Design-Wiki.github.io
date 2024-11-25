@@ -14,7 +14,9 @@
       </div>
     </div>
   </header>
-  <RouterView />
+  <div class="main">
+    <RouterView />
+  </div>
 </template>
 <script setup>
 
@@ -39,10 +41,18 @@ nav>a{ flex:1;white-space: nowrap;margin: 0 40px;font-weight: 600;}
 body,#app{
 	overflow: hidden;
 }
+.main{
+   height: calc(100vh - 80px);
+		overflow: auto;
+}
 @media only screen and (max-width: 1000px) { 
 	header{
 	  padding: 0 20px;
+    font-size:12px;
 	}
+  .main{
+  	padding: 10px 10px 0 10px;
+}
   nav>a{ flex:1;white-space: nowrap;margin: 0 10px;}
 }
 

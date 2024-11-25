@@ -4,8 +4,15 @@ const routes = [
   {
     path: '/',
     name: 'HomeView',
-    component: () => import('../views/HomeView.vue')
+    component: () => import('../views/HomeView.vue'),
+    meta: {
+      keepAlive: true
+    }
   }, 
+  {
+    path: '/detail',
+    component: () => import('../views/detail.vue')
+  },
   {
     path: '/404',
     component: () => import('../views/404.vue')
