@@ -1,4 +1,4 @@
-![g3qtr150.jpg](/PowerMac1999/g3qtr150.jpg)
+![g3qtr150.jpg](/PowerMacG31999/g3qtr150.jpg)
 
 在iMac获得成功之后，按照之前规划的2x2产品路线图，乔布斯和他的“A团队”开始着手打造剩下的三个象限内的产品。除了市场上的消费型台式机，他们还需要为消费者和专业人士打造专业的台式机和便携机。这几款机型，在接下来的几年时间里，都陆续推向了市场，在促使苹果公司不断壮大的同时，也使公司的设计团队在新技术、材料和生产方法等方面雄心勃勃。
 
@@ -13,6 +13,6 @@ G3机的成功是低调的。它从未像iMac一样，受到众人的瞩目和�
 ## 形式追随功能
 
 乔布斯在发布会上说了一句 “Design is not only about how it looks，but also about how it works”，在很多塔式机箱上，主板通常被固定在机箱内，这使得对配件的增减非常麻烦，在 PowerMacG3中，主板一侧的侧面板上方有一个按钮，按下即可弹开，主板可以摊平到桌面，用户可以非常方便地修改计算机配件。
-![unofficial_3483867_1.jpg](/PowerMac1999/unofficial_3483867_1.jpg)
-![unofficial_3483867_2.jpg](/PowerMac1999/unofficial_3483867_2.jpg)
-![g3open150.jpg](/PowerMac1999/g3open150.jpg)
+![unofficial_3483867_1.jpg](/PowerMacG31999/unofficial_3483867_1.jpg)
+![unofficial_3483867_2.jpg](/PowerMacG31999/unofficial_3483867_2.jpg)
+![g3open150.jpg](/PowerMacG31999/g3open150.jpg)
