@@ -28,4 +28,8 @@ const route = useRoute();
 img{
   max-width:100%;
 }
+p{
+  margin:10px 0;
+}
+
 </style>
