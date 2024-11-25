@@ -25,4 +25,7 @@ const route = useRoute();
 .detail{
     padding:2% 10%
 }
+img{
+  max-width:100%;
+}
 </style>
