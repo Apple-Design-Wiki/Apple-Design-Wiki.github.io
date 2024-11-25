@@ -1,4 +1,4 @@
-![imac_flowershot](/iMac1998/angled_original_imac_large_2x.png)
+![angled_original_imac_large_2x](/iMac1998/angled_original_imac_large_2x.png)
 
 ## 产品定义与设计主题
 
