@@ -42,8 +42,8 @@ body,#app{
 	overflow: hidden;
 }
 .main{
-   height: calc(100vh - 80px);
-		overflow: auto;
+   height: calc(100vh - 52px);
+	 overflow: auto;
 }
 @media only screen and (max-width: 1000px) { 
 	header{
