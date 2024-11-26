@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <div class="item" v-for="(item, index) in list" :key="index" @click="goToPage(item)" :style="{backgroundColor:item.bg}">
+    <div class="item" v-for="(item, index) in list" :key="index" @click="goToPage(item)" :style="{backgroundColor:item.bg,color:item.color}">
       <div class="left">
         <div class="title">{{ item.title }}</div>
         <div class="desc">{{ item.desc }}</div>
@@ -48,7 +48,8 @@ async function getAll() {
       data.forEach((item, index) => {
         list.push({ folder: item[0], 
           bg: item[3], 
-          title: item[1], desc: item[2], imgs: window.isPc ? item.slice(4).filter((e) => !e.includes("mobile")) : item.slice(4).filter((e) => e.includes("mobile")), });
+          color: item[4], 
+          title: item[1], desc: item[2], imgs: window.isPc ? item.slice(5).filter((e) => !e.includes("mobile")) : item.slice(5).filter((e) => e.includes("mobile")), });
       });
     })
     .catch((error) => {
