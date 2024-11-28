@@ -2,7 +2,7 @@ name: Deploy site to Github Pages
 
 on:
   push:
-    branches: [vitepress-prod]
+    branches: vitepress-prod
   workflow_dispatch:
 
 permissions:
