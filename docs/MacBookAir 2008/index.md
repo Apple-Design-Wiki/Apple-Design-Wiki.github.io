@@ -17,7 +17,7 @@
 ![三明治1015.png](./features_gal01_20080115.jpg)
 ![三明治1015.png](./features_gal02_20080115.jpg)
 ![三明治1015.png](./features_gal03_20080115.jpg)
-![三明治1015.png](./features_open_air20080115.jpg)
+![三明治1015.png](./features_open_air20080115.png)
 ![三明治1015.png](./mbair_3q.png)
 ![三明治1015.png](./mbair_front.png)
 ![三明治1015.png](./mbair_side.png)
