@@ -136,3 +136,25 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+
+#app {
+  > .Layout {
+    > .VPNav {
+      > .VPNavBar {
+        background: transparent;
+        backdrop-filter: blur(10px);
+      }
+      &:has(+ .VPLocalNav) {
+        > .VPNavBar {
+          > .divider {
+            display: none;
+          }
+        }
+      }
+    }
+    > .VPLocalNav {
+      background: transparent;
+      backdrop-filter: blur(10px);
+    }
+  }
+}

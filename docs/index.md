@@ -9,7 +9,7 @@ hero:
 ---
 
 <script setup lang="ts">
-import { data } from '../.vitepress/theme/wiki.data'
+import { data } from '.vitepress/theme/wiki.data'
 </script>
 
 <div class="main">
