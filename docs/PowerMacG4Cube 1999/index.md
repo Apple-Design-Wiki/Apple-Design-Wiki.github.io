@@ -1,6 +1,3 @@
-![imac_flowershot](./g4_cube_fam_shot.jpg)
-
-
 ![Imac_G3_5_flavors_side_lineup2](./g4_cube_fam_shot.png)
 
 
