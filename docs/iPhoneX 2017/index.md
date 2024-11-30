@@ -1,7 +1,7 @@
 ![gallery05-20100711.jpg](./iphone-x-gallery1-2017.jpg)
 
 ## 视频
-<video src="iphone-x-feature-cc-us-20170912_1280x720h.mp4" controls="controls"></video>
+
 
 ## 图库
 
