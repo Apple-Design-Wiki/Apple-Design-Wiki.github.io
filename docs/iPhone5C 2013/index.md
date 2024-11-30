@@ -2,11 +2,11 @@
 
 ## 视频
 
-<video src="iphone5c-designed-together-cc-us-20131011_848x480.mp4" ></video>
+<video src="./iphone5c-designed-together-cc-us-20131011_848x480.mp4" ></video>
 
-<video src="iphone5c-feature-cc-us-20131003_848x480.mp4" ></video>
+<video src="./iphone5c-feature-cc-us-20131003_848x480.mp4" ></video>
 
-<video src="iphone5c-plastic-perfected-cc-us-20131011_1920x1080h.mp4" ></video>
+<video src="./iphone5c-plastic-perfected-cc-us-20131011_1920x1080h.mp4" ></video>
 
 ## 图库
 
