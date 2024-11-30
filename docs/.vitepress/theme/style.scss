@@ -141,7 +141,7 @@
   > .Layout {
     > .VPNav {
       > .VPNavBar {
-        background: rgba(24, 24, 24, 0.18);
+        background: rgba(24, 24, 24, 0.854);
         backdrop-filter: blur(10px);
       }
       &:has(+ .VPLocalNav) {
@@ -153,7 +153,7 @@
       }
     }
     > .VPLocalNav {
-      background: rgba(24, 24, 24, 0.18);
+      background: rgba(24, 24, 24, 0.854);
       backdrop-filter: blur(10px);
     }
   }
