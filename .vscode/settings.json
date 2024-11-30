@@ -1,6 +1,9 @@
 {
   "cSpell.words": ["vitepress"],
   "files.exclude": {
-    "docs/.vitepress/cache": true
+    ".vscode": true,
+    "docs/.vitepress": false,
+    "docs/.vitepress/cache": true,
+    "**/.directory": true,
   }
 }
