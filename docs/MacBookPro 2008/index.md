@@ -110,6 +110,21 @@
 
 这还只是硬件方面的问题。Apple 软件工程师在触控板的开发中也发挥了重要作用。他们采用了 Multi-Touch 手势，包括滑动、捏合、旋转和新的四指滑动。最终打造出了有史以来最大、最智能、最符合人体工程学的 MacBook Pro 触控板。这只是设计过程中反复考虑的众多细节之一。
 
+## 图库
+
+![三明治1015.png](./overview-gallery1-20081021.png)
+![三明治1015.png](./overview-gallery2-20081014.jpg)
+![三明治1015.png](./overview-gallery3-20081014.jpg)
+![三明治1015.png](./overview-gallery4-20081014.jpg)
+![三明治1015.png](./overview-gallery5-20081014.jpg)
+![三明治1015.png](./overview-gallery6-20081014.jpg)
+![三明治1015.png](./overview-gallery7-20081014.jpg)
+
+![三明治1015.png](./features-gallery-front20081014.png)
+![三明治1015.png](./features-gallery-side20081014.png)
+![三明治1015.png](./features-gallery-top20081014.png)
+![三明治1015.png](./features-hero20081014.jpg)
+
 ## 环保
 
 新款 MacBook Pro 采用可回收玻璃和铝制成。
