@@ -11,10 +11,6 @@ on:
       # - main
       - valaxy
 
-permissions:
-  contents: read
-  pages: write 
-
 jobs:
   build:
     runs-on: ${{ matrix.os }}
