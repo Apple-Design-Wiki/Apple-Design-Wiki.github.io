@@ -1,22 +1,3 @@
-<script setup lang="ts">
-import { useFrontmatter, usePostList, useSidebar } from 'valaxy'
-import { computed } from 'vue'
-
-import { useRoute } from 'vue-router'
-
-const { isOpen, open, close } = useSidebar()
-const frontmatter = useFrontmatter()
-const route = useRoute()
-const posts = usePostList()
-
-function findCurrentIndex() {
-  return posts.value.findIndex(p => p.path === route.path)
-}
-
-const nextPost = computed(() => posts.value[findCurrentIndex() - 1])
-const prevPost = computed(() => posts.value[findCurrentIndex() + 1])
-</script>
-
 <template>
   <div class="oceanus-article oceanus-safe-padding mx-auto min-w-0">
     <aside />
