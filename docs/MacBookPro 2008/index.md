@@ -1,4 +1,7 @@
-![design_gal01_20080115.jpg](./redesigned20081014.jpg)
+
+## 介绍视频
+
+<video src="./apple_new_macbook_video_20081014_848x480.mp4" controls="controls"></video>
 
 ## 制造方式的彻底革新
 
