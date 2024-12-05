@@ -1,6 +1,6 @@
 @use 'valaxy/client/styles/mixins/index.scss' as *;
 
-// Opt-out of Auto Dark Theme 
+// Opt-out of Auto Dark Theme
 // @see https://developer.chrome.com/blog/auto-dark-theme#detecting-auto-dark-theme
 :root {
   color-scheme: only light;
@@ -15,6 +15,10 @@
 
 html.dark {
   --nav-background: var(--nav-background-dark);
+}
+
+.oceanus-main {
+  display: flex;
 }
 
 .oceanus-nav {
