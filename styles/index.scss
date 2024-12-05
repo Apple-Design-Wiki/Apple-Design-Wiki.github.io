@@ -1,5 +1,25 @@
+@use 'valaxy/client/styles/mixins/index.scss' as *;
+
 // Opt-out of Auto Dark Theme 
 // @see https://developer.chrome.com/blog/auto-dark-theme#detecting-auto-dark-theme
 :root {
   color-scheme: only light;
+
+  --nav-background-dark: #000;
+  --nav-background-light: #fff;
+}
+
+:root {
+  --nav-background: var(--nav-background-light);
+}
+
+html.dark {
+  --nav-background: var(--nav-background-dark);
+}
+
+.oceanus-nav {
+  @include mobile {
+    // https://github.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io/issues/27
+    background-color: var(--nav-background);
+  }
 }
