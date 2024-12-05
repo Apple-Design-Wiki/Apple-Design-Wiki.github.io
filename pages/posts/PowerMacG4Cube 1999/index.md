@@ -1,6 +1,6 @@
 ---
-title: PowerCubeG41999
-subtitle: PowerCubeG4, 1999
+title: PowerCubeG4Cube1999
+subtitle: PowerCubeG4Cube, 1999
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["PowerMacG4Cube 1999/title_image.jpg", "PowerMacG4Cube 1999/title_mobile_image.jpg"]
 ---
