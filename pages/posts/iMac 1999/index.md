@@ -7,6 +7,18 @@ cover: ["iMac 1999/title_image.jpg", "iMac 1999/title_mobile_image.jpg"]
 
 ![imac_flowershot](./imac_flowershot.jpg)
 
+#
+
+The level of translucency in the housing was achieved by mixing light-diffusing particles as part of the polymer composition, rather than by the traditional method of applying texture to the tool.
+
+A fanless, convection-cooled architecture unifies the top vents with the handle in a single injection-molded, polished-crystal polycarbonate part.
+
+A simple ball-and—socket joint adjusts the screen angle between 0 and 4 degrees.
+
+Light—diffusing particles within the resin act as opacifiers, defining the soft translucency of the Snow iMac housing.
+
+The Flower Power graphic was fused directly into the polycarbonate shell during the molding process.
+
 ## 五种颜色
 
 虽然史蒂夫·乔布斯喜爱iMac苹果一体机，但是这款产品刚一投入市场，他对产品配色的看法就变了。以他典型的二元化评判方式来看，他觉得自己讨厌邦迪蓝。“我喜欢这款产品，但是我们选错了颜色。”他这么告诉设计团队，“颜色不够鲜亮，欠缺活力。

@@ -6,6 +6,10 @@ cover: ["PowerMacG4Cube 1999/title_image.jpg", "PowerMacG4Cube 1999/title_mobile
 mode: dark
 ---
 
-![Imac_G3_5_flavors_side_lineup2](./g4_cube_fam_shot.png)
+The entire computer is suspended within a clear acrylic enclosure to enable a quiet, convection—cooled architecture. Hot air exhausts from the chimney on the top surface.
 
-乔布斯的决策意味着工厂必须生产5种机壳，零售商需要5种产品编号用于存货。这些潜在的物流问题都没有被探讨过。公司决策完全由设计主导:史蒂夫·乔布斯想要产品换上新颜色，物流问题可以稍后解决。
+![g4_cube_fam_shot](./g4_cube_fam_shot.png)
+
+A deployable handle provides access to the removable core. Cables pass through an opening in the acrylic to connect to the underside of the computer.
+
+![g4_cube_fam_shot](./deployable_handl.png)
