@@ -1,4 +1,4 @@
-# ![Apple Design Wiki Organization2](https://github.com/user-attachments/assets/0557928e-1f79-4a88-9c98-82c4d0e4181d) Apple Design Wiki
+# ![Apple Design Wiki Organization2](https://github.com/user-attachments/assets/d0293936-fc87-4441-a6d3-20396f025d9a) Apple Design Wiki
 
 Recording Apple's design epic
 
