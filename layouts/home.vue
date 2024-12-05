@@ -3,6 +3,6 @@
     <!-- <OceanusHero /> -->
     <OceanArticleList />
     <!-- <OceanusFeatureSection /> -->
-    <RouterView />
+    <!-- <RouterView /> -->
   </Layout>
 </template>

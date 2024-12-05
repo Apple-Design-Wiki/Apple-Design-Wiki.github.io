@@ -23,7 +23,7 @@ onMounted(() => {
 
 <template>
   <main flex="~" class="oceanus-valaxy-main apple-container">
-    <div>
+    <div class="apple-illustration">
       <div class="pt-[16px]" style="top: var(--oceanus-c-nav-height); width: var(--oceanus-c-aside-width);">
         <img :src="frontmatter.image as string || 'https://valaxy-theme-oceanus.vercel.app/assets/0311imac_20-zwr3Vp6a.png'">
       </div>
@@ -63,5 +63,33 @@ onMounted(() => {
 <style lang="scss" scoped>
 .apple-container {
   width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media only screen and (max-width: 1023px) {
+    width: 692px;
+  }
+
+  @media only screen and (max-width: 735px) {
+    width: 87.5%;
+  }
+}
+
+.apple-illustration {
+  @media only screen and (max-width: 1023px) {
+    display: none;
+  }
+}
+
+.apple-toc {
+  padding-left: 32px;
+
+  @media screen and (min-width: 1380px) {
+    margin-right: -201px;
+  }
+
+  @media only screen and (max-width: 767px) {
+    display: none;
+  }
 }
 </style>
