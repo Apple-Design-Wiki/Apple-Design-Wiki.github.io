@@ -81,6 +81,8 @@ onMounted(() => {
   }
 }
 
+// HACK: apple-toc 构建的时候 class 无法挂载，先用 last-child 暂时替代
+.apple-container > *:last-child,
 .apple-toc {
   padding-left: 32px;
 
