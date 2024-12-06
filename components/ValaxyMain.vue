@@ -25,7 +25,7 @@ onMounted(() => {
   <main flex="~" class="oceanus-valaxy-main apple-container">
     <div class="apple-illustration">
       <div class="pt-[16px]" style="top: var(--oceanus-c-nav-height); width: var(--oceanus-c-aside-width);">
-        <img :src="frontmatter.image as string || 'https://valaxy-theme-oceanus.vercel.app/assets/0311imac_20-zwr3Vp6a.png'">
+        <img :src="frontmatter.illustration as string || ''">
       </div>
     </div>
 

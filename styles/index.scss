@@ -10,11 +10,17 @@
 }
 
 :root {
+  --bg-color: #fff;
   --nav-background: var(--nav-background-light);
 }
 
 html.dark {
+  --bg-color: #000;
   --nav-background: var(--nav-background-dark);
+}
+
+body {
+  background-color: var(--bg-color);
 }
 
 .oceanus-main {
