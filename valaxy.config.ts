@@ -7,6 +7,11 @@ export default defineConfig<ThemeConfig>({
   themeConfig: {
     header: {
       favicon: '/favicon-black.svg',
+      // TODO: Next version update
+      // favicon: {
+      //   light: '/WebNavLogoDark',
+      //   dark: '/WebNavLogoWhite'
+      // },
 
       title: 'Apple Design Wiki',
 
