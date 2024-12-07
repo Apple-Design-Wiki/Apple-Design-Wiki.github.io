@@ -8,6 +8,8 @@ illustration: "https://raw.githubusercontent.com/Apple-Design-Wiki/Apple-Design-
 
 # iPhone 5C
 
+An injection—molded polycarbonate shell conceals a stainless steel structural frame. The logo was pad printed on the back of the enclosure prior to applying a hardcoat, while the text graphics were laser marked through the hardcoat into the polycarbonate resin.
+
 ## 视频
 
 <video src="./iphone5c-designed-together-cc-us-20131011_848x480.mp4" controls="controls"></video>
