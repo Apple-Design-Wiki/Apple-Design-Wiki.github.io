@@ -1,7 +1,7 @@
 ---
 title: iPhone5C2013
 subtitle: iPhone5C, 2013
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: An injection—molded polycarbonate shell conceals a stainless steel structural frame. The logo was pad printed on the back of the enclosure prior to applying a hardcoat, while the text graphics were laser marked through the hardcoat into the polycarbonate resin.
 cover: ["iPhone5C 2013/title_image.jpg", "iPhone5C 2013/title_mobile_image.jpg"]
 illustration: "https://raw.githubusercontent.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io/refs/heads/valaxy/pages/posts/iPhone5C%202013/hero_5c_blue_2x.png"
 ---
