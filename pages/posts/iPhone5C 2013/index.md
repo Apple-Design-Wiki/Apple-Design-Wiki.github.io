@@ -3,7 +3,7 @@ title: iPhone5C2013
 subtitle: iPhone5C, 2013
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["iPhone5C 2013/title_image.jpg", "iPhone5C 2013/title_mobile_image.jpg"]
-illustration: "iPhone5C 2013/hero_5c_blue_2x.png"
+illustration: "https://raw.githubusercontent.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io/refs/heads/valaxy/pages/posts/iPhone5C%202013/hero_5c_blue_2x.png"
 ---
 
 # iPhone 5C
