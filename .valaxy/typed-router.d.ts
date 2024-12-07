@@ -21,6 +21,7 @@ declare module 'vue-router/auto-routes' {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
     '/[...path]': RouteRecordInfo<'/[...path]', '/:path(.*)', { path: ParamValue<true> }, { path: ParamValue<false> }>,
     '/about': RouteRecordInfo<'/about', '/about', Record<never, never>, Record<never, never>>,
+    '/posts/AppleCinemaDisplay 1999/': RouteRecordInfo<'/posts/AppleCinemaDisplay 1999/', '/posts/AppleCinemaDisplay 1999', Record<never, never>, Record<never, never>>,
     '/posts/iBook 1999/': RouteRecordInfo<'/posts/iBook 1999/', '/posts/iBook 1999', Record<never, never>, Record<never, never>>,
     '/posts/iMac 1998/': RouteRecordInfo<'/posts/iMac 1998/', '/posts/iMac 1998', Record<never, never>, Record<never, never>>,
     '/posts/iMac 1999/': RouteRecordInfo<'/posts/iMac 1999/', '/posts/iMac 1999', Record<never, never>, Record<never, never>>,
