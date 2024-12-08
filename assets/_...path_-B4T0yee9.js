@@ -1,0 +1,1 @@
+import{d as n,x as s,c as a,u as c,q as r,o as p}from"./app-CpMnF-_e.js";const u=n({__name:"[...path]",setup(f){const o=c(),e=r();return s(()=>{e.path!=="/"&&e.path.endsWith("/")&&o.replace(e.path.slice(0,-1))}),(i,_)=>(p(),a("div"))}}),t={};typeof t=="function"&&t(u);export{u as default};

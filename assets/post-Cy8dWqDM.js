@@ -1,0 +1,1 @@
+import{_ as c,r as s,o as a,g as r,w as e,e as o,m as u,l}from"./app-CpMnF-_e.js";const p={};function m(i,f){const n=s("RouterView"),t=u,_=l;return a(),r(_,null,{default:e(()=>[o(t,null,{default:e(()=>[o(n)]),_:1})]),_:1})}const w=c(p,[["render",m]]);export{w as default};
