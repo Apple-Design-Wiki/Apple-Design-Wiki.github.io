@@ -1,0 +1,4 @@
+.prose :where(h1):not(:where(.not-prose, .not-prose *)):first-of-type {
+  margin-top: 70px;
+  margin-bottom: 150px;
+}

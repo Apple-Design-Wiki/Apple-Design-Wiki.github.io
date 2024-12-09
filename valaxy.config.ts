@@ -5,15 +5,15 @@ export default defineConfig<ThemeConfig>({
   theme: 'oceanus',
 
   themeConfig: {
-    header: {
-      favicon: '/favicon-black.svg',
-      // TODO: Next version update
-      // favicon: {
-      //   light: '/WebNavLogoDark',
-      //   dark: '/WebNavLogoWhite'
-      // },
+    outline: [2, 3],
 
-      title: 'Apple Design Wiki',
+    header: {
+      favicon: {
+        light: '/WebNavLogoDark.svg',
+        dark: '/WebNavLogoWhite.svg',
+      },
+
+      title: '',
 
       nav: [
         {

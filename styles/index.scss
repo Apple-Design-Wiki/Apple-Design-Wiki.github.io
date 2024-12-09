@@ -1,4 +1,6 @@
 @use 'valaxy/client/styles/mixins/index.scss' as *;
+@use './github-markdown.css' as *;
+@use './prose.scss' as *;
 
 // Opt-out of Auto Dark Theme
 // @see https://developer.chrome.com/blog/auto-dark-theme#detecting-auto-dark-theme
@@ -7,6 +9,8 @@
 
   --nav-background-dark: #000;
   --nav-background-light: #fff;
+  --aside-width-left: 400px;
+  --aside-width-right: 200px;
 }
 
 :root {
@@ -32,4 +36,16 @@ body {
     // https://github.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io/issues/27
     background-color: var(--nav-background);
   }
+}
+
+.apple-toc {
+  div {
+    padding-top: 0 !important;
+    width: var(--aside-width-right) !important;
+  }
+}
+
+.oceanus-nav > a > div {
+  // 自适应 Logo
+  height: 100% !important;
 }
