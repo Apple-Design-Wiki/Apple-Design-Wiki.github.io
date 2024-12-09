@@ -55,7 +55,7 @@ const aside = computed(() => props.frontmatter.aside !== false)
 
 <style lang="scss" scoped>
 .apple-container {
-  width: 980px;
+  width: 1180px;
   margin-left: auto;
   margin-right: auto;
 

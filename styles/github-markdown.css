@@ -21,7 +21,6 @@ html.dark {
   .markdown-body,
   [data-theme='dark'] {
     /* dark */
-    color-scheme: dark;
     --focus-outlineColor: #1f6feb;
     --fgColor-default: #f0f6fc;
     --fgColor-muted: #9198a1;
@@ -78,7 +77,6 @@ html.dark {
   .markdown-body,
   [data-theme='light'] {
     /* light */
-    color-scheme: light;
     --focus-outlineColor: #0969da;
     --fgColor-default: #1f2328;
     --fgColor-muted: #59636e;
