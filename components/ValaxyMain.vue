@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import type { PageData, Post } from 'valaxy'
-import { useAppStore, useSiteConfig } from 'valaxy'
-import { computed, onMounted } from 'vue'
+import { useSiteConfig } from 'valaxy'
+import { computed } from 'vue'
 
 const props = defineProps<{
   frontmatter: Post
@@ -9,16 +9,8 @@ const props = defineProps<{
 }>()
 
 const siteConfig = useSiteConfig()
-const appStore = useAppStore()
 
 const aside = computed(() => props.frontmatter.aside !== false)
-
-onMounted(() => {
-  if (props.frontmatter.mode === 'dark') {
-    if (!appStore.isDark)
-      appStore.toggleDark()
-  }
-})
 </script>
 
 <template>
@@ -85,6 +77,7 @@ onMounted(() => {
 // HACK: apple-toc 构建的时候 class 无法挂载，先用 last-child 暂时替代
 .apple-container > *:last-child,
 .apple-toc {
+  padding-top: 260px;
   padding-left: 32px;
 
   @media screen and (min-width: 1380px) {

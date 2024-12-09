@@ -1,4 +1,5 @@
 @use 'valaxy/client/styles/mixins/index.scss' as *;
+@use './github-markdown.css' as *;
 @use './prose.scss' as *;
 
 // Opt-out of Auto Dark Theme
@@ -8,7 +9,7 @@
 
   --nav-background-dark: #000;
   --nav-background-light: #fff;
-  --aside-width-left: 250px;
+  --aside-width-left: 400px;
   --aside-width-right: 200px;
 }
 
@@ -39,6 +40,12 @@ body {
 
 .apple-toc {
   div {
+    padding-top: 0 !important;
     width: var(--aside-width-right) !important;
   }
+}
+
+.oceanus-nav > a > div {
+  // 自适应 Logo
+  height: 100% !important;
 }

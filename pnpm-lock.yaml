@@ -12,8 +12,8 @@ importers:
         specifier: ^0.20.0
         version: 0.20.6(@babel/parser@7.26.2)(@types/markdown-it@14.1.2)(@types/node@22.10.1)(axios@1.7.9)(postcss@8.4.49)(rollup@4.28.0)(terser@5.36.0)(tsx@4.19.2)(typescript@5.7.2)(unhead@1.11.13)(yaml@2.6.1)
       valaxy-theme-oceanus:
-        specifier: 0.0.1-alpha.1
-        version: 0.0.1-alpha.1(vue@3.5.13(typescript@5.7.2))
+        specifier: 0.0.1-alpha.2
+        version: 0.0.1-alpha.2(vue@3.5.13(typescript@5.7.2))
     devDependencies:
       '@antfu/eslint-config':
         specifier: ^3.11.2
@@ -4076,8 +4076,8 @@ packages:
     resolution: {integrity: sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==}
     hasBin: true
 
-  valaxy-theme-oceanus@0.0.1-alpha.1:
-    resolution: {integrity: sha512-fzprb3b/+6opd/PVoClxG6kOCgslm3ZkaGiEv2PYUq9L2il5xooA+6IlP0LTrzxqZhb0P7uTh0YcyVI9W55Zhw==}
+  valaxy-theme-oceanus@0.0.1-alpha.2:
+    resolution: {integrity: sha512-m3h3wGrnP2cDQR9fxut4nFlwp4DWmY5KsP6lwV2oQlHJ1nKkKeL1TVK0TP/mlSvJYLIOMWO1i6CHWEvBaQgOSw==}
 
   valaxy@0.20.6:
     resolution: {integrity: sha512-H3hkrUKzSfAd3S0rHIb4BKBQqQco075CCoSlGGrHH5FgTMoQ365+n6pmAndMUY4ejoGIx2XJmYCPZ5a9+lGmRQ==}
@@ -8852,7 +8852,7 @@ snapshots:
 
   uuid@9.0.1: {}
 
-  valaxy-theme-oceanus@0.0.1-alpha.1(vue@3.5.13(typescript@5.7.2)):
+  valaxy-theme-oceanus@0.0.1-alpha.2(vue@3.5.13(typescript@5.7.2)):
     dependencies:
       '@iconify-json/tabler': 1.2.10
       primevue: 4.2.4(vue@3.5.13(typescript@5.7.2))
