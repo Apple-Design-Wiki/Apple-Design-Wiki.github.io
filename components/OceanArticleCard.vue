@@ -36,10 +36,6 @@ defineProps<{
   // margin: 1em 0;
   overflow: hidden;
 
-  &:hover {
-    background: #f5f5f5;
-  }
-
   .article-card-title {
     font-size: 18px;
     font-weight: 700;
@@ -65,14 +61,10 @@ defineProps<{
       width: 100%;
       height: 100%;
       object-fit: cover;
-      filter: brightness(1);
-      transition:
-        transform 400ms cubic-bezier(0.4, 0, 0.25, 1),
-        filter 400ms cubic-bezier(0.4, 0, 0.25, 1);
+      transition: transform 400ms cubic-bezier(0.4, 0, 0.25, 1);
 
       &:hover {
         transform: scale(1.03);
-        filter: brightness(0.85);
       }
     }
   }
@@ -80,10 +72,6 @@ defineProps<{
   &.dark-mode {
     color: #fff;
     background-color: #000;
-
-    &:hover {
-      background: #201f1e;
-    }
   }
 }
 </style>

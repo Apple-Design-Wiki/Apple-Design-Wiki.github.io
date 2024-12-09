@@ -24,7 +24,8 @@ onMounted(() => {
 <template>
   <main flex="~" class="oceanus-valaxy-main apple-container">
     <div class="apple-illustration">
-      <div class="pt-[16px]" style="top: var(--oceanus-c-nav-height); width: var(--oceanus-c-aside-width);">
+      <!-- mt-70 + mb-150 + line-height-40 -->
+      <div class="pt-[260px]" style="top: var(--oceanus-c-nav-height); width: var(--aside-width-left);">
         <img :src="frontmatter.illustration as string || ''">
       </div>
     </div>
