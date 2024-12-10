@@ -1,0 +1,1 @@
+import{d as n,v as s,c as a,j as c,p as r,o as p}from"./app-DZne7Ve4.js";const u=n({__name:"[...path]",setup(f){const o=c(),e=r();return s(()=>{e.path!=="/"&&e.path.endsWith("/")&&o.replace(e.path.slice(0,-1))}),(i,_)=>(p(),a("div"))}}),t={};typeof t=="function"&&t(u);export{u as default};
