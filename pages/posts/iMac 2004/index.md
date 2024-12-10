@@ -1,7 +1,7 @@
 ---
 title: iMac2004
 subtitle: iMac, 2004
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 在前进中后退。新式的光驱使得iMac可以将整个机身至于平面显示器后方，在今天看来，这有些笨重。
 cover: ["iMac 2004/title_image.png", "iMac 2004/title_mobile_image.png"]
 ---
 
