@@ -4,9 +4,14 @@ subtitle: iPhone, 2007
 categories: Valaxy Notes
 content: Translucent, durable polyurethane was molded over the textured polycarbonate housing. Encapsulated within polycarbonate resin, a die-cast metal core forms the retractable handle.
 cover: ["iPhone 2007/title_image.png", "iPhone 2007/title_mobile_image.png"]
+illustration: "https://apple-design-wiki.github.io/assets/2008-15-1924-a-1EF8_JEi.jpg"
 ---
 
-![PowerMacG4.jpg](./iphone_inhandhome.png)
+# iPhone
+
+
+
+## 开发历程
 
 从2003年年末的一个早上，就在iPodmini发布前，乔纳森和他的团队像往常一样，围坐在工作室的餐桌旁，举行每两周一次的头脑风暴会议。会上，工业设计师邓肯·克尔对产品做了展示说明。克尔是在1999年加入苹果的设计团队的，之前曾在艾迪欧工作过几年，有丰富的工程学经验，平时喜欢摆弄一些高科技产品。
 
@@ -202,6 +207,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ## 图库
 
+![PowerMacG4.jpg](./iphone_inhandhome.png)
 ![1837.png](./2008-15-1924-a.jpg)
 ![1837.png](./2008-15-1924-b.jpg)
 ![1837.png](./2008-15-1924-b.jpg)
