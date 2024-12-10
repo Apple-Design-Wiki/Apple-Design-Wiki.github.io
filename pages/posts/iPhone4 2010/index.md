@@ -2,7 +2,7 @@
 title: iPhone42010
 subtitle: iPhone4, 2010
 categories: Valaxy Notes
-content: Translucent, durable polyurethane was molded over the textured polycarbonate housing. Encapsulated within polycarbonate resin, a die-cast metal core forms the retractable handle.
+content: 世界上最漂亮的手机，就像一台老式的徕卡相机。由不锈钢作为天线，前后玻璃背板形成三明治结构。
 cover: ["iPhone4 2010/title_image.jpg", "iPhone4 2010/title_mobile_image.jpg"]
 mode: dark
 ---
