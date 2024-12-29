@@ -1,5 +1,5 @@
 ---
-title: MacMini 2010-2017
+title: MacMini 2010
 subtitle: MacMini，2010
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["MacMini 2010/title_image.jpg", "MacMini 2010/title_mobile_image.jpg"]
