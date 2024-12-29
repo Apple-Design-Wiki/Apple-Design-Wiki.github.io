@@ -5,6 +5,8 @@ content: The iMac form was driven by its primary component, the 15��inch blo
 cover: ["MacMini 2010/title_image.jpg", "MacMini 2010/title_mobile_image.jpg"]
 ---
 
+# Mac mini 2010-2022
+
 ## 首次采用 Unibody 的 Mac Mini
 
 相较于旧款，只在四周立面使用铝合金，新款首次采用一体成型设计
