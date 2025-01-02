@@ -2,7 +2,7 @@
 title: iPodTouch2010
 subtitle: iPod Touch, 2010
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["iPodTouch 2010/title_image.jpg", "iPodTouch 2010/title_mobile_image.jpg"]
+cover: ["iPodTouch 2010/title_image.png", "iPodTouch 2010/title_mobile_image.png"]
 illustration: "./image2_20101116.jpg"
 ---
 
