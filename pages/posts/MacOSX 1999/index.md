@@ -227,7 +227,7 @@ MacPaint 在前台时,这整条菜单栏就是给 MacPaint用的，传达出强�
 
 ![alt text](./v2-3a61236adef57145a98f0916387e175b_1440w.png)
 
-上面我们提到了 Mac OS 中「窗口归属于应用」的说法。这表明应用实例没有被绑定到单个窗口上，多份文档是直接存在于同一个应用名下的。这在 GUI 领域被称为 Multiple Document Interface(MDI)
+上面我们提到了 Mac OS 中“窗口归属于应用”的说法。这表明应用实例没有被绑定到单个窗口上，多份文档是直接存在于同一个应用名下的。这在 GUI 领域被称为 Multiple Document Interface(MDI)
 
 和使用 80 年代技术的旧版 Mac OS 相比之下，90 年代的后来者 Windows 具备了一项代差级别的技术优势，那就是基于 NT内核的抢占式多任务支持。这使得每个窗口都可以加载为独立的应用实例，并由 OS 自动调度，也就是所谓的「真后台」。这时候要打开 N份文档，直接启动逻辑上的多份应用就行了。这就是所谓的 Single Document Interface(SDl)式 GUI 了。
 
@@ -237,7 +237,7 @@ MacPaint 在前台时,这整条菜单栏就是给 MacPaint用的，传达出强�
 
 ![alt text](./v2-87f96594b6f6ad24fff55fb625fab0bf_1440w.webp)
 
-如果基于朴素的 SDI，打开 10 个浏览器页面(文档)就会带来 10 个窗口。再比如对于开发者而言，同时打开几个项目中十几个不同的代码文件(文档)的需求也非常常见。这时如果直接在几十个独立的窗口之间切换，效率显然是很低的。这种工作场景下的窗口分组管理需求，自然地催生出了基于标签的 Tab Document Interface(TDl)式 GUI。
+如果基于朴素的 SDI，打开 10 个浏览器页面(文档)就会带来 10 个窗口。再比如对于开发者而言，同时打开几个项目中十几个不同的代码文件(文档)的需求也非常常见。这时如果直接在几十个独立的窗口之间切换，效率显然是很低的。这种工作场景下的窗口分组管理需求，自然地催生出了基于标签的 Tab Document Interface(TDI)式 GUI。
 
 ### 时间维度
 
@@ -257,18 +257,18 @@ MacPaint 在前台时,这整条菜单栏就是给 MacPaint用的，传达出强�
 
 ## 图库
 
-![alt text](./Macosx100.png)
-![alt text](./Macosx100_2.png)
-![alt text](./Macosx100_3.png)
-![alt text](./Macosx100_4.png)
-![alt text](./Macosx100_5.png)
-![alt text](./Macosx100_6.png)
-![alt text](./Macosx100_7.png)
-![alt text](./Macosx100_8.png)
-![alt text](./Macosx100_9.png)
-![alt text](./Macosx100_10.png)
-![alt text](./Macosx100_11.png)
-![alt text](./Macosx100_12.png)
-![alt text](./Macosx100_13.png)
-![alt text](./Macosx100_14.png)
-![alt text](./Macosx100_15.png)
+![alt text](./macosx100.png)
+![alt text](./macosx100_2.png)
+![alt text](./macosx100_3.png)
+![alt text](./macosx100_4.png)
+![alt text](./macosx100_5.png)
+![alt text](./macosx100_6.png)
+![alt text](./macosx100_7.png)
+![alt text](./macosx100_8.png)
+![alt text](./macosx100_9.png)
+![alt text](./macosx100_10.png)
+![alt text](./macosx100_11.png)
+![alt text](./macosx100_12.png)
+![alt text](./macosx100_13.png)
+![alt text](./macosx100_14.png)
+![alt text](./macosx100_15.png)
