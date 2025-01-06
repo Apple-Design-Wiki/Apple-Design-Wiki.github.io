@@ -1,11 +1,11 @@
 ---
 title: MacOSX1999
 subtitle: Mac OS X, 1999
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["MacOSX 1999/title_image.jpg", "MacOSX 1999/title_mobile_image.jpg"]
+content: 代号为 Aqua 的新一代 Mac OS X 界面.
+cover: ["MacOSX 1999/title_image.png", "MacOSX 1999/title_mobile_image.png"]
 # mode: dark
 ---
-# Mac OS X
+# Aqua
 
 ## 开发过程
 
@@ -116,7 +116,7 @@ Mac OS X 将这个从桌面与窗口隐喻发展出来的图像用户界面带�
 
 - 当单击时，堆栈的内容将会从图标后面弹出。
 
-- 在 Mac OS X Public Beta 中，拖到桌面上的停靠项目会消失，就像“掉落”在桌面上一样。这种行为在 Mac OS X 10.0 中发生了改变；从此版本开始，拖出停靠的项目会以卡通般的烟雾形式“消失”，Apple 后来在各个地方使用了这种效果（例如 Safari 的书签栏和 iPhoto 的标签删除）。Apple 的Newton OS中使用了类似的效果。在 OS X 10.10 Yosemite 中，这种效果不再存在；项目只是消失了，但是当启动设备（例如外部硬盘）与计算机断开连接时，仍然可以在基于 Intel 的 Mac 计算机的启动选择器上看到它。
+- 在 Mac OS X Public Beta 中，拖到桌面上的停靠项目会消失，就像“掉落”在桌面上一样。这种行为在 Mac OS X 10.0 中发生了改变；从此版本开始，拖出停靠的项目会以卡通般的烟雾形式“消失”，Apple 后来在各个地方使用了这种效果（例如 Safari 的书签栏和 iPhoto 的标签删除）。Apple 的 Newton OS中使用了类似的效果。在 OS X 10.10 Yosemite 中，这种效果不再存在；项目只是消失了，但是当启动设备（例如外部硬盘）与计算机断开连接时，仍然可以在基于 Intel 的 Mac 计算机的启动选择器上看到它。
 
 - 当使用快速用户切换时，Apple 的“立方体”效果用于在桌面和/或登录窗口之间转移。
 
