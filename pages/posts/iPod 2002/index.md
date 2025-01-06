@@ -9,8 +9,8 @@ cover: ["iPod 2002/title_image.png", "iPod 2002/title_mobile_image.png"]
 
 ## 图库
 
-![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_front.png)
-![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_box.png)
-![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_case.png)
-![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_phones.png)
-![Imac_G3_5_flavors_side_lineup2](./02nyipod_ibook.png)
+![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_front.jpg)
+![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_box.jpg)
+![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_case.jpg)
+![Imac_G3_5_flavors_side_lineup2](./02ny_ipod_phones.jpg)
+![Imac_G3_5_flavors_side_lineup2](./02nyipod_ibook.jpg)
