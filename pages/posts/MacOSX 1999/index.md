@@ -122,7 +122,7 @@ Mac OS X 将这个从桌面与窗口隐喻发展出来的图像用户界面带�
 
 ### Dock 的放大效果
 
-<video src=".\Brief-demo-of-Mac-OS-X-10.0-Cheetah-on-MacBook-Air-M1-_emulated-using-QEMU_.mp4" controls="controls" ></video>
+<video src=".\Brief-demo-of-Mac-OS-X-10.0-Cheetah-on-MacBook-Air-M1-_emulated-using-QEMU_.mp4" autoplay="autoplay" ></video>
 
 我们一直努力要从上一个Mac OS版本的操作模式中，提炼出更纯熟的做法。我们知道人们希望有一个简单的方法可以执行程序与文件，需要好的方法管理窗口并将它们缩小化，让他们可以很快再找到它。在上一个Mac OS版本中有许多不同设定可满足他们的需求，但那似乎零零散散的，而我们希望找到一个集中、一致的做法，让他们更容易操作。而“停驻”( Dock)似乎是解决问题的好方法。
 
