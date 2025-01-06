@@ -102,7 +102,7 @@ Mac OS X 将这个从桌面与窗口隐喻发展出来的图像用户界面带�
 
 胶囊形的按钮有两种：白色和蓝色。蓝色按钮是默认操作，有深浅两种蓝色交替闪烁
 
-![alt text](./Button.png)
+![alt text](./Button.png) <video src=".\button.mp4" autoplay="autoplay" ></video>
 
 ## 动画
 
