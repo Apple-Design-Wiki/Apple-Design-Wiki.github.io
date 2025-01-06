@@ -214,7 +214,7 @@ Mac OS X 的菜单栏继承了 Mac OS 的设计，这里补充 Mac OS 菜单栏�
 
 - 用户应该尽量“停在这个应用里”，规避几余的切换和重新打开
 
-为此，乔帮主手下的 Bil Atkinson 设计出了经典的全局菜单栏。比如下图中 MacPaint 在前台时,这整条菜单栏就是给 MacPaint 用的，传达出强烈的“现在是我在台上”的感觉:
+为此，乔布斯手下的 Bil Atkinson 设计出了经典的全局菜单栏。比如下图中 MacPaint 在前台时,这整条菜单栏就是给 MacPaint 用的，传达出强烈的“现在是我在台上”的感觉:
 
 ![alt text](./v2-15b3c7c6d43e30d8adb25b53b15d8a5a_r.png)
 
