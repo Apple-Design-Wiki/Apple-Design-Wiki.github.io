@@ -47,9 +47,11 @@ const aside = computed(() => props.frontmatter.aside !== false)
       <slot name="footer" />
     </slot>
 
-    <OceanusToc v-if="aside" class="apple-toc">
-      <slot name="aside-custom" />
-    </OceanusToc>
+    <div class="apple-toc">
+      <OceanusToc v-if="aside" class="pt-[16px]">
+        <slot name="aside-custom" />
+      </OceanusToc>
+    </div>
   </main>
 </template>
 

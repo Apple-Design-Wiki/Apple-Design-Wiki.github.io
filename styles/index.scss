@@ -11,11 +11,14 @@
   --nav-background-light: #fff;
   --aside-width-left: 400px;
   --aside-width-right: 200px;
+  --oceanus-c-border-line: transparent !important;
 }
 
 :root {
   --bg-color: #fff;
   --nav-background: var(--nav-background-light);
+
+  --oceanus-c-nav-bg: rgba(240, 240, 240, 0.8);
 }
 
 html.dark {
@@ -32,6 +35,8 @@ body {
 }
 
 .oceanus-nav {
+  border-bottom: none;
+
   @include mobile {
     // https://github.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io/issues/27
     background-color: var(--nav-background);
@@ -40,7 +45,7 @@ body {
 
 .apple-toc {
   div {
-    padding-top: 0 !important;
+    // padding-top: 0 !important;
     width: var(--aside-width-right) !important;
   }
 }
@@ -48,4 +53,17 @@ body {
 .oceanus-nav > a > div {
   // 自适应 Logo
   height: 100% !important;
+}
+
+.microsoft-yahei {
+  font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+}
+
+.oceanus-aside {
+  width: none !important;
+}
+
+// Enlarge the logo picture forcibly
+.nav-content-header > a {
+  height: 100%;
 }
