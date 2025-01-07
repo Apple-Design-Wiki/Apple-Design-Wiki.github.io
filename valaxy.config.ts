@@ -13,7 +13,10 @@ export default defineConfig<ThemeConfig>({
     },
 
     navTitle: false,
-    navTools: [['search']],
+    navTools: [['search', {
+      icon: 'i-ri-github-fill',
+      link: 'https://github.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io'
+    }]],
 
     hero: {
       title: 'Apple Design Wiki',
