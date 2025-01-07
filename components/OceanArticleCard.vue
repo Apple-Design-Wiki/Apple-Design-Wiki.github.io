@@ -1,13 +1,39 @@
 <script lang="ts" setup>
 import type { Post } from 'valaxy'
+import { useEventListener, useThrottleFn } from '@vueuse/core'
+import { useAppStore } from 'valaxy'
+import { onMounted, ref } from 'vue'
 
-defineProps<{
+const props = defineProps<{
   post: Post
 }>()
+
+const appStore = useAppStore()
+
+const articleCard = ref()
+
+function checkIfAtTop() {
+  const rect = articleCard.value.getBoundingClientRect()
+  if (rect.top <= 0) {
+    const mode = props.post.mode
+
+    if (mode === 'dark' && !appStore.isDark) {
+      appStore.toggleDark()
+    }
+    else if (mode !== 'dark' && appStore.isDark) {
+      appStore.toggleDark()
+    }
+  }
+}
+
+onMounted(() => {
+  const throttledCheckIfAtTop = useThrottleFn(checkIfAtTop, 100)
+  useEventListener(document, 'scroll', throttledCheckIfAtTop)
+})
 </script>
 
 <template>
-  <article class="article-card md:flex" flex="~ <md:col" :class="{ 'dark-mode': post.mode === 'dark' }">
+  <article ref="articleCard" class="article-card md:flex" flex="~ <md:col" :class="{ 'dark-mode': post.mode === 'dark' }">
     <div class="article-card-content" w="md:31%" h="full" z-1>
       <div class="article-card-title">
         {{ post.subtitle }}
