@@ -2,7 +2,7 @@
 title: iPhoneX2017
 subtitle: iPhoneX, 2017
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["iPhoneX 2017/title_image.jpg", "iPhoneX 2017/title_mobile_image.jpg"]
+cover: ["imgs/iPhoneX 2017/title_image.jpg", "imgs/iPhoneX 2017/title_mobile_image.jpg"]
 ---
 
 ![gallery05-20100711.jpg](./iphone-x-gallery1-2017.jpg)

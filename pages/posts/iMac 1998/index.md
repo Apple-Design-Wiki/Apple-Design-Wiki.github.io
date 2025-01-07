@@ -2,7 +2,7 @@
 title: iMac 1998
 subtitle: iMac, 1998
 content: The iMac form was driven by its primary component, the 15inch blown-glass cathode ray tube.
-cover: ["iMac 1998/title_image.png", "iMac 1998/title_mobile_image.png"]
+cover: ["imgs/iMac 1998/title_image.png", "imgs/iMac 1998/title_mobile_image.png"]
 ---
 
 ![angled_original_imac_large_2x](./angled_original_imac_large_2x.png)
