@@ -8,7 +8,7 @@ defineProps<{
 
 <template>
   <article class="article-card md:flex" flex="~ <md:col" :class="{ 'dark-mode': post.mode === 'dark' }">
-    <div class="article-card-content" w="md:31%" h="full">
+    <div class="article-card-content" w="md:31%" h="full" z-1>
       <div class="article-card-title">
         {{ post.subtitle }}
       </div>
