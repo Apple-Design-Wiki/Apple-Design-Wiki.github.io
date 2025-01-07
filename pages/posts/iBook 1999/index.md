@@ -2,7 +2,7 @@
 title: iBook 1999
 subtitle: iBook, 1999
 content: Translucent, durable polyurethane was molded over the textured polycarbonate housing. Encapsulated within polycarbonate resin, a die-cast metal core forms the retractable handle.
-cover: ["iBook 1999/title_image.png", "iBook 1999/title_mobile_image.png"]
+cover: ["imgs/iBook 1999/title_image.png", "imgs/iBook 1999/title_mobile_image.png"]
 ---
 
 ![88573_iBook_T_Top_H](./88573_iBook_T_Top_H.png)

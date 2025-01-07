@@ -2,7 +2,7 @@
 title: PowerCubeG4Cube1999
 subtitle: PowerCubeG4Cube, 1999
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["PowerMacG4Cube 1999/title_image.png", "PowerMacG4Cube 1999/title_mobile_image.png"]
+cover: ["imgs/PowerMacG4Cube 1999/title_image.png", "imgs/PowerMacG4Cube 1999/title_mobile_image.png"]
 ---
 
 The entire computer is suspended within a clear acrylic enclosure to enable a quiet, convection—cooled architecture. Hot air exhausts from the chimney on the top surface.

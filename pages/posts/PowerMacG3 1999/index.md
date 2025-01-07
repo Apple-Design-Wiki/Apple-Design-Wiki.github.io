@@ -2,7 +2,7 @@
 title: PowerMacG31999
 subtitle: PowerMacG3, 1999
 content: Translucent, durable polyurethane was molded over the textured polycarbonate housing. Encapsulated within polycarbonate resin, a die-cast metal core forms the retractable handle.
-cover: ["PowerMacG3 1999/title_image.jpg", "PowerMacG3 1999/title_mobile_image.jpg"]
+cover: ["imgs/PowerMacG3 1999/title_image.jpg", "imgs/PowerMacG3 1999/title_mobile_image.jpg"]
 ---
 
 ![g3qtr150.jpg](./g3qtr150.jpg)

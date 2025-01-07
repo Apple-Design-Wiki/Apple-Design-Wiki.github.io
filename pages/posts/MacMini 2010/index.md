@@ -2,7 +2,7 @@
 title: MacMini 2010
 subtitle: MacMini，2010
 content: 首个采用 Unibody 一体成型铝合金的 Mac mini
-cover: ["MacMini 2010/title_image.jpg", "MacMini 2010/title_mobile_image.jpg"]
+cover: ["imgs/MacMini 2010/title_image.jpg", "imgs/MacMini 2010/title_mobile_image.jpg"]
 ---
 
 # Mac mini 2010-2022

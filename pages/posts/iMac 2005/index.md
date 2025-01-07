@@ -2,7 +2,7 @@
 title: iMac2005
 subtitle: iMac, 2005
 content: 在后退中前进——iMac 的一小步，造型的一大步。背面造型从几乎平直的面改为了类似蛋壳面的曲面，这一改变也为 2008 款的曲面奠定了基础。
-cover: ["iMac 2005/title_image.webp", "iMac 2005/title_mobile_image.webp"]
+cover: ["imgs/iMac 2005/title_image.webp", "imgs/iMac 2005/title_mobile_image.webp"]
 ---
 
 ![imac_flowershot](./2006-10-0834-c.jpg)

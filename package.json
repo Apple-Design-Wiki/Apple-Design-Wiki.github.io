@@ -11,8 +11,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "^0.20.0",
-    "valaxy-theme-oceanus": "0.0.1-alpha.2"
+    "valaxy": "^0.22.6",
+    "valaxy-theme-oceanus": "0.0.4-alpha.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.11.2",

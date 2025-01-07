@@ -2,7 +2,7 @@
 title: iMac1999
 subtitle: iMac, 1999
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["iMac 1999/title_image.jpg", "iMac 1999/title_mobile_image.jpg"]
+cover: ["imgs/iMac 1999/title_image.jpg", "imgs/iMac 1999/title_mobile_image.jpg"]
 ---
 
 ![imac_flowershot](./imac_flowershot.jpg)
