@@ -9,8 +9,7 @@ export default defineAppSetup((ctx) => {
   const appStore = useAppStore()
 
   router.afterEach((to, _from, _next) => {
-    const frontmatter = to.meta?.frontmatter?.value
-    const mode = frontmatter?.mode
+    const mode = to.meta?.frontmatter?.mode
 
     if (mode === 'dark' && !appStore.isDark) {
       appStore.toggleDark()
