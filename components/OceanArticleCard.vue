@@ -3,7 +3,6 @@ import type { Post } from 'valaxy'
 
 defineProps<{
   post: Post
-  imagePosition: boolean
 }>()
 </script>
 
