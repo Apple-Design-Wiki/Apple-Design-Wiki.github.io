@@ -2,7 +2,7 @@
 title: MacOSX2004
 subtitle: MacOSX, 2004
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["MacOSX 2004/title_image.png", "MacOSX 2004/title_mobile_image.png"]
+cover: ["imgs/MacOSX 2004/title_image.png", "imgs/MacOSX 2004/title_mobile_image.png"]
 ---
 
 # Mac OS X 10.2
