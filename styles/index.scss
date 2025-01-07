@@ -26,6 +26,10 @@ html.dark {
   --nav-background: var(--nav-background-dark);
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: var(--bg-color);
 }
