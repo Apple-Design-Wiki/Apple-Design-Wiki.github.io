@@ -6,6 +6,9 @@ cover: ["imgs/MacPro 2013/title_image.jpg", "imgs/MacPro 2013/title_mobile_image
 mode: dark
 ---
 
+## 视频
+
+<video src="mac_pro.m4v" controls></video>
 
 ## 图库
 
