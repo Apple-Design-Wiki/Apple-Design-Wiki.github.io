@@ -1,6 +1,6 @@
 ---
 title: PowerMacG52003
-subtitle: PowerMacG5, 2003
+subtitle: PowerMacG5，2003
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/PowerMacG5 2003/title_image.png", "imgs/PowerMacG5 2003/title_mobile_image.png"]
 ---
