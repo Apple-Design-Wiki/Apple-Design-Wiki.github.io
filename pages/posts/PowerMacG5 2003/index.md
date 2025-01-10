@@ -5,8 +5,7 @@ content: The iMac form was driven by its primary component, the 15��inch blo
 cover: ["imgs/PowerMacG5 2003/title_image.png", "imgs/PowerMacG5 2003/title_mobile_image.png"]
 ---
 
-# Power Mac G5 2003
-
+# Mac OS X 10.2
 ## 图库
 
 ![Imac_G3_5_flavors_side_lineup2](./2003-06_power_mac_G5_06972.jpg)
