@@ -8,7 +8,7 @@ mode: dark
 
 ## 视频
 
-<video src="mac_pro.m4v" controls="controls"></video>
+
 
 ## 图库
 
