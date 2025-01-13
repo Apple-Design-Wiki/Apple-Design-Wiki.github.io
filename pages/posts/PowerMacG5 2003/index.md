@@ -13,6 +13,8 @@ cover: ["imgs/PowerMacG5 2003/title_image.png", "imgs/PowerMacG5 2003/title_mobi
 ![Imac_G3_5_flavors_side_lineup2](./2004-06_power_mac_G5_06992.jpg)
 ![Imac_G3_5_flavors_side_lineup2](./2003-06_power_mac_G5_06973.jpg)
 
+![Imac_G3_5_flavors_side_lineup2](./PowerMacG5.png)
+
 ![Imac_G3_5_flavors_side_lineup2](./2005-04_power_mac_G5_07035.jpg)
 ![Imac_G3_5_flavors_side_lineup2](./front20050429.jpg)
 ![Imac_G3_5_flavors_side_lineup2](./open20051018.jpg)
