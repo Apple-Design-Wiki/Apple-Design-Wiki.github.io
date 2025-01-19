@@ -199,4 +199,4 @@ Bas Ording 采用算法来完成，基于 3 阶曲线与两段的直线和圆弧
 
 ![ios7](./ios7.jpg)
 
-<video src=".\iphone5c-designed-together-cc-us-20131011_848x480.mp4" Controls="Controls"></video>
+<video src=".\iphone5c-designed-together-cc-us-20131011_848x480.mp4" controls="controls"></video>
