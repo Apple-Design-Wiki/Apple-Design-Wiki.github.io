@@ -195,4 +195,8 @@ Bas Ording 采用算法来完成，基于 3 阶曲线与两段的直线和圆弧
 
 从简洁、精心重新设计的图标，到似乎贯穿整个主屏幕的色彩匹配的壁纸，iOS 7 中到处都是色彩。而且这一切都是有意为之。iOS 7 的设计考虑到了 iPhone 5c 的颜色。
 
+相较于 iOS6，iOS7 采用饱和度更高的整体配色方案
+
 ![ios7](./ios7.jpg)
+
+<video src=".\iphone5c-designed-together-cc-us-20131011_848x480.mp4" Controls="Controls"></video>
