@@ -239,6 +239,10 @@ Bas Ording 采用算法来完成，基于 3 阶曲线与两段的直线和圆弧
 
 正如我们所看到的，主屏幕在结构上与以前一样，为什么不呢？这是一个非常棒的界面。因此，所有关于删除应用程序图标、在主屏幕之间轻扫、重新排序等交互方式都是一样的，但图标发生了变化，所以我们要花点时间来谈谈这些图标。
 
+![Icons_RemindersPhone](./Icons_RemindersPhone.png '提醒事项和电话图标')
+![Icons_ItunesWeather](./Icons_ItunesWeather.png 'iTunes商店和天气图标')
+![Icons_CameraSafari](./Icons_CameraSafari.png '相机和Safari图标')
+
 最厚重的纹理、条纹、光线、光泽叠加和照片真实感都不见了。
 
 
