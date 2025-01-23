@@ -2,7 +2,7 @@
 title: iPodTouch2007
 subtitle: iPod Touch, 2007
 content: Wi—Fi 和蓝牙天线设计用于通过前玻璃接收和发送无线电信号，无需在不锈钢后壳上安装无线电透明天线窗口。
-cover: ["imgs/iPodTouch 2007/title_image.jpg", "imgs/iPodTouch 2007/title_mobile_image.jpg"]
+cover: ["imgs/iPodTouch 2007/title_image.png", "imgs/iPodTouch 2007/title_mobile_image.png"]
 illustration: "./image2_20101116.jpg"
 top: 20070905
 ---
