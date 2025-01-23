@@ -6,7 +6,7 @@ cover: ["imgs/iPod 2007/title_image.png", "imgs/iPod 2007/title_mobile_image.png
 top: 20071023
 ---
 
-# iPod
+# iPod Classic, 2007
 
 ## 图库
 
