@@ -3,6 +3,7 @@ title: iPod2001
 subtitle: iPod, 2001
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/iPod 2001/title_image.png", "imgs/iPod 2001/title_mobile_image.png"]
+top: 20011023
 ---
 
 # iPod
