@@ -5,6 +5,7 @@ categories: Valaxy Notes
 content: Translucent, durable polyurethane was molded over the textured polycarbonate housing. Encapsulated within polycarbonate resin, a die-cast metal core forms the retractable handle.
 cover: ["imgs/iPhone 2007/title_image.png", "imgs/iPhone 2007/title_mobile_image.png"]
 illustration: "https://apple-design-wiki.github.io/assets/2008-15-1924-a-1EF8_JEi.jpg"
+top: 20070109
 ---
 
 # iPhone
