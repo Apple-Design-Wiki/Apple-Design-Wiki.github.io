@@ -15,8 +15,8 @@ top: 20090909
 ![09nano_iris](./09nano_iris.png)
 ![09nano_video_green2](./09nano_video_green2.png)
 ![09nanoblue](./09nanoblue.png)
-![hero-nano-20090909](./hero-nano-20090909.png)
-![image3_20090909](./image3_20090909.png)
+![hero-nano-20090909](./hero-nano-20090909.jpg)
+![image3_20090909](./image3_20090909.jpg)
 ![overview_hero1_20090909](./overview_hero1_20090909.png)
 
 ![blue_image4_20090909](./blue_image4_20090909.jpg)
