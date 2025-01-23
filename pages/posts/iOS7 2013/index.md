@@ -3,6 +3,7 @@ title: iOS72013
 subtitle: iOS7, 2013
 content: Wi—Fi 和蓝牙天线设计用于通过前玻璃接收和发送无线电信号，无需在不锈钢后壳上安装无线电透明天线窗口。
 cover: ["imgs/iOS7 2013/title_image.png", "imgs/iOS7 2013/title_mobile_image.png"]
+top: 20130610
 ---
 
 # iOS7 2013
