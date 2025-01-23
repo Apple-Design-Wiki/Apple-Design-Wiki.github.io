@@ -71,3 +71,8 @@ body {
 .nav-content-header > a {
   height: 100%;
 }
+
+// https://github.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io/issues/39
+.article-card .article-card-img img {
+  object-fit: contain !important;
+}
