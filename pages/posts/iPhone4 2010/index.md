@@ -5,6 +5,7 @@ categories: Valaxy Notes
 content: 世界上最漂亮的手机，就像一台老式的徕卡相机。由不锈钢作为天线，前后玻璃背板形成三明治结构。
 cover: ["imgs/iPhone4 2010/title_image.jpg", "imgs/iPhone4 2010/title_mobile_image.jpg"]
 mode: dark
+top: 20100607
 ---
 
 ![gallery05-20100711.jpg](./gallery05-20100711.jpg)
