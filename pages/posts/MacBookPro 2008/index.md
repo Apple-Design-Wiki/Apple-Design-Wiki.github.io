@@ -4,6 +4,7 @@ subtitle: MacBookPro, 2008
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/MacBookPro 2008/title_image.png", "imgs/MacBookPro 2008/title_mobile_image.png"]
 mode: dark
+top: 20081014
 ---
 
 ![design_gal01_20080115.jpg](./redesigned20081014.jpg)
