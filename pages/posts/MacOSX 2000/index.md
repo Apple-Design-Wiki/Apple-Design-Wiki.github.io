@@ -1,9 +1,9 @@
 ---
-title: MacOSX1999
-subtitle: Mac OS X, 1999
+title: MacOSX2000
+subtitle: Mac OS X, 2000
 content: 代号为 Aqua 的新一代 Mac OS X 界面.
-cover: ["imgs/MacOSX 1999/title_image.png", "imgs/MacOSX 1999/title_mobile_image.png"]
-# mode: dark
+cover: ["imgs/MacOSX 2000/title_image.png", "imgs/MacOSX 2000/title_mobile_image.png"]
+top: 20000105
 ---
 
 # Aqua
