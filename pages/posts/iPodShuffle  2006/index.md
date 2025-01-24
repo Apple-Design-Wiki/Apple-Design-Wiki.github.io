@@ -6,7 +6,7 @@ cover: ["imgs/iPodShuffle 2006/title_image.png", "imgs/iPodShuffle 2006/title_mo
 top: 20060912
 ---
 
-# iPod Shuffle 2008
+# iPod Shuffle 2006
 
 ## 图库
 
