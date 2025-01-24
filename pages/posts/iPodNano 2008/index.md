@@ -3,7 +3,7 @@ title: iPodNano 2008
 subtitle: iPodNano, 2008
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/iPodNano 2008/title_image.png", "imgs/iPodNano 2008/title_mobile_image.png"]
-top: 20060912
+top: 20080912
 ---
 
 # iPod Nano 2008
