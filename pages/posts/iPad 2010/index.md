@@ -3,7 +3,7 @@ title: iPad2010
 subtitle: iPad, 2010
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/iPad 2010/title_image.png", "imgs/iPad 2010/title_mobile_image.png"]
-top:20100403
+top: 20100403
 ---
 
 ![ipad_2up_hometimes2.png](./ipad_2up_hometimes2.png)
