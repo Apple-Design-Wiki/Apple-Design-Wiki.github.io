@@ -4,6 +4,7 @@ subtitle: iPhone 3G, 2008
 categories: Valaxy Notes
 content: 世界上最漂亮的手机，就像一台老式的徕卡相机。由不锈钢作为天线，前后玻璃背板形成三明治结构。
 cover: ["imgs/iPhone3G 2008/title_image.png", "imgs/iPhone3G 2008/title_mobile_image.png"]
+top: 20080609
 ---
 
 # iPhone 3G，2008
