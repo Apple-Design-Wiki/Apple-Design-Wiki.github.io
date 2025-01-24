@@ -4,6 +4,7 @@ subtitle: MacBookAir, 2010
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/MacBookAir 2010/title_image.jpg", "imgs/MacBookAir 2010/title_mobile_image.jpg"]
 mode: dark
+top: 20101020
 ---
 
 ## 图库
