@@ -2,7 +2,7 @@
 title: iPodShuffle2009
 subtitle: iPodShuffle, 2009
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["imgs/iPodShuffle 2009/title_image.jpg", "imgs/iPodShuffle 2009/title_mobile_image.jpg"]
+cover: ["imgs/iPodShuffle 2009/title_image.png", "imgs/iPodShuffle 2009/title_mobile_image.png"]
 top: 20090909
 ---
 
