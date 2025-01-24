@@ -4,6 +4,7 @@ subtitle: MacPro, 2013
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
 cover: ["imgs/MacPro 2013/title_image.jpg", "imgs/MacPro 2013/title_mobile_image.jpg"]
 mode: dark
+top: 20131022
 ---
 
 ## 视频
