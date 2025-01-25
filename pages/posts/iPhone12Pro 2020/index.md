@@ -5,7 +5,7 @@ content: An injection—molded polycarbonate shell conceals a stainless steel st
 cover: ["imgs/iPhone12Pro 2020/title_image.jpg", "imgs/iPhone12Pro 2020/title_mobile_image.jpg"]
 illustration: "https://apple-design-wiki.github.io/assets/design_gallery_slide_blue-CYBKE0Mp.jpg"
 mode: dark
-top: 20191013
+top: 20201013
 ---
 
 # iPhone 12 Pro, 2020
