@@ -14,6 +14,10 @@ An injection—molded polycarbonate shell conceals a stainless steel structural 
 
 ## 视频
 
+## 造型
+
+这是自 iPhone 6 以来首次使用垂直立面。
+
 ## 图库
 
 ![night_photography__dt6fw02h1xg2_large_2x.png](./night_photography__dt6fw02h1xg2_large_2x.jpg)
