@@ -47,7 +47,7 @@ iPhone5 背面由经过阳极氧化处理的6000 系列铝金属制成(与 Apple
 
 ![2012-iphone5-gallery1-zoom](./2012-iphone5-gallery1-zoom.jpg)
 ![2012-iphone5-gallery2-zoom](./2012-iphone5-gallery2-zoom.jpg)
-![2012-iphone5-gallery1-zoom](./2012-iphone5-gallery3-zoom.jpg)
+![2012-iphone5-gallery1-zoom](./2012-iphone5-gallery3-zoom_GEO_US.jpg)
 ![2012-iphone5-gallery1-zoom](./2012-iphone5-gallery4-zoom.jpg)
 ![2012-iphone5-gallery1-zoom](./2012-iphone5-gallery5-zoom.jpg)
 ![2012-iphone5-gallery1-zoom](./2012-iphone5-gallery6-zoom.jpg)
