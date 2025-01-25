@@ -8,12 +8,40 @@ top: 20120912
 
 # iPhone 5,2012
 
+## 概述
+
+在此之前，从未有如此精美的制作工艺应用在手机上。以iPhone5 背面的玻璃镶饰为例，在制造过程中，我们使用两架 2-00 万像素的高功率相机对每台iPhone 5 的铝金属外壳进行拍照。然后，通过设备检查所有照片，并与 725 个独特的镶饰细致对比，找出与该台 iPhone 精度高度匹配的镶饰。
+
+面对 iPhone 5，你会情不自禁留意到围绕显示屏四周精致的倒角设计。这条斜切边缘是由金刚石刀具削切而成，正是它，赋予了iPhone 5 鲜明突出的线条与手机宛若天成的配合，令其看起来愈发耀眼夺目。
+
+![precision_side](./precision_side.png)
+
+## 工艺
+
+### 精密匹配的镶饰
+
+在组装过程中，我们使用两架 2-00 万像素的高功率相机对每台 iPhone 5 的铝金属外壳进行拍照。然后，通过专门机器将这些照片与 725 个独特的切割镶饰对比，从而找出精密匹配的组合。
+
+### 金刚石削切的精致边缘
+
+iPhone 5 的倒角设计采用金刚石刀具精工削切而成，该工艺让斜切边缘散发出绚丽动人的光彩。
+
+## 材料
+
+### 阳极氧化铝和玻璃
+
+iPhone5 背面由经过阳极氧化处理的6000 系列铝金属制成(与 Apple 笔记本电脑所用材料相同)，并沿顶边和底边镶嵌陶瓷玻璃(白配银白色机型)或着色玻璃(黑配碳黑色机型)。
+
+### 蓝宝石水晶
+
+虽然 iSiqht 摄像头的表面如玻璃般通透，但却不是由玻璃制成。实际上，我们采用的是蓝宝石水晶，其硬度在透明材料的硬度表上仅仅次于钻石。这就意味着，镜头表面被刮伤的可能性大大降低。
+
+![precision_camera](./precision_camera.png)
+
 ## Lighting 接口
 
 ![lightning_hero](./lightning_hero.jpg)
 ![lightning_image](./lightning_image.jpg)
-
-## 概述
 
 ## 图库
 
@@ -34,8 +62,7 @@ top: 20120912
 ![hero_front](./hero_front.jpg)
 ![hero_side](./hero_side.png)
 
-![precision_camera](./precision_camera.png)
-![precision_side](./precision_side.png)
+
 ![下载](./下载.png)
 ![wireless_hero](./wireless_hero.jpg)
 
