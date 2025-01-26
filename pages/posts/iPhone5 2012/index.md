@@ -74,6 +74,9 @@ iPhone5 背面由经过阳极氧化处理的6000 系列铝金属制成(与 Apple
 
 Apple 的工业设计团队邀请 600 多人测试了 124 种不同的 EarPods 原型。
 
+![earpods_hero2](./earpods_hero2.jpg)
+![earpods_hero](./earpods_hero.jpg)
+
 <video src=".\iphone5-design-ear_pods-cn-20120912_848x480.mp4" Controls="Controls"></video>
 
 在 Apple 的设计师努力确定理想耳塞形状的同时，Apple 的音响工程师，一群充满热情的音响专家，则专注于改进耳机的音质。首先，他们一起为 Apple EarPods 设定了一个目标，希望达到坐在室内聆听高品质扬声器时的音质水准。
