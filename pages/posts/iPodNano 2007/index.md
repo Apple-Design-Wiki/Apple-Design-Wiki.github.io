@@ -6,12 +6,9 @@ cover: ["imgs/iPodNano 2006/title_image.png", "imgs/iPodNano 2006/title_mobile_i
 top: 20060912
 ---
 
-# iPod Nano 2006
+# iPod Nano 2007
 
 ## 图库
 
-![indexfallingnanos20060912](./indexfallingnanos20060912.png)
-![ipodnanolarge01_20060912](./ipodnanolarge01_20060912.jpg)
-![ipodnanolarge02_20060912](./ipodnanolarge02_20060912.jpg)
-![ipodnanolarge04_20060912](./ipodnanolarge04_20060912.jpg)
-![ipodnanolarge05_20060912](./ipodnanolarge05_20060912.jpg)
+![01_large20070905](./01_large20070905.jpg)
+
