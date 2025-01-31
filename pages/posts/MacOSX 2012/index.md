@@ -2,7 +2,7 @@
 title: MacOSX2012
 subtitle: MacOSX, 2012
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["imgs/MacOSX 2011/title_image.png", "imgs/MacOSX 2011/title_mobile_image.png"]
+cover: ["imgs/MacOSX 2012/title_image.png", "imgs/MacOSX 2012/title_mobile_image.png"]
 top: 20120611
 ---
 
