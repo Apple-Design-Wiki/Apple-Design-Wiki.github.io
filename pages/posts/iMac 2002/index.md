@@ -1,9 +1,12 @@
 ---
-title: iMac2003
-subtitle: iMac, 2003
+title: iMac2002
+subtitle: iMac, 2002
 content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["imgs/iMac 2003/title_image.png", "imgs/iMac 2003/title_mobile_image.png"]
+cover: ["imgs/iMac 2002/title_image.png", "imgs/iMac 2002/title_mobile_image.png"]
+top: 20020107
 ---
+
+# iMac G4 2002
 
 ![imac_flowershot](./0311imac_family.png)
 

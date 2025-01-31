@@ -3,7 +3,10 @@ title: iMac2004
 subtitle: iMac, 2004
 content: 在前进中后退。新式的光驱使得iMac可以将整个机身至于平面显示器后方，在今天看来，这有些笨重。
 cover: ["imgs/iMac 2004/title_image.png", "imgs/iMac 2004/title_mobile_image.png"]
+top: 20040831
 ---
+
+# iMac G5, 2004
 
 ![imac_flowershot](./04imac_hero.png)
 
