@@ -46,7 +46,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ### iOS for iPad 的提醒事项
 
-![iOS for iPhone 的提醒事项，列表和日历页面](./160074040.png 'iOS for iPhone 的提醒事项，列表和日历页面') ![iOS for iPhone 的提醒事项，详情页面](./2025_02_01_12_50_IMG_0005.PNG 'iOS for iPhone 的提醒事项，详情页面')
+![iOS for iPhone 的提醒事项，列表和日历页面](./160074040.png 'iOS for iPhone 的提醒事项，列表和日历页面') ![iOS for iPhone 的提醒事项，详情页面](./2025_02_01_12_50_IMG_0005.png 'iOS for iPhone 的提醒事项，详情页面')
 
 ### iOS for iPad 的提醒事项
 
@@ -62,7 +62,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ### iOS for iPhone 的备忘录
 
-![iOS for iPhone 的备忘录，列表页面](./2025_02_01_13_32_IMG_0003.PNG 'iOS for iPhone 的备忘录，列表页面')! [iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.PNG 'iOS for iPhone 的备忘录，详情页面')
+![iOS for iPhone 的备忘录，列表页面](./2025_02_01_13_32_IMG_0003.png 'iOS for iPhone 的备忘录，列表页面')! [iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.png 'iOS for iPhone 的备忘录，详情页面')
 
 ## 通知中心
 
