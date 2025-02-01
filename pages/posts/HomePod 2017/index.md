@@ -60,7 +60,7 @@ HomePod 的电源线按一些评测视频所说，它外层材质与机身的网
 
 ![alt text](./HomePod-Top-Touch-Panel-201802.jpg)
 
-<video src="homepod-gallery-1.mp4" autoplay loop muted ></video>
+<video src="./homepod-gallery-1.mp4" autoplay loop muted ></video>
 
 令人吃惊的是，HomePod 的触摸操作板上并没有使用屏幕，而是使用了 LED，“+”和“−”各自有单独一片，而波形图则是通过如上图所示 19 粒 RGB LED 灯片，通过德州仪器的 TLC 5971 来驱动（见 iFixit 介绍 https://www.ifixit.com/Teardown/HomePod++Teardown/103133），可控制 RGB 每一粒小灯珠来形成波纹，并且通过扩散膜（LED Diffuser）来形成雾化扩散的动态效果，而且相对应的玻璃盖板上也有一层扩散膜。形成的波纹图案和 iOS 上的 Siri 的视觉元素很相似，会让人误以为是通过屏幕来实现图案的显示的，所以 HomePod 通过软件和设计，用了简单有效的硬件来实现了所需的最终效果。（上图来自于 iFixit https://www.ifixit.com/Teardown/HomePod++Teardown/103133 及其拆解视频 https://www.youtube.com/watch?v=ArH41WyUt28）
 
