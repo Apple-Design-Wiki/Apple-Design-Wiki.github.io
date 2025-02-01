@@ -24,14 +24,62 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ## 日历
 
-在 10.7 中的装饰缝线被移除，现在与 iOS4/5/6 几乎完全一致。
+在 10.7 中的装饰缝线被移除，现在外观与 iOS4/5/6 for iPad 遥相呼应。有意思的是，直至 iOS 6 的 iPhone 版本，日历仍然使用默认控件。
 
-![Imac_G3_5_flavors_side_lineup2](./10-8-Mountain-Lion-Calendar.png 'Mac OS X 10.8 的日历，周视图')
-![Imac_G3_5_flavors_side_lineup2](./DwitN.jpg 'iOS 4/5/6 for iPad 的日历，月视图')
-![Imac_G3_5_flavors_side_lineup2](./photo-jun-17-6-03-18-pm-100042568-orig.png 'iOS 4/5/6 for iPad 的日历，列表视图')
-![Imac_G3_5_flavors_side_lineup2](./calendario.webp 'iOS 6 for iPad 的日历，年份视图')
+![Mac OS X 10.8 的日历，周视图](./10-8-Mountain-Lion-Calendar.png 'Mac OS X 10.8 的日历，周视图')
+![iOS 6 for iPad 的日历，年份视图](./calendario.webp 'iOS 6 for iPad 的日历，年份视图')
 
-##
+![iOS 6 for iPhone 的日历，仍然使用默认控件](./ios-calendar.jpg 'iOS 6 for iPhone 的日历，仍然使用默认控件')
+
+无论是 Mac OS X 10.7/10.8 还是 iOS 3/4/5/6 for iPad 的日历，日历复选列表均使用默认控件。
+
+![Mac OS X 10.8 的日历，带日历复选列表](./10-8-Mountain-Lion-Calendar.png 'Mac OS X 10.8 的日历，带日历复选列表')
+![iOS 6 for iPad 的日历，带日历复选列表](./2013-02-03-21.20.06.jpg 'iOS 6 for iPad 的日历，带日历复选列表')
+
+## 提醒事项
+
+提醒事项现在外观与 iOS 遥相呼应。
+
+### Mac OS X 的提醒事项
+
+![Mac OS X 10.8 的提醒事项](./10-8-Mountain-Lion-Reminders.png 'Mac OS X 10.8 的提醒事项')
+
+### iOS for iPad 的提醒事项
+
+![iOS for iPhone 的提醒事项，列表和日历页面](./160074040.png 'iOS for iPhone 的提醒事项，列表和日历页面') ![iOS for iPhone 的提醒事项，详情页面](./2025_02_01_12_50_IMG_0005.PNG 'iOS for iPhone 的提醒事项，详情页面')
+
+### iOS for iPad 的提醒事项
+
+## 备忘录
+
+备忘录现在外观与 iOS 遥相呼应，但只使用了最窄的标题栏。可以选择三栏或双栏或单栏视图。
+
+### Mac OS X 的备忘录
+
+![Mac OS X 10.8 的提备忘录](./10-8-Mountain-Lion-Notes.png 'Mac OS X 10.8 的备忘录')
+
+### iOS for iPad 的备忘录
+
+### iOS for iPhone 的备忘录
+
+![iOS for iPhone 的备忘录，列表页面](./2025_02_01_13_32_IMG_0003.PNG 'iOS for iPhone 的备忘录，列表页面')! [iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.PNG 'iOS for iPhone 的备忘录，详情页面')
+
+## 通知中心
+
+与iOS一样，通知中心在桌面的下层。与iOS桌面文件夹/iOS 激活背景/Mac OS X 登录背景/Mission Control一样使用草砂纸背景。
+
+![Mac OS X 10.8 的通知中心](./10-8-Mountain-Lion-Notification-Center.png 'Mac OS X 10.8 的通知中心')
+! [iOS 6 的通知中心](./vanhecke_notifications_fig01.png 'iOS 6 的通知中心')
+
+## 游戏中心与通讯录
+
+游戏中心和通讯录与 10.7 版本保持不变，最终形成了一个让人感觉像进入了游戏世界般的结果。
+
+## 不同类型的窗口汇总
+
+这些各具特色的窗口看起来眼花缭乱，与玻璃和铝制外壳组成的 Mac 工业设计格格不入，但是确实维持了与 iOS 的一致性。有意思的是，在iPhone上，这些拟物设计看起来并没有这么突兀。
+
+! [不同类型的窗口汇总](./Frame 56.png '不同类型的窗口汇总')
 
 ## 图库
 
