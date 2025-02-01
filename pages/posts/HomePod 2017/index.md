@@ -10,8 +10,8 @@ top: 20170605
 
 HomePod 的设计在 Apple 的网站上只有简短的介绍，以“Beautiful design with a purpose”（有目的的漂亮设计）为小标题，如果说追求词藻且意指暧昧的标题文字并无什么内容含量，那么在具体的介绍中总能传递出一些设计的主要特征。在这个简短介绍中提及了两个设计特征：一个是小于 7 英寸的高度，可以让 HomePod 可以放置家中任何地方；另外一个就是无缝网布，既是为了审美——任何角度都非常漂亮，也是为了声学——它对音乐来说是透明的无阻挡的。
 
-<video src="6eaf0e23-6454-4404-b478-cad7d30001e8.mp4" autoplay loop muted ></video>
-<video src="large2.mp4" autoplay loop muted ></video>
+<video src="./6eaf0e23-6454-4404-b478-cad7d30001e8.mp4" autoplay loop muted ></video>
+<video src="./large2.mp4" autoplay loop muted ></video>
 
 无缝是 HomePod 最为显著的设计特征，一下让它与其他同类产品的设计区别而开，比如 Sony 的智能音箱 LF-S50G，以及 Amazon Echo，Google Home 以及 Sonos One。
 
@@ -138,11 +138,11 @@ HomePod 的网布有两层，其中内层为衬底，除了阻挡用户看到塑
 
 ## 视频
 
-<video src="homepod-feature-tft-cc-us-20170605_1920x800h.mp4" controls="controls" ></video>
+<video src="./homepod-feature-tft-cc-us-20170605_1920x800h.mp4" controls="controls" ></video>
 
 ## 图库
 
-<video src="915d11a8-dabf-416c-a0d9-e56745de04dd.mp4" autoplay loop muted ></video>
+<video src="./915d11a8-dabf-416c-a0d9-e56745de04dd.mp4" autoplay loop muted ></video>
 
 ![alt text](./homepod-gallery-2-scaled.jpeg)
 ![alt text](./homepod-gallery-3.jpg)
