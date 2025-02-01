@@ -1,7 +1,7 @@
 ---
 title: iPhone572016
 subtitle: iPhone7, 2016
-content: An injection—molded polycarbonate shell conceals a stainless steel structural frame. The logo was pad printed on the back of the enclosure prior to applying a hardcoat, while the text graphics were laser marked through the hardcoat into the polycarbonate resin.
+content: 全新的镜面黑色饰面表面无可挑剔，经过九道精炼工序，实现了从铝制外壳到 Retina HD 显示屏的无缝过渡。首次采用固态 Home 键，源头上避免了机械疲劳问题。
 cover: ["imgs/iPhone7 2016/title_image.jpg", "imgs/iPhone7 2016/title_mobile_image.jpg"]
 illustration: "https://apple-design-wiki.github.io/assets/design_gallery_slide_blue-CYBKE0Mp.jpg"
 mode: dark
@@ -10,7 +10,7 @@ top: 20160907
 
 # iPhone 7
 
-An injection—molded polycarbonate shell conceals a stainless steel structural frame. The logo was pad printed on the back of the enclosure prior to applying a hardcoat, while the text graphics were laser marked through the hardcoat into the polycarbonate resin.
+全新的镜面黑色饰面表面无可挑剔，经过九道精炼工序，实现了从铝制外壳到 Retina HD 显示屏的无缝过渡。首次采用固态 Home 键，源头上避免了机械疲劳问题。
 
 ## 视频
 

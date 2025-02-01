@@ -1,7 +1,7 @@
 ---
 title: iPhone14Pro2021
 subtitle: iPhone 14 Pro, 2022
-content: An injection—molded polycarbonate shell conceals a stainless steel structural frame. The logo was pad printed on the back of the enclosure prior to applying a hardcoat, while the text graphics were laser marked through the hardcoat into the polycarbonate resin.
+content: iPhone 14 Pro 和 iPhone 14 Pro Max 的 Dynamic Island 令人印象深刻，可显示通知、警报和活动。iPhone 14 Pro 和 14 Pro Max 以其先进的硬件和软件以及由四种优雅颜色的手术不锈钢和磨砂玻璃制成的高品质表面令人印象深刻。
 cover: ["imgs/iPhone14Pro 2022/title_image.jpg", "imgs/iPhone14Pro 2022/title_mobile_image.jpg"]
 illustration: "https://apple-design-wiki.github.io/assets/design_gallery_slide_blue-CYBKE0Mp.jpg"
 mode: dark
@@ -10,7 +10,7 @@ top: 20220907
 
 # iPhone 14 Pro, 2022
 
-An injection—molded polycarbonate shell conceals a stainless steel structural frame. The logo was pad printed on the back of the enclosure prior to applying a hardcoat, while the text graphics were laser marked through the hardcoat into the polycarbonate resin.
+iPhone 14 Pro 和 iPhone 14 Pro Max 的 Dynamic Island 令人印象深刻，可显示通知、警报和活动。iPhone 14 Pro 和 14 Pro Max 以其先进的硬件和软件以及由四种优雅颜色的手术不锈钢和磨砂玻璃制成的高品质表面令人印象深刻。
 
 ## 视频
 
