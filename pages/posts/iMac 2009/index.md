@@ -3,8 +3,10 @@ title: iMac2009
 subtitle: iMac, 2009
 content: 支撑底座前端变薄
 cover: ["imgs/iMac 2009/title_image.png", "imgs/iMac 2009/title_mobile_image.png"]
-top: 20091020
+top: 20090320
 ---
+
+# iMac, 2009
 
 ## 造型
 
