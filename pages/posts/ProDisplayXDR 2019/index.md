@@ -25,6 +25,6 @@ top: 20190603
 ![alt text](./stand_mount__cd4w8os8fe2q_large_2x.jpg)
 ![alt text](./workflow_space__dttzmt2wd0wi_large_2x.jpg)
 ![alt text](./workflow_true_tone__fm00ig2xzfyq_large_2x.jpg)
-<video controls src="large-1.mp4" Controls="controls" ></video> 
-<video controls src="large_2x-1.mp4" Controls="controls" ></video>
-<video controls src="large_2x (4).mp4"  Controls="controls"></video>
+<video controls src="./large-1.mp4" Controls="controls" ></video> 
+<video controls src="./large_2x-1.mp4" Controls="controls" ></video>
+<video controls src="./large_2x (4).mp4"  Controls="controls"></video>
