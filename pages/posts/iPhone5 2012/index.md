@@ -1,7 +1,7 @@
 ---
 title: iPhone5 2012
 subtitle: iPhone 5, 2012
-content: Wi—Fi 和蓝牙天线设计用于通过前玻璃接收和发送无线电信号，无需在不锈钢后壳上安装无线电透明天线窗口。
+content: 首个采用 Unibody 一体成型的 iPhone。钻石切割的倒角边缘，同时采用较低的电压进行阳极氧化处理，以获得 7 微米的氧化层，从而提高清晰度。
 cover: ["imgs/iPhone5 2012/title_image.png", "imgs/iPhone5 2012/title_mobile_image.png"]
 top: 20120912
 ---
