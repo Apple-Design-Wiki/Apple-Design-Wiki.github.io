@@ -2,7 +2,7 @@
 title: iPhone2007
 subtitle: iPhone, 2007
 categories: Valaxy Notes
-content: Translucent, durable polyurethane was molded over the textured polycarbonate housing. Encapsulated within polycarbonate resin, a die-cast metal core forms the retractable handle.
+content: 304 不锈钢边框和聚碳酸酯后壳粘合在一起，形成一个连续的形状。显示模块被连接到后壳的一端，与内部组件进行电气连接。只需用两颗螺钉固定两部分外壳的另一端。后盖采用半透明聚碳酸酯注塑成型，并经过加工以容纳内部组件，然后进行背面喷漆，以获得平滑、光亮、深邃的外观。之后，在后壳表面溅射一层薄薄的铝，并用激光烧蚀掉多余的材料，只留下徽标和图案。
 cover: ["imgs/iPhone 2007/title_image.png", "imgs/iPhone 2007/title_mobile_image.png"]
 illustration: "https://apple-design-wiki.github.io/assets/2008-15-1924-a-1EF8_JEi.jpg"
 top: 20070109
@@ -205,6 +205,16 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 解决的方法是，在玻璃屏幕和不锈钢边框之间垫一层薄薄的橡胶垫。可橡▷胶垫产生了缝隙，一些设计师出于私人原因在最初很讨厌这种橡胶垫。“因为我们大多数工业设计团队的成员都很少刮胡子，所以留有胡茬。如果我们把手机贴到脸旁，那种缝隙就会夹住脸上的胡子,”萨茨格笑着这样说。设计团队又在缝隙的大小上下了一番功夫，直到把它弄得合适为止。
 
 “我们设计了多种填充物，要把它塞在金属和玻璃之间的缝隙中，最后终于挑出一种填进去，以后我们的胡子再也没被夹过。
+
+## 制造
+
+304 不锈钢边框和聚碳酸酯后壳粘合在一起，形成一个连续的形状。
+
+显示模块被连接到后壳的一端，与内部组件进行电气连接。然后，只需用两颗螺钉固定两部分外壳的另一端。
+
+生产过程的四个阶段。后盖采用半透明聚碳酸酯注塑成型，并经过加工以容纳内部组件，然后进行背面喷漆，以获得平滑、光亮、深邃的外观。之后，在后壳表面溅射一层薄薄的铝，并用激光烧蚀掉多余的材料，只留下徽标和图案。
+
+从 304 不锈钢弹头的原始锻造到表圈的最终抛光，锻造和加工过程分为四个渐进阶段。
 
 ## 图库
 
