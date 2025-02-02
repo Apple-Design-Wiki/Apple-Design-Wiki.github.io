@@ -1,12 +1,16 @@
 ---
 title: iPodShuffle2006
 subtitle: iPodShuffle, 2006
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 外壳的五个侧面都经过加工，以确保小部件的精确安装和偏移。集成夹的机械装置隐藏在外壳内。
 cover: ["imgs/iPodShuffle 2006/title_image.png", "imgs/iPodShuffle 2006/title_mobile_image.png"]
 top: 20060912
 ---
 
 # iPod Shuffle 2006
+
+## 加工
+
+外壳的五个侧面都经过加工，以确保小部件的精确安装和偏移。集成夹的机械装置隐藏在外壳内。
 
 ## 图库
 
