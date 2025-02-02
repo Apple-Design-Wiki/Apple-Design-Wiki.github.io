@@ -1,11 +1,17 @@
 ---
 title: MacBookAir2008
 subtitle: MacBookAir, 2008
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 由于集成了电池、1.8 英寸硬盘和机加工顶盖，因此在厚度仅为 0.8 英寸、重量仅为 3 磅的产品中，可以配备全尺寸键盘和 13.2 英寸显示屏。
 cover: ["imgs/MacBookAir 2008/title_image.png", "imgs/MacBookAir 2008/title_mobile_image.png"]
 mode: dark
 top: 20080115
 ---
+
+# MacBook Air,2008
+
+## 概述
+
+由于集成了电池、1.8 英寸硬盘和机加工顶盖，因此在厚度仅为 0.8 英寸、重量仅为 3 磅的产品中，可以配备全尺寸键盘和 13.2 英寸显示屏。
 
 ![design_gal01_20080115.jpg](./design_gal01_20080115.jpg)
 

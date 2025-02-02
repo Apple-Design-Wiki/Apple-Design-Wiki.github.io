@@ -1,11 +1,17 @@
 ---
 title: MacBookAir2010
 subtitle: MacBookAir, 2010
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 三项关键技术实现了外壳的轻薄化。显示单元和背光集成到显示屏外壳中，从而减少了部件。固态存储器取代了机械硬盘，提高了性能和坚固性。可变尺寸的电池单元优化了电池化学成分的用量（每平方英寸）。造型线条更加锐利，优雅。
 cover: ["imgs/MacBookAir 2010/title_image.jpg", "imgs/MacBookAir 2010/title_mobile_image.jpg"]
 mode: dark
 top: 20101020
 ---
+
+# MacBook Air, 2010
+
+## 概述
+
+三项关键技术实现了外壳的轻薄化。显示单元和背光集成到显示屏外壳中，从而减少了部件。固态存储器取代了机械硬盘，提高了性能和坚固性。可变尺寸的电池单元优化了电池化学成分的用量（每平方英寸）。造型线条更加锐利，优雅。
 
 ## 图库
 
