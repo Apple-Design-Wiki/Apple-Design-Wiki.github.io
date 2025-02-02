@@ -14,6 +14,8 @@ top: 20011023
 
 使用 Delrin 手柄对不锈钢 iPod 外壳进行手工抛光，抛光轮以 3300 rpm 的速度旋转。此过程可实现平均粗糙度仅为 60 纳米的镜面效果。
 
+![Imac_G3_5_flavors_side_lineup2](./Group2123.png)
+
 ## 图库
 
 ![Imac_G3_5_flavors_side_lineup2](./iPod.png)
