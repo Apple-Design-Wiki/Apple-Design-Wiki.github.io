@@ -1,7 +1,7 @@
 ---
 title: MacOSX2011
-subtitle: MacOSX, 2011
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+subtitle: Mac OS X, 2011
+content: 从这一代系统开始，新增联系人、日历应用，与 iOS for iPad 的设计保持一致，尽管增强UI了跨平台的一致性， 但增加了平台内的碎片化。同时也是 OS X 拟物化设计过度泛滥的开始。
 cover: ["imgs/MacOSX 2011/title_image.png", "imgs/MacOSX 2011/title_mobile_image.png"]
 top: 20110624
 ---

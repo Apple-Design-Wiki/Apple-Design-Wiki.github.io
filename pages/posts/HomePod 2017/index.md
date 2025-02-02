@@ -1,7 +1,7 @@
 ---
 title: HomePod2017
 subtitle: HomePod, 2017
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 无缝是 HomePod 最为显著的设计特征，对审美来说，任何角度都非常漂亮，对声学来说，它对音乐来说是透明的无阻挡的。“网布”及其几何造型成为产品的标志。
 cover: ["imgs/HomePod 2017/title_image.png", "imgs/HomePod 2017/title_mobile_image.png"]
 top: 20170605
 ---

@@ -1,14 +1,14 @@
 ---
 title: iPhone572016
-subtitle: iPhone7, 2016
-content: 全新的镜面黑色饰面表面无可挑剔，经过九道精炼工序，实现了从铝制外壳到 Retina HD 显示屏的无缝过渡。首次采用固态 Home 键，源头上避免了机械疲劳问题。
+subtitle: iPhone 7, 2016
+content: 全新的镜面黑色经过九道工序，铝金属与玻璃的边界已难以分辨。首次采用固态 Home 键，源头上避免了机械疲劳问题。
 cover: ["imgs/iPhone7 2016/title_image.jpg", "imgs/iPhone7 2016/title_mobile_image.jpg"]
 illustration: "https://apple-design-wiki.github.io/assets/design_gallery_slide_blue-CYBKE0Mp.jpg"
 mode: dark
 top: 20160907
 ---
 
-# iPhone 7
+# iPhone 7, 2016
 
 全新的镜面黑色饰面表面无可挑剔，经过九道精炼工序，实现了从铝制外壳到 Retina HD 显示屏的无缝过渡。首次采用固态 Home 键，源头上避免了机械疲劳问题。
 

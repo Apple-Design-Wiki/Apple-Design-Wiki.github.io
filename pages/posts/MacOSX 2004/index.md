@@ -1,7 +1,7 @@
 ---
 title: MacOSX2004
 subtitle: MacOSX, 2004
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 随着工业设计上白色条纹的逐步移除，UI的细条纹背景也逐步变淡。
 cover: ["imgs/MacOSX 2004/title_image.png", "imgs/MacOSX 2004/title_mobile_image.png"]
 top: 20040624
 ---

@@ -1,7 +1,7 @@
 ---
 title: iPadPro2015
 subtitle: iPad Pro, 2015
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 仅仅通过放大尺寸来拓展产品线似乎缺乏说服力，但首次可选键盘和笔，iPad 终于向生产工具迈出第一步。
 cover: ["imgs/iPadPro 2015/title_image.png", "imgs/iPadPro 2015/title_mobile_image.png"]
 top: 20150909
 ---

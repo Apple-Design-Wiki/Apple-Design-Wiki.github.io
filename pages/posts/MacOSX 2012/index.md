@@ -1,7 +1,7 @@
 ---
 title: MacOSX2012
-subtitle: MacOSX, 2012
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+subtitle: Mac OS X, 2012
+content: 拟物化设计的巅峰之作。进一步增加的提醒事项和日历应用，拟物化设计尽管使得其外观上与 iOS for iPad 版本一致，但进一步导致了系统 UI 的碎片化。
 cover: ["imgs/MacOSX 2012/title_image.png", "imgs/MacOSX 2012/title_mobile_image.png"]
 top: 20120611
 ---

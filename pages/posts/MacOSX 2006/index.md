@@ -1,7 +1,7 @@
 ---
 title: MacOSX2006
 subtitle: MacOSX, 2006
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: OS X 面世以来第一次大规模 UI 更新。标题栏首次从白色改为灰色外观（以匹配越来越多的灰色铝制机身？）；更新了标题栏按钮；重绘了文件夹图标；Dock 变为 3D。
 cover: ["imgs/MacOSX 2006/title_image.png", "imgs/MacOSX 2006/title_mobile_image.png"]
 top: 20060807
 ---
