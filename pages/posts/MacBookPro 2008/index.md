@@ -1,16 +1,16 @@
 ---
 title: MacBookPro2008
-subtitle: MacBookPro, 2008
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+subtitle: MacBook Pro, 2008
+content: 制造方式的彻底革新。每台MacBook Pro都以一整块铝块作为起点。每一块铝块都经过精密加工，形成基本的本体式主体。进一步加工，本体式骨架成型。再进一步加工，键盘孔位便出现了。MacBook Pro 一体式机身需要在 CNC 机床上进行多次铣削操作才能打造出来。
 cover: ["imgs/MacBookPro 2008/title_image.png", "imgs/MacBookPro 2008/title_mobile_image.png"]
 top: 20081014
 ---
 
-![design_gal01_20080115.jpg](./redesigned20081014.jpg)
+# MacBook Pro, 2008
 
 ## 制造方式的彻底革新
 
-![三明治1015.png](./design-hero20081014.jpg)
+![design-hero20081014](./design-hero20081014.jpg)
 
 要打造真正与众不同的产品，您需要以真正与众不同的方式工作。Apple 设计师和工程师在产品开发的每个阶段都齐心协力。这种合作关系使创新成为可能。新款 MacBook Pro 正是如此打造的。凭借其突破性的一体式外壳、行业首创的功能和环保设计，它彻底改变了笔记本电脑的制造方式。
 
@@ -20,13 +20,13 @@ top: 20081014
 
 为了打造新款 MacBook Pro，Apple 的设计和工程团队并非只是从头开始。他们还研究了元素周期表。新款 MacBook Pro 采用铝材精心打造，既轻薄又耐用。
 
-![三明治1015.png](./design20081014.jpg)
+![design20081014](./design20081014.jpg)
 
 ### 一体式外壳
 
-![三明治1015.png](./unibody-brick20081014.jpg)
-![三明治1015.png](./unibody-machined20081014.jpg)
-![三明治1015.png](./unibody-finished20081014.jpg)
+![unibody-brick20081014](./unibody-brick20081014.jpg)
+![unibody-machined20081014](./unibody-machined20081014.jpg)
+![unibody-finished20081014](./unibody-finished20081014.jpg)
 
 当然，只制造一个部件本身就带来了一系列挑战。当你将多个部件紧固在一起时，公差不必完美无缺。你有回旋余地，无论是字面上还是比喻上。但是，当一个部件负责多项功能时，制造该部件时必须绝对精确，精确到微米。每一次。数百万次。只有一种方法可以达到这种精度：使用计算机数控机床（CNC）将整块铝铣成一体式机身——航空航天工业使用这种机床来制造关键任务航天器部件。
 
@@ -62,7 +62,7 @@ top: 20081014
 
 ### 电池指示灯
 
-![三明治1015.png](./batteryindicator20081014.jpg)
+![batteryindicator20081014](./batteryindicator20081014.jpg)
 
 新款 MacBook Pro 将电池指示灯移至机身侧面，让电池状态一目了然。这排八个 LED 灯会根据不同的电池状态而变化：例如，来回扫描表示电池是否安装正确。或者，当电池需要更换时，闪烁五次。
 
@@ -118,6 +118,14 @@ top: 20081014
 
 这还只是硬件方面的问题。Apple 软件工程师在触控板的开发中也发挥了重要作用。他们采用了 Multi-Touch 手势，包括滑动、捏合、旋转和新的四指滑动。最终打造出了有史以来最大、最智能、最符合人体工程学的 MacBook Pro 触控板。这只是设计过程中反复考虑的众多细节之一。
 
+## 制造
+
+可拆卸的 2.5 英寸硬盘和锂离子电池外壳。使用成对的钕磁铁实现了齐平的门显示。双位置杆以机械方式释放门，使其摆脱磁铁的吸引力，以便接触电池和硬盘。
+
+组装 MacBook Pro 所用的所有部件。
+
+一体式顶壳由一块 6063 铝坯挤压而成。外部形状和内部细节（包括结构肋条和用于支撑部件的凸台）均由这一整块铝加工而成。
+
 ## 图库
 
 ![三明治1015.png](./overview-gallery1-20081021.png)
@@ -127,7 +135,7 @@ top: 20081014
 ![三明治1015.png](./overview-gallery5-20081014.jpg)
 ![三明治1015.png](./overview-gallery6-20081014.jpg)
 ![三明治1015.png](./overview-gallery7-20081014.jpg)
-
+![design_gal01_20080115.jpg](./redesigned20081014.jpg)
 ![三明治1015.png](./features-gallery-front20081014.png)
 ![三明治1015.png](./features-gallery-side20081014.png)
 ![三明治1015.png](./features-gallery-top20081014.png)
