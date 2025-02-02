@@ -1,12 +1,16 @@
 ---
 title: iMac2002
 subtitle: iMac, 2002
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 半球形底座采用透明聚碳酸酯制成，背面涂成白色，然后涂上哑光硬涂层。平衡的显示屏颈部穿过通风系统的中心，并使用弹簧和滑轮来抵消重力的影响，使显示屏感觉轻盈。
 cover: ["imgs/iMac 2002/title_image.png", "imgs/iMac 2002/title_mobile_image.png"]
 top: 20020107
 ---
 
 # iMac G4 2002
+
+半球形底座采用透明聚碳酸酯制成，背面涂成白色，然后涂上哑光硬涂层。冷锻 5052-H32 旋压铝底座可访问内存和 AirPort 无线网卡。
+
+平衡的显示屏颈部穿过通风系统的中心，并使用弹簧和滑轮来抵消重力的影响，使显示屏感觉轻盈。
 
 ![imac_flowershot](./0311imac_family.png)
 
