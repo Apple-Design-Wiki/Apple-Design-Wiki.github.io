@@ -22,11 +22,11 @@ top: 20070912
 ![01_large20070905](./04_large20070905.jpg)
 ![01_large20070905](./05_large20070905.jpg)
 
-![06_large20080121](06_large20080121.jpg)
-![07_large20080121](07_large20080121.jpg)
-![08_large20080121](08_large20080121.jpg)
-![09_large20080121](09_large20080121.jpg)
-![10_large20080121](10_large20080121.jpg)
+![06_large20080121](./06_large20080121.jpg)
+![07_large20080121](./07_large20080121.jpg)
+![08_large20080121](./08_large20080121.jpg)
+![09_large20080121](./09_large20080121.jpg)
+![10_large20080121](./10_large20080121.jpg)
 
 ![alt text](./download.jpg)
 ![alt text](./features_nanohero_silver20080201.jpg) 
