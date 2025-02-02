@@ -1,12 +1,16 @@
 ---
 title: iPodNano 2009
 subtitle: iPodNano, 2009
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 外壳由加工好的 6063 铝合金挤压而成，经过抛光和阳极氧化处理。然后对表面进行进一步抛光，以达到最终的表面光洁度。
 cover: ["imgs/iPodNano 2009/title_image.png", "imgs/iPodNano 2009/title_mobile_image.png"]
 top: 20090909
 ---
 
-# iPod Nano 2009
+# iPod Nano, 2009
+
+## 加工
+
+外壳由加工好的 6063 铝合金挤压而成，经过抛光和阳极氧化处理。然后对表面进行进一步抛光，以达到最终的表面光洁度。
 
 ## 图库
 
