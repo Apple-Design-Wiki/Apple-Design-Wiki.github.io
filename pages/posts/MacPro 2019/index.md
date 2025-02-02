@@ -1,7 +1,7 @@
 ---
 title: MacPro2019
 subtitle: Mac Pro, 2019
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 形式追随功能，铝制外壳采用不锈钢空间框架构建，可掀开，可 360 度接触每个组件和大量配置。刨丝器外壳增大了表面积从而利于散热。
 cover: ["imgs/MacPro 2019/title_image.png", "imgs/MacPro 2019/title_mobile_image.png"]
 top: 20190604
 ---
