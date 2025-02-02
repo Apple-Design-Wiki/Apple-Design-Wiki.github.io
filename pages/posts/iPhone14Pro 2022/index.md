@@ -1,7 +1,7 @@
 ---
 title: iPhone14Pro2021
 subtitle: iPhone 14 Pro, 2022
-content: iPhone 14 Pro 和 iPhone 14 Pro Max 的 Dynamic Island 令人印象深刻，可显示通知、警报和活动。iPhone 14 Pro 和 14 Pro Max 带来了浑然一体的硬件和软件结合以及由四种优雅颜色。
+content: Dynamic Island 令人印象深刻，可显示通知、警报和活动。带来了浑然一体的硬件和软件结合以及由四种优雅颜色。
 cover: ["imgs/iPhone14Pro 2022/title_image.jpg", "imgs/iPhone14Pro 2022/title_mobile_image.jpg"]
 illustration: "https://apple-design-wiki.github.io/assets/design_gallery_slide_blue-CYBKE0Mp.jpg"
 mode: dark
