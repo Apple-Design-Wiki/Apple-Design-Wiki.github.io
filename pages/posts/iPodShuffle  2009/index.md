@@ -1,12 +1,38 @@
 ---
 title: iPodShuffle2009
 subtitle: iPodShuffle, 2009
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+content: 外壳由挤压铝和锻造不锈钢制成。金属注塑铰链焊接在不锈钢夹上，并经过镜面抛光。
 cover: ["imgs/iPodShuffle 2009/title_image.png", "imgs/iPodShuffle 2009/title_mobile_image.png"]
-top: 20090909
+top: 20090903
 ---
 
 # iPod
+
+## 概述
+
+外壳由挤压铝和锻造不锈钢制成。金属注塑铰链焊接在不锈钢夹上，并经过镜面抛光。
+
+## 银色和深灰色版本
+
+三月份首先发布银色和深灰色版本
+
+## 图库
+
+![features_controls_20090311](./features_controls_20090311.jpg)
+![features_hero_20090311](./features_hero_20090311.jpg)
+![features_key_20090311](./features_key_20090311.jpg)
+![ipodshuffle_image1_20090311](./ipodshuffle_image1_20090311.jpg)
+![ipodshuffle_image2_20090311](./ipodshuffle_image2_20090311.jpg)
+![ipodshuffle_image3_20090311](./ipodshuffle_image3_20090311.jpg)
+![ipodshuffle_image4_20090311](./ipodshuffle_image4_20090311.jpg)
+![ipodshuffle_image5_20090311](./ipodshuffle_image5_20090311.jpg)
+![ipodshuffle_image6_20090311](./ipodshuffle_image6_20090311.jpg)
+![ipodshuffle_image7_20090311](./ipodshuffle_image7_20090311.jpg)
+![voiceover_hero_20090311](./voiceover_hero_20090311.jpg)
+
+## 多彩版本
+
+九月份发布更多颜色
 
 ## 图库
 
