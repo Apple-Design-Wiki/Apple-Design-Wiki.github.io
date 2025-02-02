@@ -1,12 +1,16 @@
 ---
-title: iPodNano 2006
-subtitle: iPodNano, 2006
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
-cover: ["imgs/iPodNano 2006/title_image.png", "imgs/iPodNano 2006/title_mobile_image.png"]
-top: 20060912
+title: iPodNano 2007
+subtitle: iPodNano, 2007
+content: 前部外壳采用冷锻 5052 铝合金制成。后部外壳采用成型和抛光的 304 不锈钢制成。
+cover: ["imgs/iPodNano 2007/title_image.png", "imgs/iPodNano 2007/title_mobile_image.png"]
+top: 20070912
 ---
 
 # iPod Nano 2007
+
+## 外观
+
+前部外壳采用冷锻 5052 铝合金制成。后部外壳采用成型和抛光的 304 不锈钢制成。
 
 ## 图库
 
