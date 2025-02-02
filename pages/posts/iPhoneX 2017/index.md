@@ -1,10 +1,12 @@
 ---
 title: iPhoneX2017
-subtitle: iPhoneX, 2017
-content: The iMac form was driven by its primary component, the 15��inch blown-glass cathode ray tube.
+subtitle: iPhone X, 2017
+content: 全面屏的新起点。屏幕延展至机身，与机身圆角构成浑然一体的偏移曲线。
 cover: ["imgs/iPhoneX 2017/title_image.jpg", "imgs/iPhoneX 2017/title_mobile_image.jpg"]
 top: 20171103
 ---
+
+# iPhone X, 2017
 
 ![gallery05-20100711.jpg](./iphone-x-gallery1-2017.jpg)
 
