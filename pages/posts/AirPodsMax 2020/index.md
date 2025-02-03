@@ -7,6 +7,11 @@ top: 20201215
 ---
 # AirPods Max, 2020
 
+## 视频
+
+<video controls="Controls" src="AirPods Max-Introducing-1.mp4" ></video>
+（请求该视频的官方版本）
+
 ## 数码表冠
 
 按下数码表冠可播放和暂停音乐，或在通话时静音和取消静音，按两次可在曲目之间切换或结束通话。旋转表冠可精确控制音量。
