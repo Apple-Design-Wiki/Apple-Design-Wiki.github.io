@@ -1,7 +1,7 @@
 ---
 title: MacBookPro2008
 subtitle: MacBook Pro, 2008
-content: 制造方式的彻底革新。每台MacBook Pro都以一整块铝块作为起点。每一块铝块都经过精密加工，形成基本的本体式主体。进一步加工，本体式骨架成型。再进一步加工，键盘孔位便出现了。MacBook Pro 一体式机身需要在 CNC 机床上进行多次铣削操作才能打造出来。
+content: 制造方式的彻底革新。每台 MacBook Pro 都以一整块铝块作为起点。一体式机身在 CNC 机床上进行多次铣削操作从整块雕刻出来。
 cover: ["imgs/MacBookPro 2008/title_image.png", "imgs/MacBookPro 2008/title_mobile_image.png"]
 top: 20081014
 ---
