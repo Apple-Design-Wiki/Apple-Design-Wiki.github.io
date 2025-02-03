@@ -33,11 +33,11 @@ top: 20201215
 
 ## 智能耳机套
 AirPods Max 一放进纤巧柔软的智能耳机套，就会进入超低能耗状态，大大节省电量。
-![alt text](./magic_smart_case__e1xikczc5eoi_xlarge_2x)
+![alt text](./magic_smart_case__e1xikczc5eoi_xlarge_2x.jpg)
 
 ## 视频
 
-<video src="./large_2x-1.mp4" title="Title" controls="controls"></video>
+<video src="./large_2x.mp4" title="Title" controls="controls"></video>
 
 ## 图库
 
