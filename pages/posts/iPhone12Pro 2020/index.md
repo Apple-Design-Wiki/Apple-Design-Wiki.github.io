@@ -1,7 +1,7 @@
 ---
 title: iPhone12Pro2020
 subtitle: iPhone 12 Pro, 2020
-content: 不锈钢采用熟悉的平边设计，并配有新的、特别坚固的陶瓷屏蔽前盖。其高品质材料如手术级不锈钢、磨砂玻璃背板和时尚的无边框超视网膜 XDR 显示屏。
+content: 不锈钢采用熟悉的平边设计，并配有新的、特别坚固的陶瓷玻璃，磨砂玻璃背板和。
 cover: ["imgs/iPhone12Pro 2020/title_image.jpg", "imgs/iPhone12Pro 2020/title_mobile_image.jpg"]
 illustration: "https://apple-design-wiki.github.io/assets/design_gallery_slide_blue-CYBKE0Mp.jpg"
 mode: dark
@@ -10,7 +10,7 @@ top: 20201013
 
 # iPhone 12 Pro, 2020
 
-不锈钢采用熟悉的平边设计，并配有新的、特别坚固的陶瓷屏蔽前盖。其高品质材料如手术级不锈钢、磨砂玻璃背板和时尚的无边框超视网膜 XDR 显示屏。
+不锈钢采用熟悉的平边设计，并配有新的、特别坚固的陶瓷玻璃，磨砂玻璃背板。
 
 ## 视频
 
