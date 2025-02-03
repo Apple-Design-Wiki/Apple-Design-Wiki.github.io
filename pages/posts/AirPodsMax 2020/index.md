@@ -37,7 +37,7 @@ AirPods Max 一放进纤巧柔软的智能耳机套，就会进入超低能耗�
 
 ## 视频
 
-<video controls src="./large_2x-1.mp4" title="Title" controls="controls"></video>
+<video src="./large_2x-1.mp4" title="Title" controls="controls"></video>
 
 ## 图库
 
