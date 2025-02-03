@@ -9,7 +9,7 @@ top: 20201215
 
 ## 视频
 
-<video controls="Controls" src="AirPods Max-Introducing-1.mp4" ></video>
+<video controls="Controls" src="AirPods Max-Introducing.mp4" ></video>
 （请求该视频的官方版本）
 
 ## 数码表冠
