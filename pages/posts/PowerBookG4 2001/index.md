@@ -1,0 +1,17 @@
+---
+title: PowerBookG4T2000
+subtitle: PowerBookG4T, 2000
+content: 首次将钛合金应用于消费类电子产品。
+cover: ["imgs/PowerBookG4T 2000/title_image.jpg", "imgs/PowerBookG4T 2000/title_mobile_image.jpg"]
+---
+
+# PowerBook G4 T, 2000
+
+## 图库
+
+![unofficial_3483867_1.jpg](./02pb_display.png)
+![unofficial_3483867_2.jpg](./2001_powerbookG4-1-scaled-1.jpg)
+![g3open150.jpg](./2013-06-02-tibook.jpg)
+![g3open150.jpg](./pbg4front.jpg)
+![g3open150.jpg](./pbg4side.jpg)
+![g3open150.jpg](./product.jpg)
