@@ -38,7 +38,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 </div>
 
-<div class="flex flex-col">
+</div>
 
 但无论是 Mac OS X 10.7/10.8 还是 iOS 3/4/5/6 for iPad 的日历，日历复选列表均使用默认控件。
 
