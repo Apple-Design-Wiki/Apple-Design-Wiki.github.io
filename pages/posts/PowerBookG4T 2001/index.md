@@ -2,7 +2,7 @@
 title: PowerBookG4T2001
 subtitle: PowerBook G4 Titanium, 2001
 content: 首次将钛合金应用于消费类电子产品。
-cover: ["imgs/PowerBookG4T 2001/title_image.jpg", "imgs/PowerBookG4T 2001/title_mobile_image.jpg"]
+cover: ["imgs/PowerBookG4T 2001/title_image.png", "imgs/PowerBookG4T 2001/title_mobile_image.png"]
 top: 20010101
 ---
 
