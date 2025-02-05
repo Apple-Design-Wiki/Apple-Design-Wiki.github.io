@@ -62,7 +62,7 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 遮光罩通过磁力吸附在铝框上，能紧贴你的面部轮廓，带来严丝合缝的舒适感，同时屏蔽外界光线的干扰。
 
-![alt text](./下载_2.png)
+
 
 <video controls src="./large_10.mp4" title="Title"></video>
 
