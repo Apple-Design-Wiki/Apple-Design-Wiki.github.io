@@ -26,7 +26,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 在 10.7 中的装饰缝线被移除，现在外观与 iOS4/5/6 for iPad 遥相呼应。有意思的是，直至 iOS 6 的 iPhone 版本，日历仍然使用默认控件。
 
-<div class="flex flex-col">
+
 
 <div class="flex grid-cols-3 justify-center items-center">
 
@@ -38,7 +38,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 </div>
 
-</div>
+
 
 但无论是 Mac OS X 10.7/10.8 还是 iOS 3/4/5/6 for iPad 的日历，日历复选列表均使用默认控件。
 
