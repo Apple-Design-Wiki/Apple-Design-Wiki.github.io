@@ -110,7 +110,7 @@ Apple Vision Pro 突破空间界限。以指定的方式，安排在你周围的
 
 同播共享功能让你能与他人在 FaceTime 通话时一起共享和使用 app。你可以分享某个 app 的窗口，也能展示所见的一切。共享 app 时，你仍能通过大尺寸的视频窗口看到对方。
 
-<video controls src="./large_21.mp4" title="Title">
+<video controls src="./large_21.mp4" title="Title"></video>
 
 ### 空间照片和视频
 
