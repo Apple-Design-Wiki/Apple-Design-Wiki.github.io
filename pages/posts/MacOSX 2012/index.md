@@ -30,11 +30,11 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 <div class="flex grid-cols-3 justify-center items-center">
 
-![Mac OS X 10.8 的日历，周视图](./10-8-Mountain-Lion-Calendar.png 'Mac OS X 10.8 的日历，周视图')
+![Mac OS X 10.8 的日历，周视图](./10-8-Mountain-Lion-Calendar.png 'Mac OS X')
 
-![iOS 6 for iPad 的日历，年份视图](./calendario.webp 'iOS 6 for iPad 的日历，年份视图')
+![iOS 6 for iPad 的日历，年份视图](./calendario.webp 'iPad')
 
-![iOS 6 for iPhone 的日历，仍然使用默认控件](./ios-calendar.jpg 'iOS 6 for iPhone 的日历')
+![iOS 6 for iPhone 的日历，仍然使用默认控件](./ios-calendar.jpg 'iPhone')
 
 </div>
 
