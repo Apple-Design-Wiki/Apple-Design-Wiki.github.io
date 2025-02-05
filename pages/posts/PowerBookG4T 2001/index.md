@@ -12,7 +12,7 @@ top: 20010101
 
 ![unofficial_3483867_1.jpg](./02pb_display.png)
 ![unofficial_3483867_2.jpg](./2001_powerbookG4-1-scaled-1.jpg)
-![g3open150.jpg](./2013-06-02-tibook.jpg)
+![g3open150.jpg](./2013-06-02-tibook.png)
 ![g3open150.jpg](./pbg4front.jpg)
 ![g3open150.jpg](./pbg4side.jpg)
 ![g3open150.jpg](./product.jpg)
