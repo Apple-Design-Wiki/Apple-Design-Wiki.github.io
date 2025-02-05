@@ -158,7 +158,7 @@ Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍
 
 用 FaceTime 通话与朋友交流，借助空间自影像功能，双方都能在你的空间里活动自如。还能使用无边记等 app 进行协作，或坐在一起看电影打游戏，直接复刻你的日常生活。
 
-![alt text](facetime_spatial_persona__gc88f7pgxrue_large_2x.jpg)
+![alt text](./facetime_spatial_persona__gc88f7pgxrue_large_2x.jpg)
 
 #### 同播共享
 
@@ -172,7 +172,7 @@ Apple Vision Pro 不仅汇聚你熟悉和喜爱的各款 app，还将它们融�
 
 ### 融入空间
 
-![alt text](apps_selection__d5oucgbrc5me_large_2x-1.jpg)
+![alt text](./apps_selection__d5oucgbrc5me_large_2x.jpg)
 
 ### 空间App
 
@@ -228,14 +228,12 @@ EyeSight 功能会让旁边的人知道你是否正使用 app，或正完全沉�
 
 支持Siri（主要是为了欣赏一下这个球）。
 
-![alt text](siri__bb6p4jhfelki_large_2x-1.jpg)
+![alt text](./siri__bb6p4jhfelki_large_2x.jpg)
 
 ## 视频
 
-
 <video controls src="./large_13.mp4" title="Title"></video>
 <video controls src="./large_14.mp4" title="Title"></video>
-
 
 ## 图库
 
