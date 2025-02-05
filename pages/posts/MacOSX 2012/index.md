@@ -84,7 +84,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ![iOS for iPhone 的备忘录，列表页面](./2025_02_01_13_32_IMG_0003.png 'iOS for iPhone 的备忘录，列表页面')
 
-! [iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.png 'iOS for iPhone 的备忘录，详情页面')
+![iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.png 'iOS for iPhone 的备忘录，详情页面')
 
 ## 通知中心
 
@@ -96,7 +96,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ![Mac OS X 10.8 的通知中心](./10-8-Mountain-Lion-Notification-Center.png 'Mac OS X')
 
-! [iPhone](./vanhecke_notifications_fig.png 'iPhone')
+![iPhone](./vanhecke_notifications_fig.png 'iPhone')
 
 </div>
 
