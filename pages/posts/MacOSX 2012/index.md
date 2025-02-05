@@ -94,9 +94,9 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 <div class="flex grid-cols-2 justify-center items-center">
 
-![Mac OS X 10.8 的通知中心](./10-8-Mountain-Lion-Notification-Center.png 'Mac OS X 10.8 的通知中心')
+![Mac OS X 10.8 的通知中心](./10-8-Mountain-Lion-Notification-Center.png 'Mac OS X')
 
-! [iOS 6 的通知中心](./vanhecke_notifications_fig01.png 'iOS 6 的通知中心')
+! [iOS 6 的通知中心](./vanhecke_notifications_fig01.png 'iPhone')
 
 </div>
 
