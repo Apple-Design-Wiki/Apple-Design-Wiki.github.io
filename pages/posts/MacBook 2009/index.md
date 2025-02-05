@@ -3,7 +3,6 @@ title: MacBook2009
 subtitle: MacBook, 2009
 content: 首个塑料 Unibody 的 MacBook。
 cover: ["imgs/MacBook 2009/title_image.png", "imgs/MacBook 2009/title_mobile_image.png"]
-mode: dark
 top: 20091020
 ---
 
