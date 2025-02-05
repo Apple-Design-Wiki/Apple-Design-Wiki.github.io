@@ -26,7 +26,7 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 在 10.7 中的装饰缝线被移除，现在外观与 iOS4/5/6 for iPad 遥相呼应。有意思的是，直至 iOS 6 的 iPhone 版本，日历仍然使用默认控件。
 
-
+<div class="flex flex-col">
 
 <div class="flex grid-cols-3 justify-center items-center">
 
@@ -34,11 +34,11 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ![iOS 6 for iPad 的日历，年份视图](./calendario.webp 'iOS 6 for iPad 的日历，年份视图')
 
-![iOS 6 for iPhone 的日历，仍然使用默认控件](./ios-calendar.jpg 'iOS 6 for iPhone 的日历，仍然使用默认控件')
+![iOS 6 for iPhone 的日历，仍然使用默认控件](./ios-calendar.jpg 'iOS 6 for iPhone 的日历')
 
 </div>
 
-
+</div>
 
 但无论是 Mac OS X 10.7/10.8 还是 iOS 3/4/5/6 for iPad 的日历，日历复选列表均使用默认控件。
 
@@ -55,7 +55,18 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ### iOS for iPad 的提醒事项
 
-![iOS for iPhone 的提醒事项，列表和日历页面](./160074040.png 'iOS for iPhone 的提醒事项，列表和日历页面') ![iOS for iPhone 的提醒事项，详情页面](./2025_02_01_12_50_IMG_0005.png 'iOS for iPhone 的提醒事项，详情页面')
+<div class="flex flex-col">
+
+<div class="flex grid-cols-3 justify-center items-center">
+
+![iOS for iPhone 的提醒事项，列表和日历页面](./160074040.png 'iOS for iPhone 的提醒事项，列表和日历页面') 
+
+![iOS for iPhone 的提醒事项，详情页面](./2025_02_01_12_50_IMG_0005.png 'iOS for iPhone 的提醒事项，详情页面')
+
+</div>
+
+</div>
+
 
 ### iOS for iPad 的提醒事项
 
@@ -71,17 +82,23 @@ Mac OS X 10.8 的UI最大的变化，就是从单一的默认拟物样式（灰�
 
 ### iOS for iPhone 的备忘录
 
-![iOS for iPhone 的备忘录，列表页面](./2025_02_01_13_32_IMG_0003.png 'iOS for iPhone 的备忘录，列表页面')! [iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.png 'iOS for iPhone 的备忘录，详情页面')
+![iOS for iPhone 的备忘录，列表页面](./2025_02_01_13_32_IMG_0003.png 'iOS for iPhone 的备忘录，列表页面')
+
+! [iOS for iPhone 的备忘录，详情页面](./2025_02_01_13_33_IMG_0004.png 'iOS for iPhone 的备忘录，详情页面')
 
 ## 通知中心
 
 与iOS一样，通知中心在桌面的下层。与iOS桌面文件夹/iOS 激活背景/Mac OS X 登录背景/Mission Control一样使用草砂纸背景。
+
+<div class="flex flex-col">
 
 <div class="flex grid-cols-2 justify-center items-center">
 
 ![Mac OS X 10.8 的通知中心](./10-8-Mountain-Lion-Notification-Center.png 'Mac OS X 10.8 的通知中心')
 
 ! [iOS 6 的通知中心](./vanhecke_notifications_fig01.png 'iOS 6 的通知中心')
+
+</div>
 
 </div>
 
