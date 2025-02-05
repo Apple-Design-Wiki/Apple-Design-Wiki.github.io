@@ -28,21 +28,21 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 先进的摄像头和传感器阵列协同配合，让你把周围世界看得清清楚楚，还能识别你身处的环境，探测你的手势。
 
-![alt text](./下载(3).png)
+![alt text](./下载_3.png)
 
 ### 音频带
 
 扬声器贴近双耳，带来丰富的空间音频，与现实世界的声音和谐共响。
 
-![alt text](./下载(4).png)
+![alt text](./下载_4.png)
 
 ### 头带
 
 随附两款头带。单圈编织头带具有弹性，可枕靠、可透气、可拉伸，并有贴合度调节钮，可根据自己的头型调节 Apple Vision Pro 的松紧度。双圈头带配有上下两根调节带，可确保佩戴精准服帖。
 
-![alt text](./下载(5).png)
+![alt text](./下载_5.png)
 
-<video controls src="./large(11).mp4" title="Title"></video>
+<video controls src="./large_11.mp4" title="Title"></video>
 
 ![alt text](./dual_loop_band__fsr7fnz5926a_large_2x.jpg) 
 
@@ -50,39 +50,39 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 度身定制的 micro‑OLED 显示系统拥有 2300 万颗像素，能呈现超高分辨率和绚丽色彩。特别设计的三镜式镜片，让你无论看向哪里，画面都仿佛在眼前。
 
-![alt text](./下载(1).png)
+![alt text](./下载_1.png)
 
 ### 近视镜片
 
 蔡司光学插片依据你的验光处方定制3，能通过磁力吸附在镜片上，确保清晰的视觉体验和精准的眼动追踪。
 
-<video controls src="./large(12).mp4" title="Title"></video>
+<video controls src="./large_12.mp4" title="Title"></video>
 
 ### 遮光罩
 
 遮光罩通过磁力吸附在铝框上，能紧贴你的面部轮廓，带来严丝合缝的舒适感，同时屏蔽外界光线的干扰。
 
-![alt text](./下载(2).png)
+![alt text](./下载_2.png)
 
-<video controls src="./large(10).mp4" title="Title"></video>
+<video controls src="./large_10.mp4" title="Title"></video>
 
 ### 数码旋钮
 
 按下数码旋钮即可调出主屏幕视图。启用“环境”时，转动旋钮能营造不同程度的沉浸感。
 
-![alt text](./下载(6).png)
+![alt text](./下载_6.png)
 
 ### 顶部按钮
 
 按下顶部按钮，就能拍摄空间视频和照片，留住眼前的精彩一刻。
 
-![alt text](./下载(7).png)
+![alt text](./下载_7.png)
 
 ### 电源
 
 通过外接电池供电，常规使用续航最长达 2 小时，播放视频续航最长达 2.5 小时
 
-![alt text](./下载(8).png)
+![alt text](./下载_8.png)
 
 ![alt text](./battery__cjkato9jqdjm_large_2x.jpg) 
 
@@ -92,55 +92,55 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 Apple Vision Pro 突破空间界限。以指定的方式，安排在你周围的任意位置；使用 Mac 虚拟显示器，接手 Mac 上的工作；连上妙控键盘、妙控板或其他蓝牙配件，令操作方式更加多样化；还有 FaceTime 通话的同播共享功能，协同工作。
 
-<video controls src="./large(2).mp4" title="Title"></video>
+<video controls src="./large_2.mp4" title="Title"></video>
 
 #### Mac虚拟显示屏
 
 超巨大、可延展的屏幕呈现眼前，浑厚的立体声音效萦绕耳边2。这就好比两个 5K 显示屏在你眼前并排摆放，合成一台巨型曲面显示屏。
 
-<video controls src="./large(19).mp4" title="Title"></video>
+<video controls src="./large_19.mp4" title="Title"></video>
 
 #### 3D物体
 
 将 3D 物体栩栩如生地呈现出来。你可以直接从 app 中拖一个 3D 物体出来，从各个角度观察，仿佛它就在你眼前。
 
-</video> <video controls src="./large(20).mp4" title="Title"></video>
+</video> <video controls src="./large_20.mp4" title="Title"></video>
 
 #### 同播
 
 同播共享功能让你能与他人在 FaceTime 通话时一起共享和使用 app。你可以分享某个 app 的窗口，也能展示所见的一切。共享 app 时，你仍能通过大尺寸的视频窗口看到对方。
 
-<video controls src="./large(21).mp4" title="Title">
+<video controls src="./large_21.mp4" title="Title">
 
 ### 空间照片和视频
 
 Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍摄神奇的空间照片或视频，再加上沉浸感十足的空间音频，让这些珍贵时刻生动再现，这种感觉前所未有。现有照片和视频也能以超大尺寸欣赏，给你非凡的视觉冲击。现在你只需轻轻一点，就能把手上的 2D 照片转成空间照片。全景照片会环绕在你周围，让你仿佛回到当时的拍摄点。你还能用 iPhone 16 Pro、iPhone 16 和 iPhone 15 Pro 拍摄空间视频，或用 iPhone 16 Pro 和 iPhone 16 拍摄空间照片，再到 Apple Vision Pro 上细细品。
 
-<video controls src="./large(15).mp4" title="Title"></video>
+<video controls src="./large_15.mp4" title="Title"></video>
 
 #### 3D照片
 
 空间视频和照片拥有十足的纵深感，让你仿佛身临其境。还能把画面放大再放大，更贴近这些美好的回忆。
 
-<video controls src="./large(4).mp4" title="Title"></video>
+<video controls src="./large_4.mp4" title="Title"></video>
 
 #### 人工智能生成的3D效果 
 
 通过人工智能将照片图库中现有的 2D 照片秒变空间照片。让一切看起来生动自然。
 
-<video controls src="./large(16).mp4" title="Title"></video>
+<video controls src="./large_16.mp4" title="Title"></video>
 
 #### 通过本机拍摄
 
 顶部按钮使空间视频和照片拍起来又快又方便。在你捕捉精彩画面的时候，EyeSight 会示意周围的人你正在拍摄。
 
-<video controls src="./large(17).mp4" title="Title"></video>
+<video controls src="./large_17.mp4" title="Title"></video>
 
 ### 保持联系
 
 能在真人大小的视频窗口中，看到 FaceTime 通话的对象；也能利用空间自影像，营造与对方同处一室的感觉；还能通过同播共享功能，与好友一起听歌观影，畅玩游戏。
 
-<video controls src="./large(18).mp4" title="Title"></video>
+<video controls src="./large_18.mp4" title="Title"></video>
 
 #### 空间 FaceTime 通话
 
@@ -152,7 +152,7 @@ Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍
 
 戴着 Apple Vision Pro 时，其他人能通过你的数字化自影像看到你。FaceTime 通话时，你的面部表情和手部动作都会生动自然地展现出来。
 
-<video controls src="./large(5).mp4" title="Title"></video>
+<video controls src="./large_5.mp4" title="Title"></video>
 
 #### 一同工作
 
@@ -168,7 +168,7 @@ Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍
 
 Apple Vision Pro 不仅汇聚你熟悉和喜爱的各款 app，还将它们融入你所处的空间，比如 Safari 浏览器、照片、音乐、信息等。借助 iCloud，各种内容也会自动与你的 iPhone、iPad 和 Mac 同步。
 
-<video controls src="./large(6).mp4" title="Title"></video>
+<video controls src="./large_6.mp4" title="Title"></video>
 
 ### 融入空间
 
@@ -178,13 +178,13 @@ Apple Vision Pro 不仅汇聚你熟悉和喜爱的各款 app，还将它们融�
 
 整个空间都能供 app 尽情施展，比如用正念 app 冥想时，它会为你营造一片静谧的私人空间。
 
-<video controls src="./large(7).mp4" title="Title"></video>
+<video controls src="./large_7.mp4" title="Title"></video>
 
 ## 操作系统
 
 visionOS 可以用眼睛、手和语音操控 Apple Vision Pro。你只需注视某个元素，双指互点就能选中，还能使用虚拟键盘或听写功能来打字。
 
-<video controls src="./large(1).mp4" title="Title"></video> 
+<video controls src="./large_1.mp4" title="Title"></video> 
 
 ### 图标
 
@@ -210,19 +210,19 @@ EyeSight 功能会让旁边的人知道你是否正使用 app，或正完全沉�
 
 在 visionOS 中导览非常简单，只需用眼睛注视 app、按钮或文本栏就行。当你注视某个 app 图标或按钮，它就会微微显现出来。
 
-<video controls src="./large(8).mp4" title="Title"></video>
+<video controls src="./large_8.mp4" title="Title"></video>
 
 ### 手势
 
 双指互点就能选中，轻拂就能滚动。你可以舒舒服服地坐着，将手自如地放在腿上或搭在沙发上做手势。
 
-<video controls src="./large(9).mp4" title="Title"></video>
+<video controls src="./large_9.mp4" title="Title"></video>
 
 ### 搜索
 
 注视搜索栏中的麦克风按钮，然后开始说话，就能以听写输入文本。
 
-<video controls src="./large(3).mp4" title="Title"></video> 
+<video controls src="./large_3.mp4" title="Title"></video> 
 
 ### Siri 
 
@@ -233,8 +233,8 @@ EyeSight 功能会让旁边的人知道你是否正使用 app，或正完全沉�
 ## 视频
 
 
-<video controls src="./large(13).mp4" title="Title"></video>
-<video controls src="./large(14).mp4" title="Title"></video>
+<video controls src="./large_13.mp4" title="Title"></video>
+<video controls src="./large_14.mp4" title="Title"></video>
 
 
 ## 图库
