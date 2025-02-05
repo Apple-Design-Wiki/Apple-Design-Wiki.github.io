@@ -104,7 +104,7 @@ Apple Vision Pro 突破空间界限。以指定的方式，安排在你周围的
 
 将 3D 物体栩栩如生地呈现出来。你可以直接从 app 中拖一个 3D 物体出来，从各个角度观察，仿佛它就在你眼前。
 
-</video> <video controls src="./large_20.mp4" title="Title"></video>
+</video> controls src="./large_20.mp4" title="Title"></video>
 
 #### 同播
 
