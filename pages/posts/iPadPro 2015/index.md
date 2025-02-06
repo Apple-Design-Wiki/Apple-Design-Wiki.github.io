@@ -29,11 +29,11 @@ top: 20150909
 
 它的顶层由一张高度耐用的定制编织面料制成，该面料经过激光烧蚀以形成每个按键的形状。该面料还为每个按键提供弹簧般的张力，无需使用传统机制。因此，智能键盘厚度仅为 4 毫米，同时提供您期望的准确性、稳定性和令人满意的按键手感。
 
-![alt text](keyboard_large_2x.png)
+![alt text](./keyboard_large_2x.png)
 
 64 个无缝按键。与传统键盘不同，按键之间没有缝隙。而且它采用防水防污涂层，因此智能键盘可以防污防溅。
 
-![alt text](image.png)
+![alt text](./image.png)
 
 ![alt text](./smartkey_large_2x.png) 
 
@@ -47,7 +47,7 @@ top: 20150909
 
 Smart Keyboard 的盖板由三种材质组成。与 Smart Cover 一样，顶层由耐用的聚氨酯制成，底层是柔软的超细纤维衬里，可在 Smart Keyboard 折叠时保护屏幕并保持屏幕清洁。中间层是 Smart Keyboard 真正先进的部分。它由一种新型导电织物材料制成，可确保 iPad Pro 和 Smart Keyboard 之间的无缝通信。
 
-![alt text](image-1.png)
+![alt text](./image-1.png)
 ![alt text](./smart_connector_large_2x.png) 
 
 ### 接口
