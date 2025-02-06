@@ -8,7 +8,7 @@ top: 20181030
 
 # iPad Pro,2018
 
-![alt text](./hero__b2q87exx6cfm_large_2x_1.jpg>)
+![alt text](./hero__b2q87exx6cfm_large_2x_1.jpg)
 
 ![alt text](./smart_keyboard_startframe__c6odta0xtmmq_large_2x.jpg)
 
@@ -69,7 +69,8 @@ top: 20181030
 ![alt text](./face_id__8ez3e4w0imay_large_2x.png) 
 ![alt text](./more_screen__b7xvqdp4tcdy_large_2x.png) 
 ![alt text](./system_design__bb5t8tvvwuea_large_2x.png) 
-![alt text](./thinnest_ever_guts__c1hwtx7ozoia_large_2x.png) 
+![alt text](./thinnest_ever_guts__c1hwtx7ozoia_large_2x.png)
+
 <video controls src="./large (1).mp4" title="Title"></video> 
 <video controls src="./large (2).mp4" title="Title"></video> 
 
