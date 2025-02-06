@@ -114,7 +114,11 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 ### 空间照片和视频
 
-Vision Pro 拥有 3D 相机。你能直接以 3D 模式拍摄神奇的空间照片或视频，再加上沉浸感十足的空间音频，让这些珍贵时刻生动再现，这种感觉前所未有。现有照片和视频也能以超大尺寸欣赏，给你非凡的视觉冲击。现在你只需轻轻一点，就能把手上的 2D 照片转成空间照片。全景照片会环绕在你周围，让你仿佛回到当时的拍摄点。你还能用 iPhone 16 Pro、iPhone 16 和 iPhone 15 Pro 拍摄空间视频，或用 iPhone 16 Pro 和 iPhone 16 拍摄空间照片。
+Vision Pro 拥有 3D 相机。你能直接以 3D 模式拍摄神奇的空间照片或视频，再加上沉浸感十足的空间音频，让这些珍贵时刻生动再现，这种感觉前所未有。现有照片和视频也能以超大尺寸欣赏，给你非凡的视觉冲击。
+
+全景照片会环绕在你周围，让你仿佛回到当时的拍摄点。
+
+iPhone 16 Pro、iPhone 16 和 iPhone 15 Pro 可以拍摄空间视频，iPhone 16 Pro 和 iPhone 16 可以拍摄空间照片。
 
 <video controls="Controls" src="./large_15.mp4" title="Title"></video>
 
@@ -126,13 +130,13 @@ Vision Pro 拥有 3D 相机。你能直接以 3D 模式拍摄神奇的空间照�
 
 #### 人工智能生成的3D效果 
 
-通过人工智能将照片图库中现有的 2D 照片秒变空间照片。让一切看起来生动自然。
+通过人工智能将照片图库中现有的 2D 照片变为空间照片。
 
 <video controls="Controls" src="./large_16.mp4" title="Title"></video>
 
 #### 通过本机拍摄
 
-顶部按钮使空间视频和照片拍起来又快又方便。在你捕捉精彩画面的时候，EyeSight 会示意周围的人你正在拍摄。
+顶部按钮使空间视频和照片拍起来又快又方便。拍摄时，EyeSight 会示意周围的人你正在拍摄。
 
 <video controls="Controls" src="./large_17.mp4" title="Title"></video>
 
