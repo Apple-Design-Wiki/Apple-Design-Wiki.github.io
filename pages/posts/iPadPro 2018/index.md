@@ -52,7 +52,7 @@ top: 20181030
 ![alt text](./more_screen__b7xvqdp4tcdy_large_2x.png) 
 ![alt text](./system_design__bb5t8tvvwuea_large_2x.png) 
 ![alt text](./thinnest_ever_guts__c1hwtx7ozoia_large_2x.png) 
-<video controls src="large (1).mp4" title="Title"></video> 
-<video controls src="large (2).mp4" title="Title"></video> 
-<video controls src="large.mp4" title="Title"></video>
+<video controls src="./large (1).mp4" title="Title"></video> 
+<video controls src="./large (2).mp4" title="Title"></video> 
+<video controls src="./large.mp4" title="Title"></video>
 
