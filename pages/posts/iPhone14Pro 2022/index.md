@@ -64,23 +64,23 @@ Dynamic Island 令人印象深刻，可显示通知、警报和活动。带来�
 
 ## 图库
 
-![alt text](lenses__gm0vp98jxtiu_large.jpg) 
+![alt text](./lenses__gm0vp98jxtiu_large.jpg) 
 
-![alt text](iphone-14-pro-finish-select-202209-6-1inch-deeppurple.jpg) 
+![alt text](./iphone-14-pro-finish-select-202209-6-1inch-deeppurple.jpg) 
 
-![alt text](iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV2.jpg) 
+![alt text](./iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV2.jpg) 
 
-![alt text](iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV1.jpg) 
-![alt text](iphone-14-pro-finish-select-202209-6-1inch-spaceblack_AV1.jpg) 
-![alt text](iphone-14-pro-finish-unselect-gallery-3-202209_GEO_US.jpg) 
+![alt text](./iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV1.jpg) 
+![alt text](./iphone-14-pro-finish-select-202209-6-1inch-spaceblack_AV1.jpg) 
+![alt text](./iphone-14-pro-finish-unselect-gallery-3-202209_GEO_US.jpg) 
 
-![alt text](iphone-14-pro-finish-unselect-gallery-1-202209.jpg) 
+![alt text](./iphone-14-pro-finish-unselect-gallery-1-202209.jpg) 
 
-![alt text](iphone-14-pro-finish-unselect-gallery-4-202209.jpg) 
-![alt text](iphone-14-pro-model-select-202209-6-1inch.jpg) 
-![alt text](iphone-14-pro-model-select-202209-6-1inch_AV1.jpg) 
-![alt text](iphone-14-pro-model-select-202209-6-1inch_AV2.jpg) 
-![alt text](iphone-14-pro-storage-select-202209-6-1inch-spaceblack.jpg)
+![alt text](./iphone-14-pro-finish-unselect-gallery-4-202209.jpg) 
+![alt text](./iphone-14-pro-model-select-202209-6-1inch.jpg) 
+![alt text](./iphone-14-pro-model-select-202209-6-1inch_AV1.jpg) 
+![alt text](./iphone-14-pro-model-select-202209-6-1inch_AV2.jpg) 
+![alt text](./iphone-14-pro-storage-select-202209-6-1inch-spaceblack.jpg)
 
 
 
