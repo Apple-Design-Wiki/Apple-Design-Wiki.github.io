@@ -62,7 +62,7 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 遮光罩通过磁力吸附在铝框上，能紧贴你的面部轮廓，带来严丝合缝的舒适感，同时屏蔽外界光线的干扰。
 
-
+![alt text](./下载_2.png)
 
 <video controls src="./large_10.mp4" title="Title"></video>
 
@@ -90,13 +90,13 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 ### 生产力
 
-Apple Vision Pro 突破空间界限。以指定的方式，安排在你周围的任意位置；使用 Mac 虚拟显示器，接手 Mac 上的工作；连上妙控键盘、妙控板或其他蓝牙配件，令操作方式更加多样化；还有 FaceTime 通话的同播共享功能，协同工作。
+以指定的方式，安排在你周围的任意位置；使用 Mac 虚拟显示器，接手 Mac 上的工作；连上键盘、触控板或其他蓝牙配件，令操作方式更加多样化；还有 FaceTime 通话的同播共享功能，协同工作。
 
 <video controls src="./large_2.mp4" title="Title"></video>
 
 #### Mac虚拟显示屏
 
-超巨大、可延展的屏幕呈现眼前，浑厚的立体声音效萦绕耳边2。这就好比两个 5K 显示屏在你眼前并排摆放，合成一台巨型曲面显示屏。
+超巨大、可延展的屏幕呈现眼前，浑厚的立体声音效萦绕耳边。好比两个 5K 显示屏在你眼前并排摆放，合成一台巨型曲面显示屏。
 
 <video controls src="./large_19.mp4" title="Title"></video>
 
@@ -114,7 +114,7 @@ Apple Vision Pro 突破空间界限。以指定的方式，安排在你周围的
 
 ### 空间照片和视频
 
-Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍摄神奇的空间照片或视频，再加上沉浸感十足的空间音频，让这些珍贵时刻生动再现，这种感觉前所未有。现有照片和视频也能以超大尺寸欣赏，给你非凡的视觉冲击。现在你只需轻轻一点，就能把手上的 2D 照片转成空间照片。全景照片会环绕在你周围，让你仿佛回到当时的拍摄点。你还能用 iPhone 16 Pro、iPhone 16 和 iPhone 15 Pro 拍摄空间视频，或用 iPhone 16 Pro 和 iPhone 16 拍摄空间照片，再到 Apple Vision Pro 上细细品。
+Vision Pro 拥有 3D 相机。你能直接以 3D 模式拍摄神奇的空间照片或视频，再加上沉浸感十足的空间音频，让这些珍贵时刻生动再现，这种感觉前所未有。现有照片和视频也能以超大尺寸欣赏，给你非凡的视觉冲击。现在你只需轻轻一点，就能把手上的 2D 照片转成空间照片。全景照片会环绕在你周围，让你仿佛回到当时的拍摄点。你还能用 iPhone 16 Pro、iPhone 16 和 iPhone 15 Pro 拍摄空间视频，或用 iPhone 16 Pro 和 iPhone 16 拍摄空间照片。
 
 <video controls src="./large_15.mp4" title="Title"></video>
 
@@ -150,9 +150,9 @@ Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍
 
 #### 数字个人影像
 
-戴着 Apple Vision Pro 时，其他人能通过你的数字化自影像看到你。FaceTime 通话时，你的面部表情和手部动作都会生动自然地展现出来。
+戴着 Vision Pro 时，其他人能通过你的数字化自影像看到你。FaceTime 通话时，你的面部表情和手部动作都会生动自然地展现出来。
 
-<video controls src="./large_5.mp4" title="Title"></video>
+<video controls src="./large_5.mp4" title="建模数字化影像"></video>
 
 #### 一同工作
 
@@ -166,7 +166,7 @@ Apple Vision Pro 拥有 Apple 第一台 3D 相机。你能直接以 3D 模式拍
 
 ## 软件
 
-Apple Vision Pro 不仅汇聚你熟悉和喜爱的各款 app，还将它们融入你所处的空间，比如 Safari 浏览器、照片、音乐、信息等。借助 iCloud，各种内容也会自动与你的 iPhone、iPad 和 Mac 同步。
+Vision Pro 不仅汇聚你熟悉和喜爱的各款 app，还将它们融入你所处的空间。
 
 <video controls src="./large_6.mp4" title="Title"></video>
 
@@ -200,7 +200,7 @@ visionOS 可以用眼睛、手和语音操控 Apple Vision Pro。你只需注视
 
 ### EyeSight
 
-EyeSight 功能会让旁边的人知道你是否正使用 app，或正完全沉浸其中。如果有人靠近，Apple Vision Pro 会让你看到对方，同时把你的双眼展示出来。
+旨在让旁边的人知道你是否正使用 app 或正完全沉浸其中。如果有人靠近，Vision Pro 会让你看到对方，同时把你的双眼展示出来。
 
 ![alt text](./portrait_front_base__gmqifatci56q_large_2x.jpg)
 
@@ -214,7 +214,7 @@ EyeSight 功能会让旁边的人知道你是否正使用 app，或正完全沉�
 
 ### 手势
 
-双指互点就能选中，轻拂就能滚动。你可以舒舒服服地坐着，将手自如地放在腿上或搭在沙发上做手势。
+双指互点就能选中，轻拂就能滚动。将手放在腿上或搭在沙发上做手势。
 
 <video controls src="./large_9.mp4" title="Title"></video>
 
