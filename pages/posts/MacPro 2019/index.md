@@ -102,7 +102,11 @@ Ligtenberg 说：“空气很容易滞留在通道中，一种常见的被动解
 
 ![alt text](./connections_tiles_top_ports__vb0u9kgbb7ma_large_2x.jpg) 
 
+## 扶手和滚轮
 
+装上可选配的滚轮，Mac Pro 就能在场地之内，或几个工作室之间轻松移动。轻轻一转顶部闩锁，就可将铝金属机箱从内框上松开；它还可用作手柄提起机箱
+
+<video controls src="large_2x3.mp4" title="Title"></video>
 
 ## 视频
 

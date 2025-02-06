@@ -128,6 +128,10 @@ iPhone 16 Pro、iPhone 16 和 iPhone 15 Pro 可以拍摄空间视频，iPhone 16
 
 <video controls="Controls" src="./large_4.mp4" title="Title"></video>
 
+Alan Dye：“当我们第一次开始做这个并看到一些效果时，让我们很多人都很难过，因为我们没有在我们的孩子年幼时或者我们的父母还在时拥有这个产品。”
+
+这种3D照片让人联想起科幻片中的3D视频和照片，通常来说科幻片中他们直接投影在空气中。
+
 #### 人工智能生成的3D效果 
 
 通过人工智能将照片图库中现有的 2D 照片变为空间照片。
@@ -210,6 +214,11 @@ visionOS 可以用眼睛、手和语音操控 Apple Vision Pro。你只需注视
 
 ![alt text](./eyesight__fpk4mmfeztme_large_2x.jpg) 
 
+Alan Dye：“我们有一些很难实现，但很重要的想法。比如说，我们有一个很大的想法就是连接，与你所在的世界保持连接，但也与那些不在你身边的人保持连接。所以我们努力让人们能够与他们所在的世界保持联系…… 这就是为什么这是一个非常注重 AR 的产品。这就是为什么我们努力让它变成这样，当你戴上它时，你看到的是你的世界…… 你只是带着一个‘护目镜’而已。”让别人能够看到佩戴者的眼睛是“对我们来说非常重要的一件事”，该功能花了“几年时间才开发出来”，Dye说，当你佩戴Vision Pro时，能够让别人看到你的眼睛可以大大的减轻孤立感。我们相信用户在佩戴Vision Pro时，不应该感到孤立。Dye提到：“我们的第一用户界面创建于互联网之中，目的是用户使用。那么Eyesight功能的界面，则是为了用户周围的人创建的。”
+
+（由 Debbie MillmanDesign 主持的 Matters 系列播客采访了 Alan Dye，介绍了他的设计生涯、在苹果的早年故事，以及为 Vision Pro 提供支持的新 visionOS 平台。）
+（https://www.163.com/dy/article/I9UVE0RO0511B8LM.html）
+
 ### 注视响应
 
 在 visionOS 中导览非常简单，只需用眼睛注视 app、按钮或文本栏就行。当你注视某个 app 图标或按钮，它就会微微显现出来。
@@ -233,6 +242,10 @@ visionOS 可以用眼睛、手和语音操控 Apple Vision Pro。你只需注视
 支持Siri（主要是为了欣赏一下这个球）。
 
 ![alt text](./siri__bb6p4jhfelki_large_2x.jpg)
+
+## UI和视觉设计
+
+我们所使用的这个材料仿佛就是真实世界当中的这种材质，它的感觉就跟真实世界几乎是完全一样的。（https://www.ifanr.com/1564107 爱范儿的独家专访 Craig 和 Alan）
 
 ## 视频
 
