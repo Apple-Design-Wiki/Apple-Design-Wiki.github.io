@@ -8,7 +8,13 @@ top: 20181030
 
 # iPad Pro,2018
 
+![alt text](./hero__b2q87exx6cfm_large_2x_1.jpg>)
+
+![alt text](./smart_keyboard_startframe__c6odta0xtmmq_large_2x.jpg)
+
 “我认为新款 iPad Pro 特别之处在于它没有方向感。它的四周都有扬声器。通过取消 Home 键和开发 Face ID，这款平板电脑可以在所有这些不同的方向上工作。
+
+<video controls src="./large.mp4" title="Title"></video>
 
 “新发布的 iPad Pro 还有一个变化，那就是屏幕四角的一个细节。这种变化你可能不会注意到，但它会从根本上改变你对产品的体验。
 
@@ -16,8 +22,20 @@ top: 20181030
 
 我们中的许多人都不会有意识地说'这就是我喜欢它的原因'，但我确实认为，作为一个物种，我们的感知能力远远超过我们的表达能力。我认为，新款 iPad Pro 是如此独特和综合的产品，以至于它看起来与 99% 的其他复杂技术产品不同。”
 
+## 平直的边缘
+
 关于 iPad Pro，Ive 说他正在考虑平板电脑的边缘，以前 iPad 的边缘是弯曲的，而现在是平的。“我们设法改变了外形，使边缘部分不再是弧形边缘，而是一个简单的垂直面。我们之所以能做到这一点，是因为我们的产品已经达到了这样的程度：出色的工程团队已经能够把它做得非常薄，这意味着我们可以有一个非常简单直接的边缘细节。以前的产品还没有这么薄的时候，我们无法做到这一点。”
 （https://www.patentlyapple.com/2018/11/jony-ive-talks-about-one-of-his-latest-creations-the-pad-pro.html）
+
+![alt text](./portable__gkha84qrj4ii_large_2x.jpg) 
+
+## 笔
+
+平板平直的边缘使得可以吸附充电，当然，笔身也有一片平面
+
+<video controls src="./large3-1.mp4" title="Title"></video>
+
+
 
 ![alt text](./use_it_effortlessly__de408qsdw54y_large_2x.jpg) 
 ![alt text](./virtually_no_lag__d39gjw6jh08y_large_2x.jpg) 
@@ -42,7 +60,7 @@ top: 20181030
 ![alt text](./screen_sizes__bcqto9ysnahu_large_2x.jpg) 
 ![alt text](./smart_keyboard_endframe__e7zycp1pnzma_large_2x.jpg) 
 ![alt text](./smart_keyboard_pencil_router__bpy1sf6vmieq_large_2x.jpg) 
-![alt text](./smart_keyboard_startframe__c6odta0xtmmq_large_2x.jpg)
+
 ![alt text](./thinnest_ever__eb9ijwdeq6wm_large_2x.jpg) 
 ![alt text](./tilt_for_shading__bcjqezm7x0xu_large_2x.jpg) 
 ![alt text](./true_depth_camera__do7ezum03rgy_large_2x.png) 
@@ -54,5 +72,5 @@ top: 20181030
 ![alt text](./thinnest_ever_guts__c1hwtx7ozoia_large_2x.png) 
 <video controls src="./large (1).mp4" title="Title"></video> 
 <video controls src="./large (2).mp4" title="Title"></video> 
-<video controls src="./large.mp4" title="Title"></video>
+
 
