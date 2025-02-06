@@ -26,6 +26,7 @@ top: 20190604
 它们功能齐全，能够提供比前置格栅通常所能提供的更多的空气流量。在新款 Mac Pro 进入产品线之前，这个设计就已经在苹果的设计实验室里酝酿了一段时间。（https://www.axios.com/2019/06/04/apple-mac-pro-unveiling）“这种设计思路已经在苹果内部的实验室里存在了很长一段时间，甚至比我们规划新 Mac Pro 还要早。”https://www.ifanr.com/1291118
 
 <video src="./large_2x (1).mp4" autoplay loop muted ></video>
+
 ![alt text](./hero_case__ea52dhf7so8y_large_2x.jpg) 
 
 是一款旨在让各类专业人士突破极限的系统。
@@ -37,6 +38,7 @@ top: 20190604
 Mac Pro 的每一个方面都以追求性能为设计理念。铝制外壳采用不锈钢空间框架构建，可掀开，可 360 度接触每个组件和大量配置。从此一切皆有可能。
 
 <video src="./large_2x (3).mp4" autoplay loop muted ></video>
+
 ![alt text](./design_case_outside__pz8oygsc4n2i_large_2x.jpg) 
 ![alt text](./design_case_handles__ffldvu3llliu_large_2x.png) 
 ![alt text](./design_case_inside__b53rnabps882_large_2x.jpg) 
@@ -106,7 +108,7 @@ Ligtenberg 说：“空气很容易滞留在通道中，一种常见的被动解
 
 装上可选配的滚轮，Mac Pro 就能在场地之内，或几个工作室之间轻松移动。轻轻一转顶部闩锁，就可将铝金属机箱从内框上松开；它还可用作手柄提起机箱
 
-<video controls src="large_2x3.mp4" title="Title"></video>
+<video controls src="./large_2x3.mp4" title="Title"></video>
 
 ## 视频
 
