@@ -104,7 +104,7 @@ Apple Vision Pro 将数字化内容无缝融入现实空间。从工作、娱乐
 
 将 3D 物体栩栩如生地呈现出来。你可以直接从 app 中拖一个 3D 物体出来，从各个角度观察，仿佛它就在你眼前。
 
-</video> controls="Controls" src="./large_20.mp4" title="Title"></video>
+<video controls="Controls" src="./large_20.mp4" title="Title"></video>
 
 #### 同播
 
