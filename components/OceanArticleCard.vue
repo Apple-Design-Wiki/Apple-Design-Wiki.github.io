@@ -65,7 +65,7 @@ onMounted(() => {
         {{ post.content }}
       </div>
     </div>
-    <div class="article-card-img" w="md:69%" h="full">
+    <div class="article-card-img" w="md:69%" h="full" :style="{ 'object-fit': post?.cropMode || 'contain' }">
       <img v-if="post.cover" :src="post.cover[0]" :alt="post.cover[0]">
     </div>
   </article>
@@ -108,7 +108,6 @@ onMounted(() => {
     img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
       transition: transform 400ms cubic-bezier(0.4, 0, 0.25, 1);
 
       &:hover {
