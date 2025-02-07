@@ -8,13 +8,19 @@ top: 20181030
 
 # iPad Pro,2018
 
+## 概述
+
 iPad 的愿景一直是打造一块神奇的玻璃，可以随心所欲地变成你想要的样子。新款 iPad Pro 是这一愿景的终极体现。
 
 ![alt text](./hero__b2q87exx6cfm_large_2x_1.jpg)
 
-“我认为新款 iPad Pro 特别之处在于它没有方向感。它的四周都有扬声器。通过取消 Home 键和开发 Face ID，这款平板电脑可以在所有这些不同的方向上工作。
+## 没有方向
+
+Jony Ive：“我认为新款 iPad Pro 特别之处在于它没有方向感。它的四周都有扬声器。通过取消 Home 键和开发 Face ID，这款平板电脑可以在所有这些不同的方向上工作。
 
 <video controls src="./large.mp4" title="Title"></video>
+
+## 全面屏
 
 “新发布的 iPad Pro 还有一个变化，那就是屏幕四角的一个细节。这种变化你可能不会注意到，但它会从根本上改变你对产品的体验。
 
