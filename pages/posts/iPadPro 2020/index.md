@@ -3,7 +3,7 @@ title: iPadPro2020
 subtitle: iPadPro, 2020
 content: 增加了触控板，iPad 首次引入光标。
 cover: ["imgs/iPadPro 2020/title_image.png", "imgs/iPadPro 2020/title_mobile_image.png"]
-top: 20201030
+top: 20200325
 mode: dark
 ---
 
