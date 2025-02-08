@@ -118,7 +118,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 “我们的工作人员一直都待在里面,”福斯特尔说,“他们晚上在，周末也在。你可以想象，整个楼层闻起来都是比萨味儿。
 
-“在紫色宿舍的前门,我们放了一块牌子,上面写着'搏击俱乐部’(FightClub)，因为在同名电影里，搏击俱乐部的成员要遵守的第一条规定就是不能谈论俱乐部的事。同样地，在我们的'紫色项目’中，大家要遵守的基本规定就是不能对门外面的人说起这个项目。”
+“在紫色宿舍的前门,我们放了一块牌子,上面写着'搏击俱乐部’(Fight Club)，因为在同名电影里，搏击俱乐部的成员要遵守的第一条规定就是不能谈论俱乐部的事。同样地，在我们的'紫色项目’中，大家要遵守的基本规定就是不能对门外面的人说起这个项目。”
 
 回到工业设计团队，乔纳森正如往常一样，开始书写专属于iPhone的传奇。他后来描述，自己当时考虑的都是用户对设备的感受。“这些设计在初期阶段，试图制定一些基本目标的时候--我们经常会一起讨论这种和产品有关的故事--我们所讨论的是对产品的感性认识，是用户对产品的感觉这种感觉不是指身体的感受，而是指用户在认知层面对产品的看法。”
 
@@ -140,67 +140,17 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 乔纳森和团队成员们更看重Extrudo的外观，对此给予了最大关注。他们试着沿x轴横向挤压一些设计样品：
 
-<div class="flex flex-col">
+![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page6.png) 
 
-<div class="flex grid-cols-2 justify-center items-center">
+![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page10.png) 
 
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_6_of_39.png) 
+![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page14.png) 
 
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_7_of_39.png) 
-
-</div>
-
-</div>
-
-<div class="flex flex-col">
-
-<div class="flex grid-cols-2 justify-center items-center">
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_18_of_39.png) 
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_19_of_39.png) 
-
-</div>
-
-</div>
-
-<div class="flex flex-col">
-
-<div class="flex grid-cols-2 justify-center items-center">
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_14_of_39.png) 
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_15_of_39.png) 
-
-</div>
-
-</div>
-
-<div class="flex flex-col">
-
-<div class="flex grid-cols-2 justify-center items-center">
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_30_of_39.png)
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_31_of_39.png) 
-
-</div>
-
-</div>
+![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page30.png) 
 
 还有一些则沿y轴纵向挤压：
 
-<div class="flex flex-col">
-
-<div class="flex grid-cols-2 justify-center items-center">
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_10_of_39.png) 
-
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf_-_Page_11_of_39.png) 
-
-</div>
-
-</div>
+![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page18.png)
 
 然而问题很快就出现了。Extrudo的边缘太硬，设计师们把它贴在耳旁之后脸就被戳疼了。这点让乔布斯尤其痛恨。为了使边缘变得柔和，他们给边角裹上了塑料，这恰好也为无线电天线提供了便利。iPhone有3个无线接收装置:Wi-Fi、蓝牙和无线电。但无线电波不能穿透金属的外壳，因此盖顶很有必要选择塑料材质。
 
