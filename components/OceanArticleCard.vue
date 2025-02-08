@@ -1,28 +1,51 @@
 <script lang="ts" setup>
 import type { Post } from 'valaxy'
-import { useEventListener, useThrottleFn } from '@vueuse/core'
+import { useCssVar, useEventListener, useIntersectionObserver, useThrottleFn } from '@vueuse/core'
 import { useAppStore } from 'valaxy'
 import { onMounted, ref } from 'vue'
 
-const props = defineProps<{
+const { post, nextPost } = defineProps<{
   post: Post
+  previousPost?: Post
+  nextPost?: Post
 }>()
 
 const appStore = useAppStore()
+const navHeightVal = useCssVar('--oceanus-nav-height')
 
 const articleCard = ref()
+const articleCardIsVisible = ref(false)
+
+useIntersectionObserver(
+  articleCard,
+  ([entry], _observerElement) => {
+    articleCardIsVisible.value = entry?.isIntersecting || false
+  },
+)
 
 function checkIfAtTop() {
   const rect = articleCard.value.getBoundingClientRect()
-  if (rect.top <= 0) {
-    const mode = props.post.mode
+  const navHeight = navHeightVal?.value ? Number.parseFloat(navHeightVal.value) : 0
+  const isDarkMode = post?.mode === 'dark'
 
-    if (mode === 'dark' && !appStore.isDark) {
-      appStore.toggleDark()
-    }
-    else if (mode !== 'dark' && appStore.isDark) {
-      appStore.toggleDark()
-    }
+  if (!articleCardIsVisible.value)
+    return
+
+  // Switch dark mode
+  if (rect.top <= navHeight && isDarkMode !== appStore.isDark) {
+    appStore.toggleDark()
+  }
+
+  if (!isDarkMode && nextPost?.mode === 'dark') {
+    // HACK: use css var
+    let backgroundColor: string
+
+    if (navHeight >= rect.bottom)
+      backgroundColor = '#000'
+    else
+      backgroundColor = '#fff'
+
+    articleCard.value.style.backgroundColor = backgroundColor
   }
 }
 
@@ -42,7 +65,7 @@ onMounted(() => {
         {{ post.content }}
       </div>
     </div>
-    <div class="article-card-img" w="md:69%" h="full">
+    <div class="article-card-img" w="md:69%" h="full" :style="{ 'object-fit': post?.cropMode || 'contain' }">
       <img v-if="post.cover" :src="post.cover[0]" :alt="post.cover[0]">
     </div>
   </article>
@@ -85,7 +108,6 @@ onMounted(() => {
     img {
       width: 100%;
       height: 100%;
-      object-fit: cover;
       transition: transform 400ms cubic-bezier(0.4, 0, 0.25, 1);
 
       &:hover {
