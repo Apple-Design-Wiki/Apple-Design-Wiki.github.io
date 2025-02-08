@@ -65,8 +65,8 @@ onMounted(() => {
         {{ post.content }}
       </div>
     </div>
-    <div class="article-card-img" w="md:69%" h="full" :style="{ 'object-fit': post?.cropMode || 'contain' }">
-      <img v-if="post.cover" :src="post.cover[0]" :alt="post.cover[0]">
+    <div class="article-card-img" w="md:69%" h="full">
+      <img v-if="post.cover" :src="post.cover[0]" :alt="post.cover[0]" :style="{ 'object-fit': post?.cropMode || 'contain' }">
     </div>
   </article>
 </template>

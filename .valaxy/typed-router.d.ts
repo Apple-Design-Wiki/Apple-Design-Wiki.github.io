@@ -98,7 +98,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/PowerBookG4T 2001/': RouteRecordInfo<'/posts/PowerBookG4T 2001/', '/posts/PowerBookG4T 2001', Record<never, never>, Record<never, never>>,
     '/posts/PowerMacG3 1999/': RouteRecordInfo<'/posts/PowerMacG3 1999/', '/posts/PowerMacG3 1999', Record<never, never>, Record<never, never>>,
     '/posts/PowerMacG4 1999/': RouteRecordInfo<'/posts/PowerMacG4 1999/', '/posts/PowerMacG4 1999', Record<never, never>, Record<never, never>>,
-    '/posts/PowerMacG4Cube 1999/': RouteRecordInfo<'/posts/PowerMacG4Cube 1999/', '/posts/PowerMacG4Cube 1999', Record<never, never>, Record<never, never>>,
+    '/posts/PowerMacG4Cube 2000/': RouteRecordInfo<'/posts/PowerMacG4Cube 2000/', '/posts/PowerMacG4Cube 2000', Record<never, never>, Record<never, never>>,
     '/posts/PowerMacG5 2003/': RouteRecordInfo<'/posts/PowerMacG5 2003/', '/posts/PowerMacG5 2003', Record<never, never>, Record<never, never>>,
     '/posts/ProDisplayXDR 2019/': RouteRecordInfo<'/posts/ProDisplayXDR 2019/', '/posts/ProDisplayXDR 2019', Record<never, never>, Record<never, never>>,
     '/posts/VisionPro 2023/': RouteRecordInfo<'/posts/VisionPro 2023/', '/posts/VisionPro 2023', Record<never, never>, Record<never, never>>,
