@@ -88,7 +88,7 @@ watchEffect(async () => {
     </article>
   </section>
 
-  <section v-else-if="mode === 'grid'" class="grid-gallery gallery" grid="~ cols-1 lg:cols-2 xl:cols-3" style="gap: var(--gap);" :style="{ '--min-height': minHeight, '--max-height': maxHeight }">
+  <section v-else-if="mode === 'grid'" class="gallery grid-gallery" grid="~ cols-1 lg:cols-2 xl:cols-3" style="gap: var(--gap);" :style="{ '--min-height': minHeight, '--max-height': maxHeight }">
     <article v-for="images, idx of parts" :key="idx" flex="~ col" style="gap: var(--gap);">
       <img v-for="image, i of images" :key="i" w="full" h="full" :src="image" alt="image" :style="{ '--enter-stage': idx + 1 }" class="slide-enter gallery-item object-cover">
       <!-- TODO: expandable -->
