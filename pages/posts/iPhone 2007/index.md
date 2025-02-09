@@ -209,7 +209,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ![alt text](./iphone-proto-7.webp)
 
-<ImgGallery mode='grid' :src='[
+<ImgGallery mode='grid' min-height='none' :src='[
 "/imgs/iPhone 2007/Mar.15.2006_90.png",
 "/imgs/iPhone 2007/Mar.15.2006_91.png", 
 "/imgs/iPhone 2007/Mar.15.2006_92.png", 
@@ -247,7 +247,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ![alt text](./image-2.png)
 
-<ImgGallery mode='grid' :src='[
+<ImgGallery mode='grid' min-height='none' :src='[
 "/imgs/iPhone 2007/image-3.png",
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes21_1020.1343331203.jpg", 
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes_1020.1343331238.jpg", 
