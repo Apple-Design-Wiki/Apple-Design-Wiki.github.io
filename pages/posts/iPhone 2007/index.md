@@ -158,13 +158,13 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 在专利战中公布的代号为 M68 手机的一组设计CAD。（https://www.cnet.com/pictures/dueling-designs-apple-v-samsung-pictures/）
 
-![alt text](./iphone-proto-2.webp) 
-![alt text](./iphone-proto-13.webp) 
-![alt text](./ipod-proto.webp) 
-![alt text](./ipod-proto-2.webp) 
-![alt text](./ipod-proto-3.webp) 
-![alt text](./ipod-proto-4.webp) 
-![alt text](./ipod-proto-5.webp)
+![alt text](https://apple-design-wiki.github.io/assets/iphone-proto-2.webp) 
+![alt text](https://apple-design-wiki.github.io/assets/iphone-proto-13.webp) 
+![alt text](https://apple-design-wiki.github.io/assets/ipod-proto.webp) 
+![alt text](https://apple-design-wiki.github.io/assets/ipod-proto-2.webp) 
+![alt text](https://apple-design-wiki.github.io/assets/ipod-proto-3.webp) 
+![alt text](https://apple-design-wiki.github.io/assets/ipod-proto-4.webp) 
+![alt text](https://apple-design-wiki.github.io/assets/ipod-proto-5.webp)
 
 ![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page6.png) 
 
@@ -187,28 +187,28 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-8.webp) 
 ![alt text](./iphone-proto-7.webp)
 
-![alt text](./Mar.13.2006_81.png) 
-![alt text](./Mar.13.2006_72.png) 
-![alt text](./Mar.13.2006_73.png) 
-![alt text](./Mar.13.2006_74.png) 
-![alt text](./Mar.13.2006_75.png) 
-![alt text](./Mar.13.2006_76.png) 
-![alt text](./Mar.13.2006_77.png) 
-![alt text](./Mar.13.2006_78.png) 
-![alt text](./Mar.13.2006_79.png) 
-![alt text](./Mar.13.2006_80.png)
+![alt text](https://apple-design-wiki.github.io/assets//Mar.13.2006_81.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_72.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_73.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_74.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_75.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_76.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_77.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_78.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_79.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_80.png)
 
 还有令一组图纸，看起来是不同的方向，看起来完全圆润（Mar.15, 2006）。
 
-![alt text](./Mar.15.2006_90.png)
-![alt text](./Mar.15.2006_91.png) 
-![alt text](./Mar.15.2006_92.png) 
-![alt text](./Mar.15.2006_93.png) 
-![alt text](./Mar.15.2006_94.png) 
-![alt text](./Mar.15.2006_95.png) 
-![alt text](./Mar.15.2006_96.png) 
-![alt text](./Mar.15.2006_97.png) 
-![alt text](./Mar.15.2006_98.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_90.png)
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_91.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_92.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_93.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_94.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_95.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_96.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_97.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.15.2006_98.png) 
 
 然而问题很快就出现了。Extrudo的边缘太硬，设计师们把它贴在耳旁之后脸就被戳疼了。这点让乔布斯尤其痛恨。为了使边缘变得柔和，他们给边角裹上了塑料，这恰好也为无线电天线提供了便利。iPhone有3个无线接收装置:Wi-Fi、蓝牙和无线电。但无线电波不能穿透金属的外壳，因此盖顶很有必要选择塑料材质。
 
@@ -236,28 +236,28 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ![alt text](./image-2.png)
 
-![alt text](./image-3.png)
-
-![alt text](./sony_inspired_iphone_prototypes21_1020.1343331203.jpg) 
-![alt text](./sony_inspired_iphone_prototypes_1020.1343331238.jpg) 
-![alt text](./sony_inspired_iphone_prototypes2_1020.1343331234.jpg) 
-![alt text](./sony_inspired_iphone_prototypes3_1020.1343331234.jpg) 
-![alt text](./sony_inspired_iphone_prototypes4_1020.1343331229.jpg) 
-![alt text](./sony_inspired_iphone_prototypes5_1020.1343331229.jpg) 
-![alt text](./sony_inspired_iphone_prototypes6_1020.1343331226.jpg) 
-![alt text](./sony_inspired_iphone_prototypes7_1020.1343331227.jpg) 
-![alt text](./sony_inspired_iphone_prototypes8_1020.1343331223.jpg) 
-![alt text](./sony_inspired_iphone_prototypes9_1020.1343331222.jpg) 
-![alt text](./sony_inspired_iphone_prototypes11_1020.1343331218.jpg) 
-![alt text](./sony_inspired_iphone_prototypes12_1020.1343331216.jpg) 
-![alt text](./sony_inspired_iphone_prototypes13_1020.1343331215.jpg) 
-![alt text](./sony_inspired_iphone_prototypes14_1020.1343331214.jpg) 
-
-![alt text](./sony_inspired_iphone_prototypes16_1020.1343331204.jpg) 
-![alt text](./sony_inspired_iphone_prototypes17_1020.1343331204.jpg) 
-![alt text](./sony_inspired_iphone_prototypes18_1020.1343331205.jpg) 
-![alt text](./sony_inspired_iphone_prototypes19_1020.1343331204.jpg) 
-![alt text](./sony_inspired_iphone_prototypes20_1020.1343331204.jpg)
+<ImageGrid mode:grid :src='[
+"https://apple-design-wiki.github.io/assets/image-3.png",
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes21_1020.1343331203.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes_1020.1343331238.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes2_1020.1343331234.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes3_1020.1343331234.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes4_1020.1343331229.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes5_1020.1343331229.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes6_1020.1343331226.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes7_1020.1343331227.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes8_1020.1343331223.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes9_1020.1343331222.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes11_1020.1343331218.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes12_1020.1343331216.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes13_1020.1343331215.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes14_1020.1343331214.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes16_1020.1343331204.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes17_1020.1343331204.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes18_1020.1343331205.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes19_1020.1343331204.jpg", 
+"https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes20_1020.1343331204.jpg",
+]' />
 
 多年以后，在苹果与三星的“世纪审判”中，三星拿出一部尼斯波利仿制索尼的手机，用这个证据证明乔纳森的设计团队并非如他们自己所说的独立开发iPhone，而是复制了其他公司的设计。三星提交的法庭文件指出，2006 年，在托尼·法德尔 (Tony Fadell) 在公司内部传阅了对一位索尼设计师的采访后，苹果工业设计师 Shin Nishibori 被要求设计一款受索尼美学启发的 iPhone 原型机。(https://www.theverge.com/2012/7/26/3189309/apple-sony-iphone-design-inspiration-iphone-4-looked-old) 但是，苹果已经成功地论证设备是他们早已设计好的，出现索尼式的乔纳森设计只是因为后来给设备选用了索尼的装饰风格。苹果的律师指出了差异:尼斯波利的设计作品是不对称的，而且苹果发布的iPhone没有采用任何索尼风格的按钮和开关。
 
