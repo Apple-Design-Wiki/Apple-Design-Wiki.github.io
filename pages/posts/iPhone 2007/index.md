@@ -162,7 +162,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 在专利战中公布的代号为 M68 手机的一组设计CAD。（https://www.cnet.com/pictures/dueling-designs-apple-v-samsung-pictures/）
 
-<ImgGallery mode='grid' :src='[
+<ImgGallery mode='grid' min-height='none' :src='[
 "/imgs/iPhone 2007/iphone-proto-2.webp",
 "/imgs/iPhone 2007/iphone-proto-13.webp",
 "/imgs/iPhone 2007/ipod-proto.webp",
