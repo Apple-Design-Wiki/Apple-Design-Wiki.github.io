@@ -192,7 +192,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-14.webp)
 ![alt text](./iphone-proto-8.webp) 
 
-<ImgGallery mode="flex" min-height='none' :src='[
+<ImgGallery mode='grid' min-height="none" :src='[
 "/imgs/iPhone 2007/Mar.13.2006_81.png", 
 "/imgs/iPhone 2007/Mar.13.2006_72.png", 
 "/imgs/iPhone 2007/Mar.13.2006_73.png", 
