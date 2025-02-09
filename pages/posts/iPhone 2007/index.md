@@ -187,7 +187,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-8.webp) 
 ![alt text](./iphone-proto-7.webp)
 
-![alt text](https://apple-design-wiki.github.io/assets//Mar.13.2006_81.png) 
+![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_81.png) 
 ![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_72.png) 
 ![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_73.png) 
 ![alt text](https://apple-design-wiki.github.io/assets/Mar.13.2006_74.png) 
