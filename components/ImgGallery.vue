@@ -109,7 +109,6 @@ watchEffect(async () => {
   --min-height: 10rem;
   --image-background: hsla(0, 0%, 0%, 0.2);
   --last-background: none;
-  --radius: 0.5rem;
 }
 
 .gallery {
