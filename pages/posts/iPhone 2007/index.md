@@ -323,7 +323,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 在最终设计中尝试的不同颜色。
 
-![alt text](original-iPhone-design-prototypesx.jpg)
+![alt text](./original-iPhone-design-prototypesx.jpg)
 
 ## 结构
 
