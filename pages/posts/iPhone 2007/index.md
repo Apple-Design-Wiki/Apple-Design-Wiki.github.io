@@ -309,14 +309,21 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ![alt text](./gov.uscourts.cand.239768.1439.1.pdf-Page13.png) 
 
-此外还有其他难以理解的模型
+此外还有一个难以理解的模型：
 
 ![alt text](./gov.uscourts.cand.239768.1439.1.pdf_Page21.png '这个八边形看起来像是用来凑数的')
 
-有些模型看起来像后来的 Nokia Lumia
+还有一些增加曲面的模型：
 
-![alt text](./gov.uscourts.cand.239768.1439.1.pdf-Page39.png) 
+![alt text](gov.uscourts.cand.239768.1439.1.pdf_Page24.png '这个曲面和背后奇怪的开孔今天来看也很怪异')
+
+有些模型看起来像后来的 Nokia Lumia：
+
+![alt text](./gov.uscourts.cand.239768.1439.1.pdf-Page39.png)
+
 ![alt text](./gov.uscourts.cand.239768.1439.1.pdf-Page37.png)
+
+
 
 除了外形之外，设计团队还关注多点触控的功能。当时的大多数触屏设备都采用电阻式触摸屏。这类触摸屏基本依靠两块导电材料制成的薄片制作薄片之间用空气隔开一条缝隙。按压屏幕的时候，两块薄片会接触，记录下触摸的动作。电阻式屏幕通常由塑料制成，PalmPilots掌上电脑和苹果的牛顿掌上电脑等笔触设备常用这种屏幕。
 
