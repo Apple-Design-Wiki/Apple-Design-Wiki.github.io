@@ -150,7 +150,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ![Purple 2005.8](./999e565_1658531760307-5c93ae972400007e064f2264.avif)
 
-![Purple 2005.8](sony_inspired_iphone_prototypes9_1020.1343331222.jpg)
+![Purple 2005.8](./sony_inspired_iphone_prototypes9_1020.1343331222.jpg)
 
 同样公布的模型
 
