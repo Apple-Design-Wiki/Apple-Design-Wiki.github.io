@@ -188,11 +188,11 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 还有另一组图纸，看起来更为圆润（Mar.13, 2006）(https://www.courtlistener.com/docket/4178089/1429/13/apple-inc-v-samsung-electronics-co-ltd/)
 
-![alt text](./iphopne-proto-3.webp)
-![alt text](./iphone-proto-14.webp)
 ![alt text](./iphone-proto-8.webp) 
 
 <ImgGallery mode='grid' min-height='none' :src='[
+"/imgs/iPhone 2007/iphopne-proto-3.webp",
+"/imgs/iPhone 2007//iphone-proto-14.webp",
 "/imgs/iPhone 2007/Mar.13.2006_81.png", 
 "/imgs/iPhone 2007/Mar.13.2006_72.png", 
 "/imgs/iPhone 2007/Mar.13.2006_73.png", 
