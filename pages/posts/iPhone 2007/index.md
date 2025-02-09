@@ -50,7 +50,11 @@ top: 20070109
 
 查德里和奥尔丁用粗糙的实物模型演示了手指的确可以控制平板电脑观看完演示后，乔纳森的工业设计团队开始设计更为完善的原型机。同样有着机械制造天赋的巴特·安德烈与丹尼尔·科斯特共同领导此次设计任务。
 
-在他们设计的众多原型机中，一个被苹果内部称为“035号模型”的原型机脱颖而出。它的诞生为苹果在 2004年3月17日这天申请相关专利奠定了基础。“035 号模型”是一个大号的白色平板（https://www.courtlistener.com/docket/4178089/1381/8/apple-inc-v-samsung-electronics-co-ltd/），看起来好像是当时一款白色塑料iBook的顶盖。尽管没有键盘，但它是依据iBook的零部件制造的。与2010年面世的iPod相比,“035号模型”没有主页按钮，也没有更厚实、更宽大的基座，但两台机器都采用了圆边设计，屏幕的周围都有一个黑色的边框。“035号模型”采用的是升级版MacOSX系统(这款软件的手机版--i0S数年之后才开发出来)
+在他们设计的众多原型机中，一个被苹果内部称为“035号模型”的原型机脱颖而出。它的诞生为苹果在 2004年3月17日这天申请相关专利奠定了基础。“035 号模型”是一个大号的白色平板
+
+（https://www.courtlistener.com/docket/4178089/1381/8/apple-inc-v-samsung-electronics-co-ltd/）
+
+看起来好像是当时一款白色塑料iBook的顶盖。尽管没有键盘，但它是依据iBook的零部件制造的。与2010年面世的iPod相比,“035号模型”没有主页按钮，也没有更厚实、更宽大的基座，但两台机器都采用了圆边设计，屏幕的周围都有一个黑色的边框。“035号模型”采用的是升级版MacOSX系统(这款软件的手机版--i0S数年之后才开发出来)
 
 ![pictures-of-035-iPad-prototype-3-780x520@2x.jpg](./pictures-of-035-iPad-prototype-3-780x520@2x.jpg)
 ![pictures-of-035-iPad-prototype-2-780x519@2x.jpg](./pictures-of-035-iPad-prototype-2-780x519@2x.jpg)
@@ -188,7 +192,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-14.webp)
 ![alt text](./iphone-proto-8.webp) 
 
-<ImgGallery mode='flex' :src='[
+<ImgGallery mode='flex' min-height="none" :src='[
 "/imgs/iPhone 2007/Mar.13.2006_81.png", 
 "/imgs/iPhone 2007/Mar.13.2006_72.png", 
 "/imgs/iPhone 2007/Mar.13.2006_73.png", 
