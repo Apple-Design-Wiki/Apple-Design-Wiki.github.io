@@ -187,16 +187,16 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-8.webp) 
 
 <ImgGallery mode='grid' :src='[
-"/imgs/Mar.13.2006_81.png", 
-"/imgs/Mar.13.2006_72.png", 
-"/imgs/Mar.13.2006_73.png", 
-"/imgs/Mar.13.2006_74.png", 
-"/imgs/Mar.13.2006_75.png", 
-"/imgs/Mar.13.2006_76.png", 
-"/imgs/Mar.13.2006_77.png", 
-"/imgs/Mar.13.2006_78.png", 
-"/imgs/Mar.13.2006_79.png", 
-"/imgs/Mar.13.2006_80.png",
+"/imgs/iPhone 2007/Mar.13.2006_81.png", 
+"/imgs/iPhone 2007/Mar.13.2006_72.png", 
+"/imgs/iPhone 2007/Mar.13.2006_73.png", 
+"/imgs/iPhone 2007/Mar.13.2006_74.png", 
+"/imgs/iPhone 2007/Mar.13.2006_75.png", 
+"/imgs/iPhone 2007/Mar.13.2006_76.png", 
+"/imgs/iPhone 2007/Mar.13.2006_77.png", 
+"/imgs/iPhone 2007/Mar.13.2006_78.png", 
+"/imgs/iPhone 2007/Mar.13.2006_79.png", 
+"/imgs/iPhone 2007/Mar.13.2006_80.png",
 ]' />
 
 还有令一组图纸，看起来是不同的方向，看起来完全圆润（Mar.15, 2006）。
@@ -204,15 +204,15 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-7.webp)
 
 <ImgGallery mode='grid' :src='[
-"/imgs/Mar.15.2006_90.png",
-"/imgs/Mar.15.2006_91.png", 
-"/imgs/Mar.15.2006_92.png", 
-"/imgs/Mar.15.2006_93.png", 
-"/imgs/Mar.15.2006_94.png", 
-"/imgs/Mar.15.2006_95.png", 
-"/imgs/Mar.15.2006_96.png", 
-"/imgs/Mar.15.2006_97.png", 
-"/imgs/Mar.15.2006_98.png", 
+"/imgs/iPhone 2007/Mar.15.2006_90.png",
+"/imgs/iPhone 2007/Mar.15.2006_91.png", 
+"/imgs/iPhone 2007/Mar.15.2006_92.png", 
+"/imgs/iPhone 2007/Mar.15.2006_93.png", 
+"/imgs/iPhone 2007/Mar.15.2006_94.png", 
+"/imgs/iPhone 2007/Mar.15.2006_95.png", 
+"/imgs/iPhone 2007/Mar.15.2006_96.png", 
+"/imgs/iPhone 2007/Mar.15.2006_97.png", 
+"/imgs/iPhone 2007/Mar.15.2006_98.png", 
 ]' />
 
 然而问题很快就出现了。Extrudo的边缘太硬，设计师们把它贴在耳旁之后脸就被戳疼了。这点让乔布斯尤其痛恨。为了使边缘变得柔和，他们给边角裹上了塑料，这恰好也为无线电天线提供了便利。iPhone有3个无线接收装置:Wi-Fi、蓝牙和无线电。但无线电波不能穿透金属的外壳，因此盖顶很有必要选择塑料材质。
