@@ -236,7 +236,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 ![alt text](./image-2.png)
 
-<ImageGrid mode:grid :src='[
+<ImageGallery mode:grid :src='[
 "https://apple-design-wiki.github.io/assets/image-3.png",
 "https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes21_1020.1343331203.jpg", 
 "https://apple-design-wiki.github.io/assets/sony_inspired_iphone_prototypes_1020.1343331238.jpg", 
