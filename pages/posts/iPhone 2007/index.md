@@ -142,7 +142,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 在专利战中公布的代号为 M68 手机的一张 CAD，看起来似乎采用了三明治设计。
 
-![alt text](iphone-proto-6.webp)
+![alt text](./iphone-proto-6.webp)
 
 ![Purple 2005.8](./999e565_1658531760307-5c93ae972400007e064f2264.avif)
 
