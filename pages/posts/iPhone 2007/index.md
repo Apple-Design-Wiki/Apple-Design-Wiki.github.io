@@ -102,7 +102,7 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 
 两年后的苹果设备及配件博览会上，在介绍iPhone时，乔布斯开玩笑似的在iPhone的屏幕上展示了一张带有旋转拨号器的iPod图片。他说，这幅图告诉我们，不要去制作这样一款新手机。观众看到以后捧腹大笑，可很少有人知道苹果当初差点就真的推出了这样一部手机。
 
-## 新管理团队
+## 造型
 
 在公司决定继续推进P2计划后，乔纳森接受任命，负责P2的工业设计，法德尔负责工程设计，而之前负责MacOSX系统的福斯特尔也被委以新的任务，负责将电脑的操作系统改造成全新的手机操作系统，
 
@@ -149,6 +149,8 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 ![alt text](./iphone-proto-6.webp)
 
 ![Purple 2005.8](./999e565_1658531760307-5c93ae972400007e064f2264.avif)
+
+![Purple 2005.8](sony_inspired_iphone_prototypes9_1020.1343331222.jpg)
 
 同样公布的模型
 
@@ -258,7 +260,6 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes6_1020.1343331226.jpg", 
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes7_1020.1343331227.jpg", 
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes8_1020.1343331223.jpg", 
-"/imgs/iPhone 2007/sony_inspired_iphone_prototypes9_1020.1343331222.jpg", 
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes11_1020.1343331218.jpg", 
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes12_1020.1343331216.jpg", 
 "/imgs/iPhone 2007/sony_inspired_iphone_prototypes13_1020.1343331215.jpg", 
@@ -287,6 +288,20 @@ P1计划的领导人是法德尔，他的团队提出了让手机与现有iPod�
 “对于天线和声学，我们都还不太了解，也不太了解如何把所有需要的技术放置在一起。”一位前苹果主管说，“它倒能正常运作，就是外观不够吸引人。”
 
 设计走入了死胡同，乔纳森的队伍只好调转方向。他们找出开发初期制作的一个旧模型，当初是因为更青睐三明治和 Extrudo 而抛弃了它。这个被遗弃的模型与苹果未来真正出货上市的版本已经非常相似。它的屏幕对接严丝合缝，只有中间插入了一个主页按钮。它后盖的曲线柔和，与前面的显示屏咬合得天衣无缝，就像最初的iPod。最重要的是，它符合乔纳森关于“无边际泳池”的想法。关机后，手机变成了一个完整的漆黑面板。一启动开关，屏幕又会神奇地从面板里显现出来。
+
+<ImgGallery mode='grid' min-height='none' :src='[
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_99.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_100.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_102.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_103.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_104.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_105.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_106.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_107.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_108.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_109.png", 
+"/imgs/iPhone 2007/gov.uscourts.cand.239768.1439.6.pdf_110.png",
+]' />
 
 这是个“灵光一现”的时刻。“我们从当初忽视的东西里面淘到了宝。斯特林格说,“当时我们给它增加了一些细节，确实在它身上花了些功夫然后就断定这绝对是那时候最适合我们的选择。”斯特林格回想起在最终为iPhone选定了没有任何装饰的设计之后，他心里的一块石头才落了地。“这是我们最漂亮的设计。”他评价说。可那款手机正面既没有公司的商标，也没有产品的名称。斯特林格解释说:“我们也从制作iPod中获得了一些经验那就是，如果你的设计是原创，而且漂亮得惊人，那你就不需要贴上多余的东西。这种设计已然成为一个文化符号，设计本身就能代表自己。”
 
