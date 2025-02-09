@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { breakpointsTailwind, useBreakpoints } from '@vueuse/core'
+import { breakpointsTailwind, isClient, useBreakpoints } from '@vueuse/core'
 import mediumZoom from 'medium-zoom'
 import { computed, ref, watchEffect } from 'vue'
 
@@ -47,6 +47,9 @@ function getImageSize(url: string): Promise<{ width: number, height: number }> {
 }
 
 watchEffect(async () => {
+  if (!isClient)
+    return
+
   const sizes = await Promise.all(
     images.value.map(async (item) => {
       try {
