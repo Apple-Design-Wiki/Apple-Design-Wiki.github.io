@@ -116,3 +116,21 @@ May.4,2004
 ## 制造
 
 后部外壳由 5052 铝合金经冷、热锻造而成。徽标由无线电透明 ABS 加工而成，以增强无线性能。
+
+## 图库
+
+![alt text](./csm_16-4334-2010-1_82b6c6c2c5.jpg) 
+![alt text](hardware-01-20100127.jpg) 
+![alt text](hardware-02-20100430.jpg) 
+![alt text](hardware-03-20100127.jpg) 
+![alt text](hardware-04-20100127.jpg) 
+![alt text](hero_20100127.jpg) 
+![alt text](led_20100127.jpg) 
+![alt text](thin_20100127.jpg) 
+![alt text](hero3_20100403.png) 
+![alt text](hero5_20100225.png) 
+![alt text](hero6_20100225.png) 
+![alt text](ipad_2up_fbgame2.png) 
+![alt text](ipad_2up_hometimes2-1.png) 
+![alt text](multi_touch_20100225.png) 
+![alt text](title_image.png)
