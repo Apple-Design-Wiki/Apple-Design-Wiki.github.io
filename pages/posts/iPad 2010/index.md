@@ -44,7 +44,7 @@ top: 20100127
 
 Pre-2004 的CAD图纸
 
-![alt text](ipad-proto-1-4.png)
+![alt text](./ipad-proto-1-4.png)
 
 另一个 Jan.3, 2006 创建的 CAD 图纸（https://www.courtlistener.com/docket/4178089/1429/13/apple-inc-v-samsung-electronics-co-ltd/）
 
