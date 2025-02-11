@@ -40,7 +40,7 @@ top: 20100127
 
 第一个版本是基于Extrudo理念设计的，其基础是一种和iPodmini类似的铝材盒子，只不过比后者更大一些，也更扁平。这一版本的设计倡导者是克里斯托斯·斯特林格，他曾经是Extrudo版iPhone的设计者。和之前设计iPhone手机时一样，斯特林格试图用一片挤压成型的铝片作为iPad的材料另外还配备用于接收 Wi-Fi和收音机信号的塑料外壳。然而，和设计iPhone不同，iPad完全不用考虑边角是否锋利的问题，因为没人会把平板电脑按在自己脸上讲话。
 
-目前无法找到这个模型的图片，在苹果三星的专利战中，有一个 Jan.3, 2006 创建的 CAD 图纸
+目前无法找到这个模型的图片，在苹果三星的专利战中，有一个 Jan.3, 2006 创建的 CAD 图纸（https://www.courtlistener.com/docket/4178089/1429/13/apple-inc-v-samsung-electronics-co-ltd/）
 
 ![alt text](./gov.uscourts.cand.239768.1429.13.pdfPage85.png) 
 ![alt text](./gov.uscourts.cand.239768.1429.13.pdfPage83.png)
@@ -120,7 +120,6 @@ May.4,2004
 ## 图库
 
 ![alt text](./csm_16-4334-2010-1_82b6c6c2c5.jpg) 
-![alt text](./hardware-01-20100127.jpg) 
 ![alt text](./hardware-02-20100430.jpg) 
 ![alt text](./hardware-03-20100127.jpg) 
 ![alt text](./hardware-04-20100127.jpg) 
@@ -133,4 +132,3 @@ May.4,2004
 ![alt text](./ipad_2up_fbgame2.png) 
 ![alt text](./ipad_2up_hometimes2-1.png) 
 ![alt text](./multi_touch_20100225.png) 
-![alt text](./title_image.png)
