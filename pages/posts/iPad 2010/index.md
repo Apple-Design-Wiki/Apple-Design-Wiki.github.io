@@ -40,7 +40,13 @@ top: 20100127
 
 第一个版本是基于Extrudo理念设计的，其基础是一种和iPodmini类似的铝材盒子，只不过比后者更大一些，也更扁平。这一版本的设计倡导者是克里斯托斯·斯特林格，他曾经是Extrudo版iPhone的设计者。和之前设计iPhone手机时一样，斯特林格试图用一片挤压成型的铝片作为iPad的材料另外还配备用于接收 Wi-Fi和收音机信号的塑料外壳。然而，和设计iPhone不同，iPad完全不用考虑边角是否锋利的问题，因为没人会把平板电脑按在自己脸上讲话。
 
-目前无法找到这个模型的图片，在苹果三星的专利战中，有一个 Jan.3, 2006 创建的 CAD 图纸（https://www.courtlistener.com/docket/4178089/1429/13/apple-inc-v-samsung-electronics-co-ltd/）
+目前无法找到这个模型的图片，在苹果三星的专利战中，
+
+Pre-2004 的CAD图纸
+
+![alt text](ipad-proto-1-4.png)
+
+另一个 Jan.3, 2006 创建的 CAD 图纸（https://www.courtlistener.com/docket/4178089/1429/13/apple-inc-v-samsung-electronics-co-ltd/）
 
 ![alt text](./gov.uscourts.cand.239768.1429.13.pdfPage85.png) 
 ![alt text](./gov.uscourts.cand.239768.1429.13.pdfPage83.png)
@@ -65,6 +71,8 @@ top: 20100127
 随着设计工作的不断推进，新的产品模型变得更薄，边缘也更尖锐。部分模型使用铝制后壳，但是乔纳森的团队更倾向于转向三明治式设计。然而有个问题一直困扰着乔布斯:不知是什么原因,iPad看起来好像不够休闲随性乔纳森指出了问题的关键所在。iPad需要一个提示，即释放某种信号让人们感觉它操作起来很方便，还可以被单手拿起。像往常一样，乔纳森希望邀请用户去触摸设备，将设备拿起来握在手里，从而获得触觉体验
 
 ![alt text](./gov.uscourts.cand.239768.1429.13.pdf100.png '疑似三明治版本的模型')
+
+![alt text](./ipad-proto-1.png)
 
 照这样推理的话，下一步就是给iPad加一个把手。于是，乔纳森的团队开始探索这种方式，以期待它更加方便。随后的一个样机就呈现出这种效果:带着一对夸张的塑料把手，看起来像个丑陋无比的快餐托盘。
 
@@ -104,6 +112,21 @@ May.4,2004
 "/imgs/iPad 2010/gov.uscourts.cand.239768.1429.13.pdf_139.png", 
 "/imgs/iPad 2010/gov.uscourts.cand.239768.1429.13.pdf_140.png",
 "/imgs/iPad 2010/gov.uscourts.cand.239768.1429.13.pdf_141.png", 
+]' />
+
+看起来比较接近的另一组CAD
+
+<ImgGallery mode='grid' min-height='none' :src='[
+"/imgs/iPad 2010/ipad-proto-1-3.png", 
+"/imgs/iPad 2010/ipad-proto-1-2.png",
+]' />
+
+另一组图纸和渲染（时间 Pre-2004）
+
+<ImgGallery mode='grid' min-height='none' :src='[
+"/imgs/iPad 2010/ipad-proto-1-1.png", 
+"/imgs/iPad 2010/ipad-proto-1-5.png", 
+"/imgs/iPad 2010/ipad-proto-1-6.png",
 ]' />
 
 不幸的是没有找到对应的的原型。而且设计者们为了赋子iPad一定的硬度，不得不在机身上增加一层薄薄的侧壁。然而，尽管强度达到了，机身却比原计划的塑料版本更厚，也更笨重。
