@@ -422,16 +422,19 @@ Apr. 2006
 
 ## UI
 
-### 锁定屏幕和电话接听
+### 锁定屏幕和电话
 
 两个界面非常相似，当在锁定屏幕下有来电时，将出现滑动来接听，滑动解锁按钮将变为绿色。在解锁状态下则出现绿色和红色的接听和挂断按钮。
 
 <div class="flex flex-col">
 
-<div class="flex grid-cols-2 justify-center items-center">
+<div class="flex grid-cols-3 justify-center items-center">
 
 ![alt text](./F1V05OOG962KD5F.png)
+
 ![alt text](./imagem_iphone_review19.jpg)
+
+![alt text](./iPhoneCall.png)
 
 </div>
 
@@ -466,6 +469,12 @@ Apr. 2006
 相机和真实相机一样有一个光圈闭合过程
 
 ![alt text](./camera.png)
+
+### 天气
+
+天气是为了提示可以左右滑动，所以使用了卡片视图
+
+![alt text](./iphone-screen-capture-weather-app.jpg)
 
 ### 计算器
 
