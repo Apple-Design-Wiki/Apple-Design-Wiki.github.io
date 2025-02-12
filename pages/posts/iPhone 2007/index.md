@@ -460,6 +460,7 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/2Ifplsb.png", 
 "/imgs/iPhone 2007/iPhoneOS/13nf7V1.png", 
 "/imgs/iPhone 2007/iPhoneOS/1274020115.or.62223.png",
+"/imgs/iPhone 2007/iPhoneOS/1274020154.or.15470.png",
 ]' />
 
 
