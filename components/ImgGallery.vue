@@ -108,7 +108,8 @@ watchEffect(async () => {
 <style lang="scss" scoped>
 /* variables */
 .gallery {
-  --gap: 1rem;
+  // NOTE: Old value was 1rem #48
+  --gap: 0.5rem;
   --min-height: 10rem;
   --image-background: hsla(0, 0%, 0%, 0.2);
   --last-background: none;
