@@ -422,6 +422,35 @@ Apr. 2006
 
 ## UI
 
+### Dock
+
+主屏幕底部的Dock区域，与 Mac OS X 10.4 小组件库的区域看起来很像 
+
+<div class="flex flex-col">
+
+<div class="flex grid-cols-2 justify-center items-center">
+
+![alt text](./IPhoneOS_1.1.4_SpringBoard.png)
+![alt text](./10-4-Tiger-Dashboard.png)
+
+</div>
+
+</div>
+
+他们看起来是与 Power Mac G5 和 Mac Pro 2005 的孔相呼应
+
+![alt text](./gallery-big-06.jpg)
+
+### 图库
+
+<ImgGallery mode='grid' min-height='none' :src='[
+"/imgs/iPhone 2007/iPhoneOS/pENJnVR.png", 
+"/imgs/iPhone 2007/iPhoneOS/pQ9bIQY.png", 
+"/imgs/iPhone 2007/iPhoneOS/TC6g2Ih.png", 
+"/imgs/iPhone 2007/iPhoneOS/XHOKURl.png", 
+"/imgs/iPhone 2007/iPhoneOS/NabhEsk.png", 
+"/imgs/iPhone 2007/iPhoneOS/oxtJRZl.png",
+]' />
 
 
 ## 图库
