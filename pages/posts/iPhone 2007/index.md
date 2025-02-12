@@ -446,6 +446,22 @@ Apr. 2006
 
 ![alt text](./gallery-big-06.jpg)
 
+### 计算器
+
+计算器致敬了博朗的 ET44 计算器，显示屏区域稍有不同。
+
+<div class="flex flex-col">
+
+<div class="flex grid-cols-2 justify-center items-center">
+
+![alt text](./ET44.png)
+
+![alt text](./1274020154.or.15470.png)
+
+</div>
+
+</div>
+
 ### 图库
 
 <ImgGallery mode='grid' min-height='none' :src='[
@@ -461,7 +477,6 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/2Ifplsb.png", 
 "/imgs/iPhone 2007/iPhoneOS/13nf7V1.png", 
 "/imgs/iPhone 2007/iPhoneOS/1274020115.or.62223.png",
-"/imgs/iPhone 2007/iPhoneOS/1274020154.or.15470.png",
 ]' />
 
 
