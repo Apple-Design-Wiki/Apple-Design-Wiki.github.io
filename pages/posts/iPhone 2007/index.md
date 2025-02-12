@@ -422,6 +422,21 @@ Apr. 2006
 
 ## UI
 
+### 锁定屏幕和电话接听
+
+两个界面非常相似，当在锁定屏幕下有来电时，将出现滑动来接听，滑动解锁按钮将变为绿色。在解锁状态下则出现绿色和红色的接听和挂断按钮。
+
+<div class="flex flex-col">
+
+<div class="flex grid-cols-2 justify-center items-center">
+
+![alt text](./F1V05OOG962KD5F.png)
+![alt text](./imagem_iphone_review19.jpg)
+
+</div>
+
+</div>
+
 ### 桌面（SpringBoard）
 
 从 iPhoneOS 1.0 到 iOS 3，主屏幕都无法设置壁纸。除Dock外是纯黑色的。与黑色面板融为一体。
@@ -446,6 +461,12 @@ Apr. 2006
 
 ![alt text](./gallery-big-06.jpg)
 
+### 相机
+
+相机和真实相机一样有一个光圈闭合过程
+
+![alt text](./camera.png)
+
 ### 计算器
 
 计算器致敬了博朗的 ET44 计算器，显示屏区域稍有不同。
@@ -462,6 +483,26 @@ Apr. 2006
 
 </div>
 
+### 备忘录
+
+现在看起来这太过于媚俗，但在2007年，Jony Ive 认为，这种效果适合 iPhone 的发布，当时“我们非常紧张——我们担心人们会如何从触摸会移动、会发出噪音的物理按钮过渡到触摸不会移动的玻璃。”。乔布斯在致 Ive 的邮件中也持同样的观点（法院文件来源请求）
+
+<div class="flex flex-col">
+
+<div class="flex grid-cols-2 justify-center items-center">
+
+![alt text](./notes-list.jpg) 
+
+![alt text](./notes-detail.jpg)
+
+</div>
+
+</div>
+
+### 警告对话框
+
+![alt text](./link-2.png)
+
 ### 图库
 
 <ImgGallery mode='grid' min-height='none' :src='[
@@ -477,6 +518,12 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/2Ifplsb.png", 
 "/imgs/iPhone 2007/iPhoneOS/13nf7V1.png", 
 "/imgs/iPhone 2007/iPhoneOS/1274020115.or.62223.png",
+"/imgs/iPhone 2007/iPhoneOS/cal.png",
+"/imgs/iPhone 2007/iPhoneOS/Ma8Q9RwHEGonSaVoqdsqi4.png",
+"/imgs/iPhone 2007/iPhoneOS/screenshot-2008-06-10-022326-0700-1.png",
+"/imgs/iPhone 2007/iPhoneOS/HaACB.png",
+"/imgs/iPhone 2007/iPhoneOS/youtube.jpg",
+"/imgs/iPhone 2007/iPhoneOS/iPHoneOS2_imagem_iphone_review16.jpg",
 ]' />
 
 
