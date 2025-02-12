@@ -435,6 +435,7 @@ Apr. 2006
 <div class="flex grid-cols-2 justify-center items-center">
 
 ![alt text](./IPhoneOS_1.1.4_SpringBoard.png)
+
 ![alt text](./10-4-Tiger-Dashboard.png)
 
 </div>
