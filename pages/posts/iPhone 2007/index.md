@@ -422,6 +422,10 @@ Apr. 2006
 
 ## UI
 
+### 桌面（SpringBoard）
+
+从 iPhoneOS 1.0 到 iOS 3，主屏幕都无法设置壁纸。除Dock外是纯黑色的。与黑色面板融为一体。
+
 ### Dock
 
 主屏幕底部的Dock区域，与 Mac OS X 10.4 小组件库的区域看起来很像 
@@ -450,6 +454,12 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/XHOKURl.png", 
 "/imgs/iPhone 2007/iPhoneOS/NabhEsk.png", 
 "/imgs/iPhone 2007/iPhoneOS/oxtJRZl.png",
+"/imgs/iPhone 2007/iPhoneOS/1274020123.or.74592.png", 
+"/imgs/iPhone 2007/iPhoneOS/1274020140.or.12162.png", 
+"/imgs/iPhone 2007/iPhoneOS/1274020165.or.40479.png", 
+"/imgs/iPhone 2007/iPhoneOS/2Ifplsb.png", 
+"/imgs/iPhone 2007/iPhoneOS/13nf7V1.png", 
+"/imgs/iPhone 2007/iPhoneOS/1274020115.or.62223.png",
 ]' />
 
 
