@@ -476,6 +476,8 @@ Apr. 2006
 
 ![alt text](./iphone-screen-capture-weather-app.jpg)
 
+![alt text](./5544.png)
+
 ### 计算器
 
 计算器致敬了博朗的 ET44 计算器，显示屏区域稍有不同。
@@ -533,6 +535,8 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/HaACB.png",
 "/imgs/iPhone 2007/iPhoneOS/youtube.jpg",
 "/imgs/iPhone 2007/iPhoneOS/iPHoneOS2_imagem_iphone_review16.jpg",
+"/imgs/iPhone 2007/iPhoneOS/timer.jpg",
+"/imgs/iPhone 2007/iPhoneOS/stopwatch.webp",
 ]' />
 
 
