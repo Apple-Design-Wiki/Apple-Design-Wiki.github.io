@@ -124,17 +124,19 @@ watchEffect(async () => {
     background-color: var(--image-background);
     max-height: var(--max-height, none);
 
-    box-shadow:
-      0 0.125rem 0.25rem rgb(0 0 0 / 14%),
-      0 0 0.125rem rgb(0 0 0 / 12%);
+    // NOTE: #47
+    // box-shadow:
+    //   0 0.125rem 0.25rem rgb(0 0 0 / 14%),
+    //   0 0 0.125rem rgb(0 0 0 / 12%);
 
     transition: opacity 500ms linear !important;
 
     &:hover {
       opacity: 1;
-      box-shadow:
-        0 0.25rem 0.25rem rgb(0 0 0 / 14%),
-        0 0 0.25rem rgb(0 0 0 / 12%);
+      // NOTE: #47
+      // box-shadow:
+      //   0 0.25rem 0.25rem rgb(0 0 0 / 14%),
+      //   0 0 0.25rem rgb(0 0 0 / 12%);
 
       &::after {
         opacity: 1;
