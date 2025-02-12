@@ -108,7 +108,8 @@ watchEffect(async () => {
 <style lang="scss" scoped>
 /* variables */
 .gallery {
-  --gap: 1rem;
+  // NOTE: Old value was 1rem #48
+  --gap: 0.5rem;
   --min-height: 10rem;
   --image-background: hsla(0, 0%, 0%, 0.2);
   --last-background: none;
@@ -124,17 +125,19 @@ watchEffect(async () => {
     background-color: var(--image-background);
     max-height: var(--max-height, none);
 
-    box-shadow:
-      0 0.125rem 0.25rem rgb(0 0 0 / 14%),
-      0 0 0.125rem rgb(0 0 0 / 12%);
+    // NOTE: #47
+    // box-shadow:
+    //   0 0.125rem 0.25rem rgb(0 0 0 / 14%),
+    //   0 0 0.125rem rgb(0 0 0 / 12%);
 
     transition: opacity 500ms linear !important;
 
     &:hover {
       opacity: 1;
-      box-shadow:
-        0 0.25rem 0.25rem rgb(0 0 0 / 14%),
-        0 0 0.25rem rgb(0 0 0 / 12%);
+      // NOTE: #47
+      // box-shadow:
+      //   0 0.25rem 0.25rem rgb(0 0 0 / 14%),
+      //   0 0 0.25rem rgb(0 0 0 / 12%);
 
       &::after {
         opacity: 1;
