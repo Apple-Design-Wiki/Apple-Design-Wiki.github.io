@@ -1,0 +1,1 @@
+import{u as n}from"./chunks/vue-router.CfYH2C4A.js";import{v as t,o as a,N as r,U as s,L as u}from"./framework.BFYkTK8z.js";const c=t({__name:"404",setup(p){const o=n();return a(()=>{o.push({name:window.location.pathname})}),(m,e)=>(u(),r("div",null,e[0]||(e[0]=[s("p",null,"Routing based on URL query parameter...",-1)])))}});export{c as default};
