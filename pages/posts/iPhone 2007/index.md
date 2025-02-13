@@ -434,6 +434,8 @@ Apr. 2006
 
 ![alt text](./F1V05OOG962KD5F.png)
 
+![alt text](./SlideToAnswer.png)
+
 ![alt text](./imagem_iphone_review19.jpg)
 
 ![alt text](./iPhoneCall.png)
