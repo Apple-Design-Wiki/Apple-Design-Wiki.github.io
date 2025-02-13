@@ -561,9 +561,9 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/iPHoneOS2_imagem_iphone_review16.jpg",
 "/imgs/iPhone 2007/iPhoneOS/7468.png",
 "/imgs/iPhone 2007/iPhoneOS/7467.png",
-"/imgs/iPhone 2007/iPhoneOS/IMG_0068.PNG",
-"/imgs/iPhone 2007/iPhoneOS/IMG_0069.PNG",
-"/imgs/iPhone 2007/iPhoneOS/IMG_0070.PNG",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0068.png",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0069.png",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0070.png",
 ]' />
 
 
