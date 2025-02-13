@@ -432,7 +432,7 @@ Apr. 2006
 
 <div class="flex grid-cols-4 justify-center items-center apple-custom-img">
 
-![alt text](./F1V05OOG962KD5F.png)![alt text](image-4.png)
+![alt text](./F1V05OOG962KD5F.png)
 
 ![alt text](./imagem_iphone_review19.jpg)
 
