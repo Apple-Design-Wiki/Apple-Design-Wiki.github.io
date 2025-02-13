@@ -456,7 +456,7 @@ Apr. 2006
 
 <div class="flex flex-col">
 
-<div class="flex grid-cols-2 justify-center items-center">
+<div class="flex grid-cols-2 justify-center items-center apple-custom-img">
 
 ![alt text](./IPhoneOS_1.1.4_SpringBoard.png)
 
@@ -482,7 +482,7 @@ Apr. 2006
 
 <div class="flex flex-col">
 
-<div class="flex grid-cols-4 justify-center items-center">
+<div class="flex grid-cols-4 justify-center items-center apple-custom-img">
 
 ![alt text](./IMG_0065.png)
 
