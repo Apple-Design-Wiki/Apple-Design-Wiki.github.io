@@ -71,3 +71,17 @@ body {
 .nav-content-header > a {
   height: 100%;
 }
+
+.apple-custom-img {
+  figure {
+    margin-inline: calc(0.5rem / 2);
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
