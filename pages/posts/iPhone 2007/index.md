@@ -474,6 +474,26 @@ Apr. 2006
 
 ![alt text](./camera.png)
 
+### 照片
+
+照片app使用了黑色半透明的标题栏和工具栏
+
+<div class="flex flex-col">
+
+<div class="flex grid-cols-4 justify-center items-center">
+
+![alt text](./IMG_0065.PNG) 
+
+![alt text](./IMG_0060.PNG) 
+
+![alt text](./IMG_0061.PNG) 
+
+![alt text](./IMG_0063.PNG)
+
+</div>
+
+</div>
+
 ### 天气
 
 天气是为了提示可以左右滑动，所以使用了卡片视图
@@ -541,9 +561,9 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/iPHoneOS2_imagem_iphone_review16.jpg",
 "/imgs/iPhone 2007/iPhoneOS/7468.png",
 "/imgs/iPhone 2007/iPhoneOS/7467.png",
-"/imgs/iPhone 2007/iPhoneOS/IMG_0068.png",
-"/imgs/iPhone 2007/iPhoneOS/IMG_0069.png",
-"/imgs/iPhone 2007/iPhoneOS/IMG_0070.png",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0068.PNG",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0069.PNG",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0070.PNG",
 ]' />
 
 
