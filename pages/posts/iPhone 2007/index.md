@@ -428,13 +428,15 @@ Apr. 2006
 
 <div class="flex flex-col">
 
-<div class="flex grid-cols-3 justify-center items-center">
+<div class="flex grid-cols-4 justify-center items-center">
 
 ![alt text](./F1V05OOG962KD5F.png)
 
 ![alt text](./imagem_iphone_review19.jpg)
 
 ![alt text](./iPhoneCall.png)
+
+![alt text](./wr.jpg '闪信')
 
 </div>
 
@@ -537,6 +539,8 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/iPHoneOS2_imagem_iphone_review16.jpg",
 "/imgs/iPhone 2007/iPhoneOS/timer.jpg",
 "/imgs/iPhone 2007/iPhoneOS/stopwatch.webp",
+"/imgs/iPhone 2007/iPhoneOS/7468.png",
+"/imgs/iPhone 2007/iPhoneOS/7467.png",
 ]' />
 
 
