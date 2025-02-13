@@ -482,13 +482,13 @@ Apr. 2006
 
 <div class="flex grid-cols-4 justify-center items-center">
 
-![alt text](./IMG_0065.PNG) 
+![alt text](./IMG_0065.png) 
 
-![alt text](./IMG_0060.PNG) 
+![alt text](./IMG_0060.png) 
 
-![alt text](./IMG_0061.PNG) 
+![alt text](./IMG_0061.png) 
 
-![alt text](./IMG_0063.PNG)
+![alt text](./IMG_0063.png)
 
 </div>
 
