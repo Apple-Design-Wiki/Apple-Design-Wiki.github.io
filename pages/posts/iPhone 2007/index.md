@@ -10,7 +10,7 @@ top: 20070109
 
 # iPhone, 2007
 
-## 开发历程
+## 多点触控技术
 
 从2003年年末的一个早上，就在iPodmini发布前，乔纳森和他的团队像往常一样，围坐在工作室的餐桌旁，举行每两周一次的头脑风暴会议。会上，工业设计师邓肯·克尔对产品做了展示说明。克尔是在1999年加入苹果的设计团队的，之前曾在艾迪欧工作过几年，有丰富的工程学经验，平时喜欢摆弄一些高科技产品。
 
@@ -59,6 +59,8 @@ top: 20070109
 ![pictures-of-035-iPad-prototype-3-780x520@2x.jpg](./pictures-of-035-iPad-prototype-3-780x520@2x.jpg)
 ![pictures-of-035-iPad-prototype-2-780x519@2x.jpg](./pictures-of-035-iPad-prototype-2-780x519@2x.jpg)
 ![477638-comparo1.avif](./477638-comparo1.avif)
+
+## 产品定义
 
 正当乔纳森的团队致力于设计平板电脑原型机时，苹果的高层们却在为iPod忧心:iPod的销量固然一路走高，2003年的销量为200万部，2004年为1000万部，2005年增加到了4000万部;而就市场趋势来看，手机终将取代iPod。当时，大部分人出行都带着iPod和手机。虽然手机只能储存几首歌曲，但趋势已愈发明朗，早晚会有人将这两种设备合二为一，也许那个人就是苹果的竞争对手。
 
@@ -537,10 +539,11 @@ Apr. 2006
 "/imgs/iPhone 2007/iPhoneOS/HaACB.png",
 "/imgs/iPhone 2007/iPhoneOS/youtube.jpg",
 "/imgs/iPhone 2007/iPhoneOS/iPHoneOS2_imagem_iphone_review16.jpg",
-"/imgs/iPhone 2007/iPhoneOS/timer.jpg",
-"/imgs/iPhone 2007/iPhoneOS/stopwatch.webp",
 "/imgs/iPhone 2007/iPhoneOS/7468.png",
 "/imgs/iPhone 2007/iPhoneOS/7467.png",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0068.png",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0069.png",
+"/imgs/iPhone 2007/iPhoneOS/IMG_0070.png",
 ]' />
 
 
